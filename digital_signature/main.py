@@ -3,7 +3,8 @@ import os
 
 import sys
 
-import digital_signature.rsa as rsa
+# import digital_signature.rsa as rsa
+import rsa
 
 FILENAME_IN = 'test.jpg'
 
