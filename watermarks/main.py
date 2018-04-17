@@ -22,18 +22,25 @@ def get_next_pixel(img):
 
 
 def set_bit(value, bit):
+    def set(value_, bit_):
+        if bit_ == 1:
+            return value_ | (1 << 0)
+        else:
+            return value_ & (~1)
+
     if type(value) == type(()):
-        value = value[0]
-    if bit == 1:
-        return value | (1 << 0)
-    else:
-        return value & (~1)
+        value = (set(value[0], bit), *value[1:])
+        return value
+    return set(value, bit)
 
 
 def get_bit(value):
+    def get(value_):
+        return value_ & 1
+
     if type(value) == type(()):
-        value = value[0]
-    return value & 1
+        return get(value[0])
+    return get(value)
 
 
 def set_msg(args):
