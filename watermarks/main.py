@@ -118,8 +118,8 @@ def get_msg(args):
 def main():
     # args = init_vars()
     file = '44.png'
-    set_msg(file)
-    get_msg('withmsg_' + file)
+    #set_msg(file)
+    get_msg(file)
 
 
 if __name__ == '__main__':
