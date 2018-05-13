@@ -1,7 +1,5 @@
-import pefile
+import random
 
-FILE = 'main_py.exe'
-
-p = pefile.ResourceDirData()
-pp = pefile.PE(FILE).get_resources_strings()
-print(p)
+for i in range(100):
+    with open('CONST.dat', 'w') as f:
+        f.write(random.randint(2, 40))
