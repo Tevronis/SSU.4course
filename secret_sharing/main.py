@@ -65,19 +65,19 @@ def keys_mod():
 
 
 def crypt_mod():
-    file = input('Што шифруем?: ')
+    file = input('Что шифруем?: ')
     key_file = input('Чьим ключом?: ')
     with open(key_file) as f:
         key = list(map(float, f.readline().split()))
     with open(file, 'rb') as f:
         text = f.read()
     text_crypt = crypt(text, key)
-    with open('crypted', 'w') as f:
+    with open('crypted_' + str(int(key[1])), 'w') as f:
         f.write(' '.join(map(str, text_crypt)))
 
 
 def decrypt_mod():
-    file = input('Какой файл?: ')
+    file = input('Какой файл расшифровываем?: ')
     key_file = input('Чьим ключом?: ')
     with open(file, 'rb') as f:
         text = list(map(int, f.read().split()))
@@ -90,7 +90,7 @@ def decrypt_mod():
 
 def main():
     mod = int(input('Режим работы: 1 - создать n ключей\n2 - зашифровать одним из ключей\n3 - дешифровать одним из '
-                'ключей\n4 - просто прогон'))
+                    'ключей\n4 - просто прогон\n'))
 
     if mod == 1:
         keys_mod()
