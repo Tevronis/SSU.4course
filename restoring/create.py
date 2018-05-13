@@ -1,7 +1,4 @@
 import os
-import shutil
-
-import pefile
 
 FILENAME_IN = 'main1.exe'
 FILENAME_ADD = 'main2.exe'
@@ -34,6 +31,7 @@ def stick_files(file1, file2, FILENAME_STICK):
 
 def main():
     stick_files(FILENAME_IN, FILENAME_ADD, FILENAME_STICK)
+    os.remove('main1.exe')
 
 
 if __name__ == '__main__':

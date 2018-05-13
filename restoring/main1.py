@@ -1,19 +1,20 @@
 import os
-import subprocess
 from time import sleep, time
 
 import psutil
 
 FILE = 'main2.exe'
+CUR_FILE = 'main1.exe'
 
 
 def timeout():
-    sleep(3)
-    print("Подождал 3 сек")
+    sleep(7)
+    print("Подождал 7 сек")
     return True
 
 
 def write_data(file_name, data1, data2, name1, name2):
+    print('Созраняем данные с разделителем: {} {} в файл {}'.format(name1, name2, file_name))
     with open(file_name, 'bw') as f:
         f.write(data1)  # first file
 
@@ -38,18 +39,24 @@ def stick_files(file1, file2, FILENAME_STICK):
 
 
 def unstick_files(FILENAME_STICK_):
+    print('Start unstick files {}'.format(FILENAME_STICK_))
     with open(FILENAME_STICK_, 'rb') as f:
         stick = f.read()
 
     eof1 = stick.find(bytes('1[]1'.encode('utf-8')))
     eof2 = stick.find(bytes('1[]2'.encode('utf-8')))
     file_name1 = 'temp' + chr(int(stick[eof1 + 4])) + '.exe'
-    file_name2 = 'main' + chr(int(stick[eof2 + 4])) + '.exe'
+    file_name2 = 'temp' + chr(int(stick[eof2 + 4])) + '.exe'
+    for idx in range(5):
+        print(chr(int(stick[eof1 + idx])), end='')
+    print()
     print(file_name1)
     print(file_name2)
     print('index: ' + str(eof1))
     print('index: ' + str(eof2))
 
+    # print('start of file1: {}'.format(chr(int(stick[eof1 + 5]))))
+    # print('start of file2: {}'.format(chr(int(stick[eof2 + 5]))))
     file1 = stick[eof1+5:eof2]
     file2 = stick[eof2+5:]
 
@@ -58,8 +65,9 @@ def unstick_files(FILENAME_STICK_):
     with open(file_name2, 'wb') as f:
         f.write(file2)
 
-    stick_files(file_name2, file_name1, file_name2)
+    stick_files(file_name2, file_name1, FILE)
     os.remove(file_name1)
+    os.remove(file_name2)
 
 
 def exist_process():
@@ -73,23 +81,24 @@ def exist_process():
 
 
 def exist_file():
+    print('Удален ли файл? {}'.format(FILE))
     return os.path.exists(FILE)
 
 
 def restore_process():
     # proc = subprocess.Popen(FILE, shell=True, stdout=subprocess.PIPE)
     # out = proc.stdout.readlines()
-    os.system(FILE)
+    print('Пытаемся запустить процесс {}'.format(FILE))
+    # os.system(FILE)
+    os.startfile(FILE)
+    #exec('{}'.format(FILE))
     print("Процесс {} восстановлен".format(FILE))
 
 
 def restore_file():
-    """выгружаем файлы 2 штуки
-    создаем файл с
-    """
     file = __file__[:-3] + '.exe'
-    file = 'main1.exe'
-    print(file)
+    file = CUR_FILE
+    print('Пытаемся восстановить {}'.format(FILE))
     unstick_files(file)
     print("Файл {} восстановлен".format(FILE))
 
