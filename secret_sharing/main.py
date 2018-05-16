@@ -8,7 +8,7 @@ for num in map(int, open('CONST.dat').read().split()):
 
 def create_keys(n):
     assert n < len(POLINOM)
-    seed = datetime.now().second % 41 + 1
+    seed = datetime.now().second % 100 + 1
     polinom = POLINOM[:n]
     result = []
     start_value = seed
