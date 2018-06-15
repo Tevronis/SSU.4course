@@ -117,7 +117,7 @@ def get_msg(args):
 
 def main():
     # args = init_vars()
-    file = '44.png'
+    file = 'withmsg_44.png'
     #set_msg(file)
     get_msg(file)
 
