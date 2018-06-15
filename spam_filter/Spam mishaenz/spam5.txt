@@ -1,0 +1,34 @@
+Received: from mxfront9j.mail.yandex.net ([127.0.0.1]) by
+ mxfront9j.mail.yandex.net with LMTP id 9KSZmbzB for <mishaenz@yandex.ru>; Sun,
+ 5 Nov 2017 04:03:31 +0300
+Received: from 384405.srv.antadis.net (384405.srv.antadis.net [46.105.123.51])
+ by mxfront9j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id
+ eotKVlBkS4-3VimgehN; Sun, 05 Nov 2017 04:03:31 +0300 (using TLSv1 with cipher
+ DHE-RSA-AES256-SHA (256/256 bits)) (Client certificate not present)
+Return-path: contact@neuville-sur-oise.fr
+X-Yandex-Front: mxfront9j.mail.yandex.net
+X-Yandex-TimeMark: 1509843811
+X-Yandex-Spam: 4
+Received: (qmail 16820 invoked by uid 33); 5 Nov 2017 01:56:50 +0100
+To: mishaenz@yandex.ru
+Subject: =?utf-8?B?Q29waWUgZGUgOiDQktCw0Lwg0L/QtdGA0LXQstC+0LQg0L7RgiDQv9C+0Ls=?=
+ =?utf-8?B?0YzQt9C+0LLQsNGC0LXQu9GPICM3NzQy?=
+X-PHP-Originating-Script: 33:phpmailer.php
+Date: Sun, 05 Nov 2017 04:56:49 +0400
+From: "Neuville sur Oise" <contact@neuville-sur-oise.fr>
+Message-ID: <17a5c4268fd11d54683936453ca050cb@neuville-sur-oise.fr>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.4]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+X-Yandex-Forward: 8b4f39beed19eb214a31e79ec25bbaf0
+
+Copie de :
+
+Une demande de contact a été formulée par e-mail via http://neuville-sur-oise.fr/ de la part de :
+Влад <mishaenz@yandex.ru>
+
+zmj6ZAhps7fbJqSk
+
+Rx3tm8JOo - http://b1nlvp.tk?z=4asduoqtlh

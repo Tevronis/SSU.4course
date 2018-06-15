@@ -1,0 +1,52 @@
+Received: from mxfront9j.mail.yandex.net ([127.0.0.1]) by
+ mxfront9j.mail.yandex.net with LMTP id ScJ9YygP for <mishaenz@yandex.ru>; Fri,
+ 10 Nov 2017 22:42:01 +0300
+Received: from cp2.cloudhosting.lv (cp2.cloudhosting.lv [91.220.43.28]) by
+ mxfront9j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id 7FrVSUXBG4-g0l4O469;
+ Fri, 10 Nov 2017 22:42:00 +0300 (using TLSv1.2 with cipher
+ ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits)) (Client certificate not present)
+Return-path: info@labiekartosana.lv
+X-Yandex-Front: mxfront9j.mail.yandex.net
+X-Yandex-TimeMark: 1510342920
+Authentication-Results: mxfront9j.mail.yandex.net; dkim=neutral header.i=@labiekartosana.lv
+X-Yandex-Spam: 4
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=labiekartosana.lv; s=default; h=Sender:Content-Type: Content-Transfer-Encoding:MIME-Version:Message-ID:Reply-To:From:Date:Subject: To:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender: Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id: List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive; bh=UhBpG7XtrREjJ51Y8xZExkfUwVNV6NmXO6qj9aSOr/g=; b=M/6YyK8AMTLtOHNMYNQg0E4UZ 02tSCcAhoyTnLJILWPwYjqGV0sXrKD9wDK1mJEy7+F1ORdf4kIK8cLAbP3GN3JT/MmSg3PpbyFCjI WD1zK39Xzy/Rc59R9O741gNTQC91SBkiiamSFkG5+Q1gHyV+l+5KnP5OxI2c/v9l1jtKmdh9bb/OV Jt7jDfQ2gWBwboK8jIaHbdC3ir3ZBfd6NvdDn4NLg9YHClq0zgdhueHm7P2w0WruEv3CUHuS32eEo qLihkD0eAvWjes8kQKxYcFCPxPIyTBzXpQLD89h6cbr1r5tgxrtvGQuO/nRcqPvoiKBNUMNhrTCSd eQiCfNHMA==;
+Received: from cp52223 by cp2.cloudhosting.lv with local (Exim 4.89)
+ (envelope-from <info@labiekartosana.lv>) id 1eDEr9-002n24-Cv for
+ mishaenz@yandex.ru; Fri, 10 Nov 2017 21:20:47 +0200
+To: mishaenz@yandex.ru
+Subject: Kopija: JCc2RhKEOk
+X-PHP-Script: labiekartosana.lv/index.php for 5.188.151.91
+X-PHP-Filename: /home/cp52223/public_html/index.php REMOTE_ADDR: 5.188.151.91
+Date: Fri, 10 Nov 2017 23:20:47 +0400
+From: =?utf-8?B?TGFiaWVrxIFydG/FoWFuYS1E?= <info@labiekartosana.lv>
+Reply-To: =?utf-8?B?0JTQtdC90LjRgQ==?= <mishaenz@yandex.ru>
+Message-ID: <6ae3ca056b6418d8feb158881d23540b@labiekartosana.lv>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+Sender: cp52223@cp2.cloudhosting.lv
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cp2.cloudhosting.lv
+X-AntiAbuse: Original Domain - yandex.ru
+X-AntiAbuse: Originator/Caller UID/GID - [903 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - labiekartosana.lv
+X-Get-Message-Sender-Via: cp2.cloudhosting.lv: authenticated_id: cp52223/from_h
+X-Authenticated-Sender: cp2.cloudhosting.lv: info@labiekartosana.lv
+X-Yandex-Forward: 8b4f39beed19eb214a31e79ec25bbaf0
+
+Šī ir vēstules kopija, ko jūs nosūtījāt  no Labiekārtošana-D
+
+Šī ir pieprasījuma vēstule http://labiekartosana.lv/ no:
+Денис <mishaenz@yandex.ru>
+
+Способ перечисления средств: WebMoney
+Средства по Вашему условиу переведены по указанным Вами реквизитам:
+Спасибо, что обратились.
+Детали: https://drive.google.com/open?id=17vwSO1n1y6t_Pbm7qYejfIIg2ZrV1bHU
+Номер счета - 771937748351707
+Номер договора: 1272030
+Сумма: 8 013,04 $
+Дата: 15.07.2017г.

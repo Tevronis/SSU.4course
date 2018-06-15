@@ -1,0 +1,312 @@
+Received: from mxfront10j.mail.yandex.net ([127.0.0.1]) by
+ mxfront10j.mail.yandex.net with LMTP id N3ltxrIc for <mishaenz@yandex.ru>;
+ Sat, 21 Oct 2017 04:51:49 +0300
+Received: from o1.email.bandsintown.com (o1.email.bandsintown.com
+ [50.31.32.5]) by mxfront10j.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id
+ mMnl5SeCa5-plpSlLm9; Sat, 21 Oct 2017 04:51:47 +0300 (using TLSv1.2 with
+ cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits)) (Client certificate not
+ present)
+Return-path: bounces+112564-4a56-mishaenz=yandex.ru@email.bandsintown.com
+X-Yandex-Front: mxfront10j.mail.yandex.net
+X-Yandex-TimeMark: 1508550707
+Authentication-Results: mxfront10j.mail.yandex.net; spf=pass (mxfront10j.mail.yandex.net: domain of email.bandsintown.com designates 50.31.32.5 as permitted sender, rule=[ip4:50.31.32.0/19]) smtp.mail=bounces+112564-4a56-mishaenz=yandex.ru@email.bandsintown.com; dkim=pass header.i=@bandsintown.com
+X-Yandex-Spam: 2
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=bandsintown.com; h=content-type:content-transfer-encoding:mime-version:from:to:subject:list-unsubscribe; s=smtpapi; bh=MiLF5nx4KnkMe0egJPbi2DEWIUM=; b=PBol4BdjJu1QQKJ5V2 yLsMTuyd0xlfOuhq3BKC/qlYaqI6T50msHydZrJ8ir6Iv/HEKfNB7K5PCQALa99i AZLxwQfdtuFJkPK0ce33RTyrR+IQRr60eF8Mj3KsgCij2eUtR4QlvWE0++BdfWQX l77CcJieQgq1+kRM5e6ikoax0=
+Received: by filter0941p1mdw1.sendgrid.net with SMTP id
+ filter0941p1mdw1-415-59EAA832-7 2017-10-21 01:51:46.198115336 +0000 UTC
+Received: from bandsintown.com (ec2-52-4-124-88.compute-1.amazonaws.com
+ [52.4.124.88]) by ismtpd0007p1iad1.sendgrid.net (SG) with ESMTP id
+ HET_CjKPQymAH-ZWZyI-uA for <mishaenz@yandex.ru>; Sat, 21 Oct 2017 01:51:46.165
+ +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="----------=_1508550706-1890-246246"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.505 (Entity 5.505)
+From: Bandsintown <notifications@bandsintown.com>
+To: mishaenz@yandex.ru
+Subject: =?utf-8?B?8J+OtiBLZW5kcmljayBMYW1hciBqdXN0IGFubm91bmNlZCBuZXcgc2hvd3M=?=
+ =?utf-8?B?Lg==?=
+Message-ID: <HET_CjKPQymAH-ZWZyI-uA@ismtpd0007p1iad1.sendgrid.net>
+Date: Sat, 21 Oct 2017 05:51:46 +0400
+X-SG-EID: pKZK4MnzIfqTHfaLnyAeFr1qnXe+E1hOrJhCEGCk4QQjMN/HlT7AX2383QLufszfQRfanZi/e/mVXC TJFQGiCOtjSVAn0AI3wGTcQCe5jIzlA34EpjRtcFK1IohHvN56w75l3oTnESq0mv/RTQ93qd124cdr rn4mmWRKUZ8DWAzKgAvQe/V1C1Nx/EBRtmDA9D/3eeHjpIub3zBEJax2eP9ZqGRQZZaDZcg5jx6ohF I=
+X-SG-ID: T32io52tAyD7K6h4X1+igos9ukZ1J33C/H1OhIElCOwpxYWS8OTQgR0sTVyIVXLz9vS99oT6A6uud/ MHjypyqI5lcdfG5iPoOrewmvTodZfUoZSA4nKRqPqwUB9zGGDb
+List-Unsubscribe: <mailto:unsubscribe@email.bandsintown.com?subject=http://email.bandsintown.com/wf/unsubscribe*q*upn=EdiW8JwX7gzr59rLYY2bh6p8mTDqJVFJzBreyagJj1pbEg1wITW-2BNqJRRtdVQIHJw-2BAN7YyhTJe2v3e-2BrADPJYK0-2F-2FwAOsGCOXSPIrKgzSsVIESX-2FQEXwBrfVAGYNnb6lBLtyRqjMzPr4N3m-2BNXM-2F07Gde5MxHrgMfh5wOQUqBqVe1AVelHyYSQz7uawAozFT2dP-2BCAJ5S0ptw7GXCKwySs-2BpC9vs7bWTgttjjgzUnMzKpfLDYVj3j30fbypWrjePKkLiGxcvzudHDMcFHos72t1OsVOoFjyHeuAPkGPoAotKgIXfjEC2U3kUqGZj9v1LAJYkXmzUCHPz32SrXVeYg-3D-3D>
+X-Yandex-Forward: 8b4f39beed19eb214a31e79ec25bbaf0
+
+This is a multi-part message in MIME format...
+------------=_1508550706-1890-246246
+Content-Type: text/html; charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.or=
+g/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html xmlns=3D"http://www.w3.org/1999/x=
+html"> <head> <meta http-equiv=3D"Content-Type" content=3D"text/html;charse=
+t=3DUTF-8"> <meta name=3D"viewport" content=3D"width=3Ddevice-width, initia=
+l-scale=3D1.0"> <title></title> </head> <style> div {background-color:#EDED=
+ED} </style> <body style=3D"-ms-text-size-adjust:100%;-webkit-font-smoothin=
+g:antialiased;-webkit-text-size-adjust:100%;background-color:#EDEDED;margin=
+:0;padding:0;text-align:center;width:100% !important;">  <!-- Header --> <t=
+able class=3D"header" style=3D"background:#0E7E8B;border-collapse:collapse;=
+height:50px;mso-table-lspace:0pt;mso-table-rspace:0pt;text-align:left;width=
+:100%;"> <tr> <td style=3D"border-collapse:collapse;word-wrap:break-word;">=
+ <table class=3D"innerhead center" style=3D"border-collapse:collapse;margin=
+-left:auto;margin-right:auto;max-width:600px;mso-table-lspace:0pt;mso-table=
+-rspace:0pt;width:90%;"> <tr> <td style=3D"border-collapse:collapse;word-wr=
+ap:break-word;"> <a href=3D"http://www.bandsintown.com" target=3D"_blank" s=
+tyle=3D"-webkit-font-smoothing:antialiased;color:#0a8cce;font-family:Helvet=
+icaNeue, Helvetica, Arial, sans-serif;text-decoration:none !important;"><im=
+g src=3D"http://static.bandsintown.com/images/email/v3/header-logo.png?c=3D=
+random" style=3D"-ms-interpolation-mode:bicubic;border:none;height:auto;mar=
+gin-top:4px;max-width:184px;outline:none;text-decoration:none;"></a> <!-- S=
+tats Pixels--> <img src=3D"http://px1.bandsintown.com/clear.gif?property=3D=
+user_log&param=3D%7B%22user_id%22%3A37266722%2C%22logtype%22%3A%22impressio=
+n%22%2C%22source%22%3A%22email%22%2C%22custom%22%3A%7B%22action%22%3A%22ope=
+n%22%2C%22email_type%22%3A%22just_announced%22%2C%22email_id%22%3A%22196219=
+6155%22%7D%2C%22nonce%22%3A%22162509%22%7D" alt=3D"" width=3D"1" height=3D"=
+1" border=3D"0" style=3D"height:1px !important;width:1px !important;border-=
+width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margi=
+n-right:0 !important;margin-left:0 !important;padding-top:0 !important;padd=
+ing-bottom:0 !important;padding-right:0 !important;padding-left:0 !importan=
+t;"/><img src=3D"http://www.google-analytics.com/collect?v=3D1&tid=3DUA-204=
+4446-18&cid=3D37266722&uid=3D37266722&t=3Devent&ec=3Demail&ea=3Dopen&el=3Dj=
+ust_announced&cs=3Djust_announced&cm=3Demail&z=3D1962196155&cd1=3DEmail" al=
+t=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important=
+;width:1px !important;border-width:0 !important;margin-top:0 !important;mar=
+gin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;=
+padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !impor=
+tant;padding-left:0 !important;opacity:0.0"/> </td> </tr> </table> </td> </=
+tr> </table> <!-- Install the app banner -->    <table style=3D"border-coll=
+apse:collapse;margin-top:12px;mso-table-lspace:0pt;mso-table-rspace:0pt;tex=
+t-align:left;width:100%;"> <tbody> <tr> <td style=3D"border-collapse:collap=
+se;word-wrap:break-word;"> <table class=3D"innerhead center" style=3D"borde=
+r-collapse:collapse;margin-left:auto;margin-right:auto;max-width:593px;mso-=
+table-lspace:0pt;mso-table-rspace:0pt;width:90%;"> <tbody><tr> <td style=3D=
+"border-collapse:collapse;word-wrap:break-word;"> <a href=3D"http://g.adspe=
+ed.net/ad.php?do=3Dclk&zid=3D81762&oid=3D16135&wd=3D-1&ht=3D-1&pair=3Dasema=
+il" target=3D"_blank" style=3D"-webkit-font-smoothing:antialiased;color:#0a=
+8cce;font-family:HelveticaNeue, Helvetica, Arial, sans-serif;text-decoratio=
+n:none !important;"><img src=3D"http://g.adspeed.net/ad.php?do=3Dimg&zid=3D=
+81762&oid=3D16135&wd=3D-1&ht=3D-1&pair=3Dasemail&noerror=3D1&cb=3D196219615=
+5&keywords=3D&aslat=3D48.8566140&aslong=3D2.3522220&asgeo=3D042014x16135" a=
+lt=3D"" style=3D"-ms-interpolation-mode:bicubic;border:none;height:auto;max=
+-width:593px;outline:none;text-decoration:none;"></a> </td> </tr> </tbody><=
+/table> </td> </tr> </tbody> </table>  <div itemscope itemtype=3D"http://sc=
+hema.org/EmailMessage"> <div itemprop=3D"action" itemscope itemtype=3D"http=
+://schema.org/ViewAction">  <link itemprop=3D"url" href=3D"http://www.bands=
+intown.com/t/20195556?user_id=3D37266722&affil_code=3Dbandsintown_email_jus=
+t_announced&app_id=3Dbandsintown_email_just_announced&came_from=3D162&utm_s=
+ource=3Djust_announced&utm_medium=3Demail_tickets&utm_campaign=3DJust%20Ann=
+ounced&tracking=3Dgotoaction&app_id=3Dgmail_action"/> <meta itemprop=3D"nam=
+e" content=3D"Get Tickets"/>  </div> <meta itemprop=3D"description" content=
+=3D"Kendrick Lamar"/> </div> <!-- Container --> <table class=3D"container" =
+style=3D"-moz-border-radius:4px;-webkit-border-radius:4px;background-color:=
+#fff;border-collapse:collapse;border-radius:4px;margin-bottom:10px;margin-l=
+eft:auto;margin-right:auto;margin-top:12px;max-width:593px;mso-table-lspace=
+:0pt;mso-table-rspace:0pt;width:90%;"> <tr> <td style=3D"border-collapse:co=
+llapse;word-wrap:break-word;"> <!-- Greetings --> <table class=3D"greetings=
+ center" style=3D"border-collapse:collapse;margin-bottom:10px;margin-left:a=
+uto;margin-right:auto;margin-top:10px;max-width:300px;mso-table-lspace:0pt;=
+mso-table-rspace:0pt;"> <tr> <td style=3D"border-collapse:collapse;word-wra=
+p:break-word;"> <p style=3D"-webkit-font-smoothing:antialiased;color:#4A4A4=
+A;font-family:HelveticaNeue-Bold, Helvetica-Bold, Arial-Bold, sans-serif;fo=
+nt-size:22px;letter-spacing:-0.24px;line-height:26px;margin:0px 0px !import=
+ant;text-align:left;">Hello =D0=9C=D0=B8=D1=85=D0=B0=D0=B8=D0=BB!<br>    <b=
+ style=3D"color:#000000;">Kendrick Lamar</b> just announced new shows.   </=
+p> </td> </tr> </table> <!-- Row content -->  <!-- Artist Image --> <table =
+class=3D"artist center" style=3D"border-collapse:collapse;margin-left:auto;=
+margin-right:auto;max-width:500px;mso-table-lspace:0pt;mso-table-rspace:0pt=
+;width:94%;"> <tr> <td style=3D"border-collapse:collapse;word-wrap:break-wo=
+rd;text-align:center"> <a href=3D"http://www.bandsintown.com/e/20195556?cam=
+e_from=3D162&utm_source=3Djust_announced&utm_medium=3Demail_event&utm_campa=
+ign=3DJust%20Announced" target=3D"_blank" style=3D"-webkit-font-smoothing:a=
+ntialiased;color:#0a8cce;font-family:HelveticaNeue, Helvetica, Arial, sans-=
+serif;text-decoration:none !important;"><img src=3D"https://s3.amazonaws.co=
+m/bit-photos/thumb/7698506.jpeg" style=3D"-ms-interpolation-mode:bicubic;bo=
+rder:none;max-width:300px;outline:none;text-decoration:none;"></a> </td> </=
+tr> </table> <!-- Event Info --> <table class=3D"info center" style=3D"bord=
+er-collapse:collapse;margin-left:auto;margin-right:auto;max-width:300px;mso=
+-table-lspace:0pt;mso-table-rspace:0pt;"> <tr> <td style=3D"border-collapse=
+:collapse;word-wrap:break-word;text-align:center"> <h1 style=3D"-webkit-fon=
+t-smoothing:antialiased;color:#000000;font-family:HelveticaNeue-Bold, Helve=
+tica-Bold, Arial-Bold, sans-serif;font-size:24px;letter-spacing:-0.17px;mar=
+gin-bottom:4px;margin-top:3px;">Kendrick Lamar</h1> <h3 style=3D"-webkit-fo=
+nt-smoothing:antialiased;color:#404040;font-family:HelveticaNeue-Bold, Helv=
+etica-Bold, Arial-Bold, sans-serif;font-size:15px;letter-spacing:-0.17px;ma=
+rgin-bottom:4px;margin-top:2px;">AccorHotels Arena @ Paris, France</h3> <p =
+style=3D"-webkit-font-smoothing:antialiased;color:#404040;font-family:Helve=
+ticaNeue-Bold, Helvetica-Bold, Arial-Bold, sans-serif;font-size:14px;line-h=
+eight:19px;margin:0px 0px !important;text-align:center;">Sun, Feb 25, 2018<=
+/p> </td> </tr> </table>   <table class=3D"center" style=3D"border-collapse=
+:collapse;margin-left:auto;margin-right:auto;mso-table-lspace:0pt;mso-table=
+-rspace:0pt;"> <tr> <td style=3D"border-collapse:collapse;word-wrap:break-w=
+ord;"> <table class=3D"cta" style=3D"border-collapse:collapse;margin-bottom=
+:20px;margin-top:12px;mso-table-lspace:0pt;mso-table-rspace:0pt;width:320px=
+;"> <tr> <td style=3D"border-collapse:collapse;word-wrap:break-word;text-al=
+ign:center"> <a id=3D"interested" href=3D"http://www.bandsintown.com/e/2019=
+5556?rsvp_status=3Dunsure&trigger=3Drsvp_maybe&came_from=3D162&utm_source=
+=3Djust_announced&utm_medium=3Demail_maybe&utm_campaign=3DJust%20Announced"=
+ target=3D"_blank" style=3D"-moz-border-radius:2px;-webkit-border-radius:2p=
+x;-webkit-font-smoothing:antialiased;background-color:#00b4b3;border-bottom=
+:11px solid #00b4b3;border-radius:2px;border-top:10px solid #00b4b3;color:#=
+ffffff;display:inline-block;font-family:HelveticaNeue-Bold, Helvetica-Bold,=
+ Arial-Bold, sans-serif;font-size:15px;text-decoration:none !important;widt=
+h:30%;">Interested</a> <a id=3D"going" href=3D"http://www.bandsintown.com/e=
+/20195556?rsvp_status=3Dattending&trigger=3Drsvp_going&came_from=3D162&utm_=
+source=3Djust_announced&utm_medium=3Demail_attending&utm_campaign=3DJust%20=
+Announced" target=3D"_blank" style=3D"-moz-border-radius:2px;-webkit-border=
+-radius:2px;-webkit-font-smoothing:antialiased;background-color:#00b4b3;bor=
+der-bottom:11px solid #00b4b3;border-radius:2px;border-top:10px solid #00b4=
+b3;color:#ffffff;display:inline-block;font-family:HelveticaNeue-Bold, Helve=
+tica-Bold, Arial-Bold, sans-serif;font-size:15px;text-decoration:none !impo=
+rtant;width:30%;">Going</a> <a id=3D"tickets" href=3D"http://www.bandsintow=
+n.com/t/20195556?user_id=3D37266722&affil_code=3Dbandsintown_email_just_ann=
+ounced&app_id=3Dbandsintown_email_just_announced&came_from=3D162&utm_source=
+=3Djust_announced&utm_medium=3Demail_tickets&utm_campaign=3DJust%20Announce=
+d" target=3D"_blank" style=3D"-moz-border-radius:2px;-webkit-border-radius:=
+2px;-webkit-font-smoothing:antialiased;background-color:#6BAA38;border-bott=
+om:11px solid #6BAA38;border-radius:2px;border-top:10px solid #6BAA38;color=
+:#ffffff;display:inline-block;font-family:HelveticaNeue-Bold, Helvetica-Bol=
+d, Arial-Bold, sans-serif;font-size:15px;text-decoration:none !important;wi=
+dth:30%;">Tickets</a> </td> </tr> </table> </td> </tr> </table>     <!-- Ar=
+tist Image --> <table class=3D"artist center" style=3D"border-collapse:coll=
+apse;margin-left:auto;margin-right:auto;max-width:500px;mso-table-lspace:0p=
+t;mso-table-rspace:0pt;width:94%;"> <tr> <td style=3D"border-collapse:colla=
+pse;word-wrap:break-word;text-align:center"> <a href=3D"http://www.bandsint=
+own.com/e/20195558?came_from=3D162&utm_source=3Djust_announced&utm_medium=
+=3Demail_event&utm_campaign=3DJust%20Announced" target=3D"_blank" style=3D"=
+-webkit-font-smoothing:antialiased;color:#0a8cce;font-family:HelveticaNeue,=
+ Helvetica, Arial, sans-serif;text-decoration:none !important;"><img src=3D=
+"https://s3.amazonaws.com/bit-photos/thumb/7698506.jpeg" style=3D"-ms-inter=
+polation-mode:bicubic;border:none;max-width:300px;outline:none;text-decorat=
+ion:none;"></a> </td> </tr> </table> <!-- Event Info --> <table class=3D"in=
+fo center" style=3D"border-collapse:collapse;margin-left:auto;margin-right:=
+auto;max-width:300px;mso-table-lspace:0pt;mso-table-rspace:0pt;"> <tr> <td =
+style=3D"border-collapse:collapse;word-wrap:break-word;text-align:center"> =
+<h1 style=3D"-webkit-font-smoothing:antialiased;color:#000000;font-family:H=
+elveticaNeue-Bold, Helvetica-Bold, Arial-Bold, sans-serif;font-size:24px;le=
+tter-spacing:-0.17px;margin-bottom:4px;margin-top:3px;">Kendrick Lamar</h1>=
+ <h3 style=3D"-webkit-font-smoothing:antialiased;color:#404040;font-family:=
+HelveticaNeue-Bold, Helvetica-Bold, Arial-Bold, sans-serif;font-size:15px;l=
+etter-spacing:-0.17px;margin-bottom:4px;margin-top:2px;">AccorHotels Arena =
+@ Paris, France</h3> <p style=3D"-webkit-font-smoothing:antialiased;color:#=
+404040;font-family:HelveticaNeue-Bold, Helvetica-Bold, Arial-Bold, sans-ser=
+if;font-size:14px;line-height:19px;margin:0px 0px !important;text-align:cen=
+ter;">Mon, Feb 26, 2018</p> </td> </tr> </table>   <table class=3D"center" =
+style=3D"border-collapse:collapse;margin-left:auto;margin-right:auto;mso-ta=
+ble-lspace:0pt;mso-table-rspace:0pt;"> <tr> <td style=3D"border-collapse:co=
+llapse;word-wrap:break-word;"> <table class=3D"cta" style=3D"border-collaps=
+e:collapse;margin-bottom:20px;margin-top:12px;mso-table-lspace:0pt;mso-tabl=
+e-rspace:0pt;width:320px;"> <tr> <td style=3D"border-collapse:collapse;word=
+-wrap:break-word;text-align:center"> <a id=3D"interested" href=3D"http://ww=
+w.bandsintown.com/e/20195558?rsvp_status=3Dunsure&trigger=3Drsvp_maybe&came=
+_from=3D162&utm_source=3Djust_announced&utm_medium=3Demail_maybe&utm_campai=
+gn=3DJust%20Announced" target=3D"_blank" style=3D"-moz-border-radius:2px;-w=
+ebkit-border-radius:2px;-webkit-font-smoothing:antialiased;background-color=
+:#00b4b3;border-bottom:11px solid #00b4b3;border-radius:2px;border-top:10px=
+ solid #00b4b3;color:#ffffff;display:inline-block;font-family:HelveticaNeue=
+-Bold, Helvetica-Bold, Arial-Bold, sans-serif;font-size:15px;text-decoratio=
+n:none !important;width:30%;">Interested</a> <a id=3D"going" href=3D"http:/=
+/www.bandsintown.com/e/20195558?rsvp_status=3Dattending&trigger=3Drsvp_goin=
+g&came_from=3D162&utm_source=3Djust_announced&utm_medium=3Demail_attending&=
+utm_campaign=3DJust%20Announced" target=3D"_blank" style=3D"-moz-border-rad=
+ius:2px;-webkit-border-radius:2px;-webkit-font-smoothing:antialiased;backgr=
+ound-color:#00b4b3;border-bottom:11px solid #00b4b3;border-radius:2px;borde=
+r-top:10px solid #00b4b3;color:#ffffff;display:inline-block;font-family:Hel=
+veticaNeue-Bold, Helvetica-Bold, Arial-Bold, sans-serif;font-size:15px;text=
+-decoration:none !important;width:30%;">Going</a> <a id=3D"tickets" href=3D=
+"http://www.bandsintown.com/t/20195558?user_id=3D37266722&affil_code=3Dband=
+sintown_email_just_announced&app_id=3Dbandsintown_email_just_announced&came=
+_from=3D162&utm_source=3Djust_announced&utm_medium=3Demail_tickets&utm_camp=
+aign=3DJust%20Announced" target=3D"_blank" style=3D"-moz-border-radius:2px;=
+-webkit-border-radius:2px;-webkit-font-smoothing:antialiased;background-col=
+or:#6BAA38;border-bottom:11px solid #6BAA38;border-radius:2px;border-top:10=
+px solid #6BAA38;color:#ffffff;display:inline-block;font-family:HelveticaNe=
+ue-Bold, Helvetica-Bold, Arial-Bold, sans-serif;font-size:15px;text-decorat=
+ion:none !important;width:30%;">Tickets</a> </td> </tr> </table> </td> </tr=
+> </table>     </td> </tr>  </table>  <!-- Subject <subject>   =F0=9F=8E=B6=
+ Kendrick Lamar just announced new shows.   </subject> -->  <!-- Footer -->=
+ <table class=3D"footer center" style=3D"border-collapse:collapse;margin-le=
+ft:auto;margin-right:auto;mso-table-lspace:0pt;mso-table-rspace:0pt;"> <tr =
+class=3D"footer-space"> <td class=3D"badges" style=3D"border-collapse:colla=
+pse;max-width:300px;padding-bottom:10px;padding-top:5px;word-wrap:break-wor=
+d;"> <a href=3D"http://itunes.apple.com/app/apple-store/id471394851?ls=3D1&=
+mt=3D8&at=3D1000lwu3&ct=3Demail_just_announced" target=3D"_blank" style=3D"=
+-webkit-font-smoothing:antialiased;color:#0a8cce;font-family:HelveticaNeue,=
+ Helvetica, Arial, sans-serif;text-decoration:none !important;"><img src=3D=
+"http://static.bandsintown.com/images/email/v3/app-store-badge.png" alt=3D"=
+Download On The App Store" style=3D"-ms-interpolation-mode:bicubic;border:n=
+one;height:auto;margin-left:4px;margin-right:4px;margin-top:0px;max-width:1=
+35px;outline:none;text-decoration:none;"></a> <a href=3D"https://play.googl=
+e.com/store/apps/details?id=3Dcom.bandsintown&came_from=3D162&utm_source=3D=
+just_announced&utm_medium=3Demail_android_market&utm_campaign=3DJust%20Anno=
+unced" target=3D"_blank" style=3D"-webkit-font-smoothing:antialiased;color:=
+#0a8cce;font-family:HelveticaNeue, Helvetica, Arial, sans-serif;text-decora=
+tion:none !important;"><img src=3D"http://static.bandsintown.com/images/ema=
+il/v3/google-play-badge.png" alt=3D"Get It On Google Play" class=3D"google-=
+img" style=3D"-ms-interpolation-mode:bicubic;border:none;height:auto;margin=
+-left:4px;margin-right:4px;margin-top:0px;max-width:135px;outline:none;text=
+-decoration:none;"></a> </td> </tr> <tr> <td style=3D"border-collapse:colla=
+pse;max-width:300px;word-wrap:break-word;text-align:center"> <a href=3D"htt=
+ps://www.facebook.com/Bandsintown?ref=3Dts&fref=3Dts" target=3D"_blank" sty=
+le=3D"-webkit-font-smoothing:antialiased;color:#0a8cce;font-family:Helvetic=
+aNeue, Helvetica, Arial, sans-serif;text-decoration:none !important;"><img =
+class=3D"social-media" src=3D"http://static.bandsintown.com/images/email/v3=
+/facebook.png" alt=3D"Facebook" style=3D"-ms-interpolation-mode:bicubic;bor=
+der:none;height:auto;margin-bottom:10px;margin-left:1px;margin-right:1px;ma=
+x-width:40px;outline:none;text-decoration:none;"></a> <a href=3D"http://www=
+.instagram.com/bandsintown" target=3D"_blank" style=3D"-webkit-font-smoothi=
+ng:antialiased;color:#0a8cce;font-family:HelveticaNeue, Helvetica, Arial, s=
+ans-serif;text-decoration:none !important;"><img class=3D"social-media" src=
+=3D"http://static.bandsintown.com/images/email/v3/instagram.png" alt=3D"Ins=
+tagram" style=3D"-ms-interpolation-mode:bicubic;border:none;height:auto;mar=
+gin-bottom:10px;margin-left:1px;margin-right:1px;max-width:40px;outline:non=
+e;text-decoration:none;"> </a> <a href=3D"http://news.bandsintown.com/home"=
+ target=3D"_blank" style=3D"-webkit-font-smoothing:antialiased;color:#0a8cc=
+e;font-family:HelveticaNeue, Helvetica, Arial, sans-serif;text-decoration:n=
+one !important;"><img class=3D"social-media" src=3D"http://static.bandsinto=
+wn.com/images/email/v3/bandsintown.png" alt=3D"Bandsintown" style=3D"-ms-in=
+terpolation-mode:bicubic;border:none;height:auto;margin-bottom:10px;margin-=
+left:1px;margin-right:1px;max-width:40px;outline:none;text-decoration:none;=
+"></a> <a href=3D"https://twitter.com/Bandsintown" target=3D"_blank" style=
+=3D"-webkit-font-smoothing:antialiased;color:#0a8cce;font-family:HelveticaN=
+eue, Helvetica, Arial, sans-serif;text-decoration:none !important;"><img cl=
+ass=3D"social-media" src=3D"http://static.bandsintown.com/images/email/v3/t=
+witter.png" alt=3D"Twitter" style=3D"-ms-interpolation-mode:bicubic;border:=
+none;height:auto;margin-bottom:10px;margin-left:1px;margin-right:1px;max-wi=
+dth:40px;outline:none;text-decoration:none;"></a> <a href=3D"https://www.yo=
+utube.com/user/Bandsintown" target=3D"_blank" style=3D"-webkit-font-smoothi=
+ng:antialiased;color:#0a8cce;font-family:HelveticaNeue, Helvetica, Arial, s=
+ans-serif;text-decoration:none !important;"><img class=3D"social-media" src=
+=3D"http://static.bandsintown.com/images/email/v3/youtube.png" alt=3D"Youtu=
+be" style=3D"-ms-interpolation-mode:bicubic;border:none;height:auto;margin-=
+bottom:10px;margin-left:1px;margin-right:1px;max-width:40px;outline:none;te=
+xt-decoration:none;"></a> </td> </tr> <tr> <td style=3D"border-collapse:col=
+lapse;max-width:300px;word-wrap:break-word;"> <p style=3D"-webkit-font-smoo=
+thing:antialiased;color:#000000;font-family:HelveticaNeue, Helvetica, Arial=
+, sans-serif;font-size:11px;line-height:15px;margin:0px 0px !important;text=
+-align:center;">  &copy; 2017  Bandsintown, LLC<br/><br>  1216 Broadway 2nd=
+ Floor, New York, NY 10001.<br>    To opt out or manage your notifications =
+<a href=3D"http://www.bandsintown.com/notifications?user_id=3D37266722&auth=
+_key=3De8453e25aeec34169d8d8f372ac0841b7b27c772&came_from=3D162&utm_source=
+=3Djust_announced&utm_medium=3Demail_update_notifications&utm_campaign=3DJu=
+st%20Announced" target=3D"_blank" style=3D"-webkit-font-smoothing:antialias=
+ed;color:#0a8cce;font-family:HelveticaNeue, Helvetica, Arial, sans-serif;te=
+xt-decoration:none !important;">click here.</a></p><br>    </td> </tr> </ta=
+ble>=20
+
+<img src=3D"http://email.bandsintown.com/wf/open?upn=3DEdiW8JwX7gzr59rLYY2b=
+h6p8mTDqJVFJzBreyagJj1pbEg1wITW-2BNqJRRtdVQIHJw-2BAN7YyhTJe2v3e-2BrADPJYK0-=
+2F-2FwAOsGCOXSPIrKgzSsVIESX-2FQEXwBrfVAGYNnb6lBLtyRqjMzPr4N3m-2BNXM-2F8TE8p=
+gC2sx-2FO3G-2F7z6OqfMQHUYI4PiOLZDz6U0CPIe4UVBL1HjIXn31NVBRXrb2wwcbeeaV5OlFY=
+kG0tKvU-2Brram-2FdKUaliZgNlcKtAB7obvv1Kf48pNjp45iZ0Wt04aW04qVxNRLRqpHgdB2-2=
+By5N4hMSs1Xy2v6iORyawtIMUu0PzMpWyIhLBBbATSo65icg-3D-3D" alt=3D"" width=3D"1=
+" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !impor=
+tant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !imp=
+ortant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !im=
+portant;padding-bottom:0 !important;padding-right:0 !important;padding-left=
+:0 !important;"/>
+</body> </html>=20
+
+------------=_1508550706-1890-246246--

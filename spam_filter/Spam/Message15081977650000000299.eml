@@ -1,0 +1,65 @@
+Delivered-To: smirnoved5@mail.ru
+Return-path: <>
+Authentication-Results: mxs.mail.ru; spf=none () smtp.mailfrom=info@asashid.com smtp.helo=ssdrs2.layerip.com;
+	 dkim=invalid reason=pubkey_unavailable header.d=asashid.com
+Received-SPF: none
+Received: from ssdrs2.layerip.com ([37.61.235.92]:33296)
+	by mx74.mail.ru with esmtp (envelope-from <info@asashid.com>)
+	id 1e4F8O-0004Mw-Sz
+	for smirnoved5@mail.ru; Tue, 17 Oct 2017 02:49:25 +0300
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=asashid.com
+	; s=default; h=Content-Type:Content-Transfer-Encoding:MIME-Version:Message-ID
+	:Reply-To:From:Date:Subject:To:Sender:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=XmLafJARz1WPWAa7IeblsdAy+zhrrndGPFyNudZ5bhE=; b=IaLSKT+str3U9kTRectbR5ejaH
+	Z33h+/Jljte+7CcBtfH8C9383JewnCk0rXBKdmwJ+8ISmEOrfp+oiq2UbWQJ526rEVyh0vW5kNHfZ
+	Vtya2UQbqw7/4d9S7WqYsVk4PXsVegHv67wvnkWN4vj/eqaVV1jn3yOTNf3iWzGBoz+M=;
+Received: from asashid by ssdrs2.layerip.com with local (Exim 4.89)
+	(envelope-from <info@asashid.com>)
+	id 1e4F8N-000wnk-ID
+	for smirnoved5@mail.ru; Mon, 16 Oct 2017 23:49:23 +0000
+To: smirnoved5@mail.ru
+Subject: =?utf-8?B?2YXYtNiu2LXYp9iqINit2LPYp9ioINqp2KfYsdio2LHbjCDYqNix2KfbjCA=?=  =?utf-8?B?8J+YgiDQktCw0Lwg0L/QtdGA0LXQstC+0LQg0L7RgiDQv9C+0LvRjNC30L4=?=  =?utf-8?B?0LLQsNGC0LXQu9GPICM3MDgxIC0gaHR0cHM6Ly81LmRyaXZlLmc=?=  =?utf-8?B?b29nbGUuY29tL29wZW4/aWQ9MEItUi14RlBxYTY0T1U=?=  =?utf-8?B?bGxqYm5aQldUTlRVSE0g2K/YsSDYtNix2qnYqiDZhdmH2YbYr9iz24wg2KI=?=  =?utf-8?B?2LPYp9i024zYryDZhti12Kg=?=
+X-PHP-Script: asashid.com/index.php for 185.89.101.97
+X-PHP-Originating-Script: 2492:phpmailer.php
+Date: Mon, 16 Oct 2017 23:49:23 +0000
+From: =?utf-8?B?2LTYsdqp2Kog2YXZh9mG2K/Ys9uMINii2LPYp9i024zYryDZhti12Kg=?= <info@asashid.com>
+Reply-To: =?utf-8?B?2LTYsdqp2Kog2YXZh9mG2K/Ys9uMINii2LPYp9i024zYryDZhti12Kg=?= <info@asashid.com>
+Message-ID: <9bcb52625a3cc9794b99ae28700f959a@asashid.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ssdrs2.layerip.com
+X-AntiAbuse: Original Domain - mail.ru
+X-AntiAbuse: Originator/Caller UID/GID - [2492 499] / [47 12]
+X-AntiAbuse: Sender Address Domain - asashid.com
+X-Get-Message-Sender-Via: ssdrs2.layerip.com: authenticated_id: asashid/from_h
+X-Authenticated-Sender: ssdrs2.layerip.com: info@asashid.com
+X-Source: 
+X-Source-Args: /usr/sbin/proxyexec -q -d -s /var/lib/proxyexec/cagefs.sock/socket /bin/cagefs.server 
+X-Source-Dir: asashid.com:/public_html
+X-DKIM-FAIL: DKIM test failed: invalid (address=info@asashid.com domain=asashid.com reason=pubkey_unavailable).
+X-7FA49CB5: A9FCD207E66530D8A18204E546F3947C6A89788ECBF25028D7494F64F9BEE8B42EF20D2F80756B5FBBC930A3941E20C65136D004FC00FE2978DA827A17800CE7BA6328C65A76A08BEB66585E62EAC104BCA8734010DFDAB0690DBCE64404DB6488152950E391D51BDC6DB0B82859FA8140A5AABA2AD371193195499CA005F545C09775C1D3CA48CF8BF3ACA618B71E0762C0DB630611AE6CCF19DD082D7633A0072CF9D0EE425E0A3195499CA005F54578DA827A17800CE7F676EC0CBCADF48B43847C11F186F3C5707D568A279F2C58F25A724E5F29A64E9E8FC8737B5C224957838E94F4C6C098F25A724E5F29A64E395957E7521B51C21B46DCA1A3ECEFC7725E5C173C3A84C32423FB45EA749E7138D433D53B717345BA69B7DF0B3EA92AC6CDE5D1141D2B1CEF6D775C364436AFA5A18104BE83AFD4730916F299544578
+X-DMARC-Policy: no
+X-Magic: 326280C090B5D7F2A1A4981C3B30EDAAA614B840570E30729394563E85076A13
+X-Mras: PROBABLE_SPAM
+X-Spam: undefined
+
+سلام 😂 Вам перевод от пользователя #7081 - https://5.drive.google.com/open?id=0B-R-xFPqa64OUlljbnZBWTNTUHM عزیز،
+
+از اینکه در وب سایت شرکت مهندسی آساشید نصب ثبت نام نموده اید متشکریم. حساب کاربری شما ایجاد شده است و تنها می باید توسط خود شما فعال گردد
+To  شما با کلیک بر روی لینک زیر میتوانید حساب کاربری خود را فعال نمایید و یا میتوانید این آدرس را در آدرس بار مرورگرتان وارد نمایید
+http://asashid.com/index.php/component/users/?task=registration.activate&token=780bde737b06bacb92e39a8c8cb7b1da 
+
+ پس از فعال سازی شما میتوانید به حساب کاربری خود با رمز و نام کاربری که در ادامه میاید به وب سایت  http://asashid.com/ وارد شوید 
+
+ نام کاربری و رمز عبور شما
+
+نام کاربری : erarconmay
+رمز ورود : Xjf9FVK4mZ
+

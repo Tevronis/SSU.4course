@@ -1,0 +1,48 @@
+Received: from mxfront1o.mail.yandex.net ([127.0.0.1]) by
+ mxfront1o.mail.yandex.net with LMTP id Cytn50YC for <mishaenz@yandex.ru>; Wed,
+ 8 Nov 2017 22:43:56 +0300
+Received: from sdn.com.sa (sdn.com.sa [178.32.104.92]) by
+ mxfront1o.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id u04OQvE7PP-htd8OdkA;
+ Wed, 08 Nov 2017 22:43:55 +0300 (using TLSv1.2 with cipher
+ ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits)) (Client certificate not present)
+Return-path: no-reply@al-igtiazat.com
+X-Yandex-Front: mxfront1o.mail.yandex.net
+X-Yandex-TimeMark: 1510170235
+Authentication-Results: mxfront1o.mail.yandex.net; spf=pass (mxfront1o.mail.yandex.net: domain of al-igtiazat.com designates 178.32.104.92 as permitted sender, rule=[ip4:178.32.104.92]) smtp.mail=no-reply@al-igtiazat.com
+X-Yandex-Spam: 4
+Received: from aligtiaz by server.lineshost.com with local (Exim 4.89)
+ (envelope-from <no-reply@al-igtiazat.com>) id 1eCVhX-0002Wi-I0 for
+ mishaenz@yandex.ru; Wed, 08 Nov 2017 22:07:57 +0300
+To: mishaenz@yandex.ru
+Subject: Copy of: mDe9ndIzFc7xM6
+X-PHP-Script: al-igtiazat.com/index.php for 5.188.148.174
+Date: Wed, 08 Nov 2017 23:07:51 +0400
+From: =?utf-8?B?2KfYrNiq2YrYp9iy2KfYqg==?= <no-reply@al-igtiazat.com>
+Reply-To: =?utf-8?B?0JzQsNGA0Lo=?= <mishaenz@yandex.ru>
+Message-ID: <c73bf7243cf794da662478807131f647@al-igtiazat.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+X-OutGoing-Spam-Status: No, score=3.4
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.lineshost.com
+X-AntiAbuse: Original Domain - yandex.ru
+X-AntiAbuse: Originator/Caller UID/GID - [512 524] / [47 12]
+X-AntiAbuse: Sender Address Domain - al-igtiazat.com
+X-Get-Message-Sender-Via: server.lineshost.com: authenticated_id: aligtiaz/from_h
+X-Authenticated-Sender: server.lineshost.com: no-reply@al-igtiazat.com
+X-From-Rewrite: unmodified, already matched
+X-Yandex-Forward: 8b4f39beed19eb214a31e79ec25bbaf0
+
+This is a copy of the following message you sent to اجتيازات via اجتيازات
+
+This is an enquiry email via http://al-igtiazat.com/ from:
+Марк <mishaenz@yandex.ru>
+
+Сумма:  9 946,86 $
+Пополнение через:  Alertpay
+Дата и время:  15.05.2017 07:23
+Доступно: 18 279,84 rub
+Все детали пополнения  - https://pushstat.sendpulse.com/pushurls/188606/NTcxMzg1/9b45950026f7d6f21bd058753ccb9755/7c977009d5861eebb711656eb7d87a74

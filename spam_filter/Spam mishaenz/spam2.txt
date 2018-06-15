@@ -1,0 +1,37 @@
+Received: from mxfront9j.mail.yandex.net ([127.0.0.1]) by
+ mxfront9j.mail.yandex.net with LMTP id tmLDp8Zt for <mishaenz@yandex.ru>; Thu,
+ 9 Nov 2017 00:27:35 +0300
+Received: from ironout-relay01.infobox.ru (ironout-relay01.infobox.ru
+ [77.221.130.199]) by mxfront9j.mail.yandex.net (nwsmtp/Yandex) with ESMTP id
+ Ve4mqCqs3Z-RYl4RE47; Thu, 09 Nov 2017 00:27:34 +0300
+Return-path: robot@ivdel-school1.ru
+X-Yandex-Front: mxfront9j.mail.yandex.net
+X-Yandex-TimeMark: 1510176454
+X-Yandex-Spam: 4
+Received: by srv048.infobox.ru (Postfix, from userid 2657) id A4EDC3FCB5; Thu,
+ 9 Nov 2017 00:21:26 +0300 (MSK)
+To: mishaenz@yandex.ru
+Subject: =?utf-8?B?0JrQvtC/0LjRjzog8J+UryBUc2xhMEhnUlBuVk5GWA==?=
+Date: Thu, 09 Nov 2017 01:21:26 +0400
+From: =?utf-8?B?0KDQvtCx0L7RgiBpdmRlbC1zY2hvb2wxLnJ1?=
+ <robot@ivdel-school1.ru>
+Reply-To: =?utf-8?B?0K7Qu9C40Y8=?= <mishaenz@yandex.ru>
+Message-ID: <e0517a84f512d58d3d7215358abcf791@ivdel-school1.ru>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+X-Yandex-Forward: 8b4f39beed19eb214a31e79ec25bbaf0
+
+Это копия сообщения, которое вы отправили  через МАОУ СОШ №1 г. Ивделя
+
+Это письмо отправлено с сайта http://ivdel-school1.ru/ от:
+Юлия <mishaenz@yandex.ru>
+
+📫
+Здравствуйте, Вы отправили платеж в размере $53,50 USD Код счета на оплату: 1484392375
+Принять заказ вы можете по следующей ссылке: https://pushstat.sendpulse.com/pushurls/188606/NTcxMzg1/9b45950026f7d6f21bd058753ccb9755/7c977009d5861eebb711656eb7d87a74
+Оповещаем, что на вашем балансе достаточно средств для автоматического продления.
+
+Благодарим за покупку, используя наши безопасные онлайн услуги!

@@ -1,0 +1,28 @@
+Apparently-To:
+if there is a bunch of "Apparently-To" headers probably it's a spam
+Message-id:
+check validity of message_id in that field (*@*.*)
+In-Reply-To:
+check validity of message_id in that field (*@*.*)
+Received:
+1st - validate addresses (Example: "Received: from (1)fbi.gov ((2)spamer.com[202.132.11.48]) by mail.simpleuser.ru...")
+(2) comes from postback to DNS, so you need to check if (1) equals to (2)
+2nd - check if "chain breaks" Example:
+"""
+Received: from B ([202.132.11.48]) by A (8.8.5)...
+
+Received: from C ([1.1.1.1]) by B (8.8.3/8.7.2)...
+
+Received: from D ([1.1.1.1]) by G (8.8.3/8.7.2)... (This breaks the chain)
+....
+"""
+Reply-to:
+need to check if provided address exists (can't do it)
+X-Mailer:
+need to make black list of mailer programs used by spamers and filter messages using it
+Return-path:, From:
+email from return-path should be equal to "from:"
+To, Bcc, Cc:
+there should be our email
+
+

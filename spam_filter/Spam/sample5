@@ -1,0 +1,104 @@
+Delivered-To: lester0578@gmail.com
+Received: by 10.114.160.194 with SMTP id xm2csp2452795ldb;
+        Tue, 19 Apr 2016 15:03:18 -0700 (PDT)
+X-Received: by 10.194.58.195 with SMTP id t3mr4940484wjq.97.1461103398449;
+        Tue, 19 Apr 2016 15:03:18 -0700 (PDT)
+Return-Path: <mirzayanovmr@gmail.com>
+Received: from mail-wm0-x233.google.com (mail-wm0-x233.google.com. [2a00:1450:400c:c09::233])
+        by mx.google.com with ESMTPS id ei9si2188099wjd.95.2016.04.19.15.03.17
+        for <lester0578@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 19 Apr 2016 15:03:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of mirzayanovmr@gmail.com designates 2a00:1450:400c:c09::233 as permitted sender) client-ip=2a00:1450:400c:c09::233;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of mirzayanovmr@gmail.com designates 2a00:1450:400c:c09::233 as permitted sender) smtp.mailfrom=mirzayanovmr@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x233.google.com with SMTP id v188so178356955wme.1
+        for <lester0578@gmail.com>; Tue, 19 Apr 2016 15:03:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=rAY/2rsGWVQI7miK95tdmmg3s5x5fCw2vM0O0XxkVmU=;
+        b=Z/8bJzcVBIlqv8uDHG/jHGrol9+npPsMOXwx14/gp+7JhWaOFNVWPTGNMx5EZaB3gT
+         7SOG2+OXV99L80YKFuM2cozQcdi8lqk4/JZHGFlVr+VUvzitpRctGFGuVI4+s6oPWOHr
+         CFJp3YgtTH10XALn6JWAzIWvYHGr7u/MMmKhROF8v9Mwnx52kRp+V0ZIRrvDGhMLKVg1
+         R9E1UKD3aEiqwXk9YNHQiJZ5RYqXggORLtGmZXrKg0fEpqgLP6zAbdluh0LS9WjtH6de
+         rvPRSfz33SNOddxoOlmSiClDjEjZdyXBspD0vw/IP9ItX6EEuPTTpQ+3C3AwlaO7azpF
+         czqQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=rAY/2rsGWVQI7miK95tdmmg3s5x5fCw2vM0O0XxkVmU=;
+        b=TkfOfwu0rF8YLp5ru5rwBxucjluojCKlcajzB2Hr5CqKhFBH1qLfjpWpEEx6vNQXd9
+         BQ9+sGyGcqWYZs2otA8cc3J2x/Wu2Z7+bLWSOG/itFvN59bYn6Afcu+s2ogq63zhxV/Z
+         fuw76T0fd6h88Rm5M/qJBgq9sU6cvhRqMJNhL9UTHlGW5iObqpDTqX8CdFVTeNEuEfre
+         4jWstamnEawtSe3rNg5U5rtGyuZYQjrcuGWFeqbEovsxSfoaJHCl6NHs6eCXMP/GXEb/
+         Y7M05Nkz5dneQ9fRFWKkSMaB3ZgBmoU8jNyKiLVXWC8GQEShumQC2FfxxT7isL0dSSJ1
+         cQuQ==
+X-Gm-Message-State: AOPr4FX1K1WYKNXU2bYrCWclgGBsShMLBUgFDyowOS9bCDCJ0jaX1T76TE6fNt+HuFVjC1nJYmAerdRRe+ajKg==
+X-Received: by 10.194.142.147 with SMTP id rw19mr5201191wjb.31.1461103397658; Tue, 19 Apr 2016 15:03:17 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.194.72.169 with HTTP; Tue, 19 Apr 2016 15:02:58 -0700 (PDT)
+From: Mike Mirzayanov <mirzayanovmr@gmail.com>
+Date: Wed, 20 Apr 2016 01:02:58 +0300
+Message-ID: <CAFs4M=j-js=FYfM88z-cAcFHr-Tc8jCbQpKp6SjM+B3DstdjiA@mail.gmail.com>
+Subject: Приглашение на межвузовскую олимпиаду по программированию [24-е апреля, воскресенье]
+To: Mike Mirzayanov <mirzayanovmr@gmail.com>
+Content-Type: multipart/alternative; boundary=089e013a2992ff6e4b0530dda46d
+Bcc: lester0578@gmail.com
+
+--089e013a2992ff6e4b0530dda46d
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+0JTQvtCx0YDRi9C5INC00LXQvdGMLg0KDQrQmNC00LXRgiDRgNC10LPQuNGB0YLRgNCw0YbQuNGP
+INC90LAg0YHRgtGD0LTQtdC90YfQtdGB0LrRg9GOINC80LXQttCy0YPQt9C+0LLRgdC60YPRjiDQ
+vtC70LjQvNC/0LjQsNC00YMg0L/Qvg0K0L/RgNC+0LPRgNCw0LzQvNC40YDQvtCy0LDQvdC40Y4u
+ICrQl9Cw0YDQtdCz0LjRgdGC0YDQuNGA0L7QstCw0YLRjNGB0Y8g0L3Rg9C20L3QviDQv9C+INCw
+0LTRgNC10YHRgw0KaHR0cDovL2FjbS5zZ3UucnUvc3R1ZGVudDIwMTYgPGh0dHA6Ly9hY20uc2d1
+LnJ1L3N0dWRlbnQyMDE2PiDQtNC+IDIxLdCz0L4NCtCw0L/RgNC10LvRjy4g0J/QvtGC0L7RgNC+
+0L/QuNGC0LXRgdGMISoNCg0K0JfQkNCg0JXQk9CY0KHQotCg0JjQoNCe0JLQkNCi0KzQodCvIDxo
+dHRwOi8vYWNtLnNndS5ydS9zdHVkZW50MjAxNj4NCg0K0J3QsNC/0L7QvNC40L3QsNGOLCDRh9GC
+0L4g0L7Qu9C40LzQv9C40LDQtNCwINCx0YPQtNC10YIg0L/RgNC+0YXQvtC00LjRgtGMINCyINC0
+0LLRg9GFINGB0LXQutGG0LjRj9GFOiDRjtC90LjQvtGA0YHQutC+0LkNCijRgdGC0YPQtNC10L3R
+gtGLIDEtMyDQutGD0YDRgdCwKSDQuCDQv9GA0L7RhNC10YHRgdC40L7QvdCw0LvRjNC90L7QuSAo
+NCsg0LrRg9GA0YEg0LjQu9C4INGC0LUsINC60YLQviDQt9Cw0L3QuNC80LDQtdGC0YHRjyDQsg0K
+0KbQntCf0J8g0LHQvtC70LXQtSDQs9C+0LTQsCkuDQoNCtCW0LTRgyDQstCw0YEg0L3QsCDQvtC7
+0LjQvNC/0LjQsNC00LUhDQoNCi0tIA0K0KEg0YPQstCw0LbQtdC90LjQtdC8LA0K0JwuINCgLiDQ
+nNC40YDQt9Cw0Y/QvdC+0LIsDQoNCtCg0YPQutC+0LLQvtC00LjRgtC10LvRjCDQptC10L3RgtGA
+0LAg0L7Qu9C40LzQv9C40LDQtNC90L7QuQ0K0L/QvtC00LPQvtGC0L7QstC60Lgg0L/RgNC+0LPR
+gNCw0LzQvNC40YHRgtC+0LINCtCh0LDRgNCw0YLQvtCy0YHQutC+0LPQviDQs9C+0YHRg9C00LDR
+gNGB0YLQstC10L3QvdC+0LPQviDRg9C90LjQstC10YDRgdC40YLQtdGC0LANCg0K0KLQtdC7Ljog
+Kzc5MTcyMDIwNTc4DQptYWlsdG86IG1pcnpheWFub3ZtckBnbWFpbC5jb20NCg==
+--089e013a2992ff6e4b0530dda46d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+PGRpdj7QlNC+0LHRgNGL0Lkg0LTQtdC90YwuPC9kaXY+PGRpdj48YnI+
+PC9kaXY+PGRpdj7QmNC00LXRgiDRgNC10LPQuNGB0YLRgNCw0YbQuNGPINC90LAg0YHRgtGD0LTQ
+tdC90YfQtdGB0LrRg9GOINC80LXQttCy0YPQt9C+0LLRgdC60YPRjiDQvtC70LjQvNC/0LjQsNC0
+0YMg0L/QviDQv9GA0L7Qs9GA0LDQvNC80LjRgNC+0LLQsNC90LjRji4gPGI+0JfQsNGA0LXQs9C4
+0YHRgtGA0LjRgNC+0LLQsNGC0YzRgdGPINC90YPQttC90L4g0L/QviDQsNC00YDQtdGB0YMgPGEg
+aHJlZj0iaHR0cDovL2FjbS5zZ3UucnUvc3R1ZGVudDIwMTYiPmh0dHA6Ly9hY20uc2d1LnJ1L3N0
+dWRlbnQyMDE2PC9hPiDQtNC+IDIxLdCz0L4g0LDQv9GA0LXQu9GPLiDQn9C+0YLQvtGA0L7Qv9C4
+0YLQtdGB0YwhPC9iPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGEgaHJlZj0iaHR0cDovL2Fj
+bS5zZ3UucnUvc3R1ZGVudDIwMTYiPjxmb250IHNpemU9IjQiPtCX0JDQoNCV0JPQmNCh0KLQoNCY
+0KDQntCS0JDQotCs0KHQrzwvZm9udD48L2E+PC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7QndCw
+0L/QvtC80LjQvdCw0Y4sINGH0YLQviDQvtC70LjQvNC/0LjQsNC00LAg0LHRg9C00LXRgiDQv9GA
+0L7RhdC+0LTQuNGC0Ywg0LIg0LTQstGD0YUg0YHQtdC60YbQuNGP0YU6INGO0L3QuNC+0YDRgdC6
+0L7QuSAo0YHRgtGD0LTQtdC90YLRiyAxLTMg0LrRg9GA0YHQsCkg0Lgg0L/RgNC+0YTQtdGB0YHQ
+uNC+0L3QsNC70YzQvdC+0LkgKDQrINC60YPRgNGBINC40LvQuCDRgtC1LCDQutGC0L4g0LfQsNC9
+0LjQvNCw0LXRgtGB0Y8g0LIg0KbQntCf0J8g0LHQvtC70LXQtSDQs9C+0LTQsCkuPC9kaXY+PGRp
+dj48YnI+PC9kaXY+PGRpdj7QltC00YMg0LLQsNGBINC90LAg0L7Qu9C40LzQv9C40LDQtNC1ITwv
+ZGl2PjxkaXY+PGJyPjwvZGl2Pi0tIDxicj48ZGl2IGNsYXNzPSJnbWFpbF9zaWduYXR1cmUiPjxk
+aXY+0KEg0YPQstCw0LbQtdC90LjQtdC8LDwvZGl2PjxkaXY+0JwuINCgLiDQnNC40YDQt9Cw0Y/Q
+vdC+0LIsPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRpdj7QoNGD0LrQvtCy0L7QtNC40YLQtdC70Ywg
+0KbQtdC90YLRgNCwINC+0LvQuNC80L/QuNCw0LTQvdC+0Lk8L2Rpdj48ZGl2PtC/0L7QtNCz0L7R
+gtC+0LLQutC4wqDQv9GA0L7Qs9GA0LDQvNC80LjRgdGC0L7QsjwvZGl2PjxkaXY+PGRpdj7QodCw
+0YDQsNGC0L7QstGB0LrQvtCz0L4g0LPQvtGB0YPQtNCw0YDRgdGC0LLQtdC90L3QvtCz0L4g0YPQ
+vdC40LLQtdGA0YHQuNGC0LXRgtCwPC9kaXY+PGJyPjwvZGl2PjxkaXY+0KLQtdC7LjogKzc5MTcy
+MDIwNTc4PC9kaXY+PGRpdj5tYWlsdG86IDxhIGhyZWY9Im1haWx0bzptaXJ6YXlhbm92bXJAZ21h
+aWwuY29tIiB0YXJnZXQ9Il9ibGFuayI+bWlyemF5YW5vdm1yQGdtYWlsLmNvbTwvYT48L2Rpdj48
+L2Rpdj4NCjwvZGl2Pg0K
+--089e013a2992ff6e4b0530dda46d--

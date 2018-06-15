@@ -1,0 +1,45 @@
+Delivered-To: evgenia5852@mail.ru
+Return-path: <bounce@t.mail.coursera.org>
+Authentication-Results: mxs.mail.ru; spf=pass (mx133.mail.ru: domain of t.mail.coursera.org designates 52.11.176.0 as permitted sender) smtp.mailfrom=bounce@t.mail.coursera.org smtp.helo=mta1a3.mail.coursera.org;
+	 dkim=pass header.d=t.mail.coursera.org
+Received-SPF: pass (mx133.mail.ru: domain of t.mail.coursera.org designates 52.11.176.0 as permitted sender) client-ip=52.11.176.0; envelope-from=bounce@t.mail.coursera.org; helo=mta1a3.mail.coursera.org;
+Received: from mta1a3.mail.coursera.org ([52.11.176.0]:59208)
+	by mx133.mail.ru with esmtp (envelope-from <bounce@t.mail.coursera.org>)
+	id 1eAhp4-0007DL-OY
+	for evgenia5852@mail.ru; Fri, 03 Nov 2017 22:40:11 +0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=t.mail.coursera.org;
+	s=scph0616; t=1509738009; i=@t.mail.coursera.org;
+	bh=t/r0e/JDpXIVfae4iMl4hUBy8nfK3FKojNa2Wv3Pb/g=;
+	h=To:Message-ID:Date:Content-Type:Subject:From;
+	b=Iai3FBH5aTlEYHF/3dRpUYSYBirTwdYgL7l0kSvtm222lGwQmazvugE71z2hHK8VA
+	 ZdhnLvqpRh0JMrRJ0/Fp7YMxzq/CU0asE6YjmsQwTsHqY0PjnMBWGkCWnJOQLXLkUV
+	 Ljg9h2TU2yF4j0AqVUK2PLp4iRek3H5f3EKPLic4=
+X-MSFBL: 2F1qHWXOO1ewHlsrwxhdrdlWb5caJiz4iwi400REn+4=|eyJ0ZW1wbGF0ZV9pZCI
+	6InRlbXBsYXRlXzQ4Njg2MDc3MjAwNDg4MjAwIiwiZyI6InRyYW5zYWN0aW9uYWw
+	iLCJ0ZW1wbGF0ZV92ZXJzaW9uIjoiMCIsInJjcHRfdGFncyI6WyBdLCJyIjoiZXZ
+	nZW5pYTU4NTJAbWFpbC5ydSIsImNhbXBhaWduX2lkIjoicXlvV1lNQWpFZWVmZXd
+	XU0hCS09BdyIsImZyaWVuZGx5X2Zyb20iOiJuby1yZXBseUB0Lm1haWwuY291cnN
+	lcmEub3JnIiwidHJhbnNtaXNzaW9uX2lkIjoiNDg2ODYwNzcyMDA0ODgyMDAiLCJ
+	jdXN0b21lcl9pZCI6IjEiLCJiIjoiaXBfNTIuMTEuMTc2LjAiLCJ0cmFuc2FjdGl
+	vbmFsIjoiMSIsIm1lc3NhZ2VfaWQiOiIwMDAyMTljNmZjNTk2YmFmYjUyOCIsInN
+	1YmFjY291bnRfaWQiOiIwIiwidGVuYW50X2lkIjoiY291cnNlcmEiLCJyY3B0X21
+	ldGEiOnsgIm5vdGlmaWNhdGlvbl90ZW1wbGF0ZSI6ICJ2TmZZSU1BakVlZWZld1d
+	TSEJLT0F3IiwgImNhbXBhaWduX2dyb3VwIjogInF5b1dZTUFqRWVlZmV3V1NIQkt
+	PQXciLCAiY2hhbm5lbCI6ICJFTUFJTCIsICJwcmVmZXJlbmNlIjogImdlbmVyYWw
+	uY291cnNlcmEudm9sdW50ZWVyIiwgImJpbmRpbmciOiAidHJhbnNhY3Rpb25hbCI
+	gfX0=
+To: =?utf-8?B?0J/QtdGC0LjQvdCwINCV0LLQs9C10L3QuNGP?= <evgenia5852@mail.ru>
+Message-ID: <5B.82.44907.916CCF95@b.plat1.coursera.aws-usw2b.prd.sparkpost>
+Date: Fri, 03 Nov 2017 19:40:09 +0000
+Content-Type: multipart/alternative; boundary="_----U5r1oL5UVosT8+wbTlM7FQ===_0B/82-44907-916CCF95"
+MIME-Version: 1.0
+Subject: 5 minute survey on new Coursera programs 
+From: "Coursera" <no-reply@t.mail.coursera.org>
+X-7FA49CB5: 4C63732C365F1A2CA18204E546F3947C051A379B0EEAE25B6FE61945B1AADD59A8DF7F3B2552694AD36CF376F6C93DE02DBA43225CD8A89F051A379B0EEAE25B7BBAAF6CCB0D364E1D4CAE0CD14F14AD38D433D53B717345C09775C1D3CA48CF17B107DEF921CE7938D433D53B717345BD4B6F7A4D31EC0B689DF4DC54C1B6510A6AB1C7CE11FEE32FFDA4F57982C5F4B289B51CCB092ABD5571747095F342E8C234C8B12C006B7A803A18BE589B9CE5A7410BF03E17DD97C3AE012029E529E6
+X-DMARC-Policy: no
+X-Magic: A2BBA6E1549E1F570D13B804AEF6C315CCB84F963E0384C479168D3EEC4B4323
+X-Mailru-DRep: bad.0
+X-Mailru-DRepReason: 160701070013888
+X-Mailru-Noreply: yes
+X-Mras: PROBABLE_SPAM
+X-Spam: undefined

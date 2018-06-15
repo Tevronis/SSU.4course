@@ -1,0 +1,7986 @@
+{
+  "bitsproxy.dll": [
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 1
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 2
+    },
+    {
+      "name": "DllRegisterServer",
+      "ordinal": 3
+    },
+    {
+      "name": "DllUnregisterServer",
+      "ordinal": 4
+    }
+  ],
+  "bluetoothapis.dll": [
+    {
+      "name": "",
+      "ordinal": 103
+    },
+    {
+      "name": "BluetoothAddressToString",
+      "ordinal": 104
+    },
+    {
+      "name": "BluetoothDisconnectDevice",
+      "ordinal": 105
+    },
+    {
+      "name": "BluetoothEnableDiscovery",
+      "ordinal": 106
+    },
+    {
+      "name": "BluetoothEnableIncomingConnections",
+      "ordinal": 107
+    },
+    {
+      "name": "BluetoothEnumerateInstalledServices",
+      "ordinal": 108
+    },
+    {
+      "name": "BluetoothEnumerateInstalledServicesEx",
+      "ordinal": 109
+    },
+    {
+      "name": "BluetoothEnumerateLocalServices",
+      "ordinal": 110
+    },
+    {
+      "name": "BluetoothFindBrowseGroupClose",
+      "ordinal": 111
+    },
+    {
+      "name": "BluetoothFindClassIdClose",
+      "ordinal": 112
+    },
+    {
+      "name": "BluetoothFindDeviceClose",
+      "ordinal": 113
+    },
+    {
+      "name": "BluetoothFindFirstBrowseGroup",
+      "ordinal": 114
+    },
+    {
+      "name": "BluetoothFindFirstClassId",
+      "ordinal": 115
+    },
+    {
+      "name": "BluetoothFindFirstDevice",
+      "ordinal": 116
+    },
+    {
+      "name": "BluetoothFindFirstProfileDescriptor",
+      "ordinal": 117
+    },
+    {
+      "name": "BluetoothFindFirstProtocolDescriptorStack",
+      "ordinal": 118
+    },
+    {
+      "name": "BluetoothFindFirstProtocolEntry",
+      "ordinal": 119
+    },
+    {
+      "name": "BluetoothFindFirstRadio",
+      "ordinal": 120
+    },
+    {
+      "name": "BluetoothFindFirstService",
+      "ordinal": 121
+    },
+    {
+      "name": "BluetoothFindFirstServiceEx",
+      "ordinal": 122
+    },
+    {
+      "name": "BluetoothFindNextBrowseGroup",
+      "ordinal": 123
+    },
+    {
+      "name": "BluetoothFindNextClassId",
+      "ordinal": 124
+    },
+    {
+      "name": "BluetoothFindNextDevice",
+      "ordinal": 125
+    },
+    {
+      "name": "BluetoothFindNextProfileDescriptor",
+      "ordinal": 126
+    },
+    {
+      "name": "BluetoothFindNextProtocolDescriptorStack",
+      "ordinal": 127
+    },
+    {
+      "name": "BluetoothFindNextProtocolEntry",
+      "ordinal": 128
+    },
+    {
+      "name": "BluetoothFindNextRadio",
+      "ordinal": 129
+    },
+    {
+      "name": "BluetoothFindNextService",
+      "ordinal": 130
+    },
+    {
+      "name": "BluetoothFindProfileDescriptorClose",
+      "ordinal": 131
+    },
+    {
+      "name": "BluetoothFindProtocolDescriptorStackClose",
+      "ordinal": 132
+    },
+    {
+      "name": "BluetoothFindProtocolEntryClose",
+      "ordinal": 133
+    },
+    {
+      "name": "BluetoothFindRadioClose",
+      "ordinal": 134
+    },
+    {
+      "name": "BluetoothFindServiceClose",
+      "ordinal": 135
+    },
+    {
+      "name": "BluetoothGATTAbortReliableWrite",
+      "ordinal": 136
+    },
+    {
+      "name": "BluetoothGATTBeginReliableWrite",
+      "ordinal": 137
+    },
+    {
+      "name": "BluetoothGATTEndReliableWrite",
+      "ordinal": 138
+    },
+    {
+      "name": "BluetoothGATTGetCharacteristicValue",
+      "ordinal": 139
+    },
+    {
+      "name": "BluetoothGATTGetCharacteristics",
+      "ordinal": 140
+    },
+    {
+      "name": "BluetoothGATTGetDescriptorValue",
+      "ordinal": 141
+    },
+    {
+      "name": "BluetoothGATTGetDescriptors",
+      "ordinal": 142
+    },
+    {
+      "name": "BluetoothGATTGetIncludedServices",
+      "ordinal": 143
+    },
+    {
+      "name": "BluetoothGATTGetServices",
+      "ordinal": 144
+    },
+    {
+      "name": "BluetoothGATTRegisterEvent",
+      "ordinal": 145
+    },
+    {
+      "name": "BluetoothGATTSetCharacteristicValue",
+      "ordinal": 146
+    },
+    {
+      "name": "BluetoothGATTSetDescriptorValue",
+      "ordinal": 147
+    },
+    {
+      "name": "BluetoothGATTUnregisterEvent",
+      "ordinal": 148
+    },
+    {
+      "name": "BluetoothGetDeviceInfo",
+      "ordinal": 149
+    },
+    {
+      "name": "BluetoothGetLocalServiceInfo",
+      "ordinal": 150
+    },
+    {
+      "name": "BluetoothGetRadioInfo",
+      "ordinal": 151
+    },
+    {
+      "name": "BluetoothGetServicePnpInstance",
+      "ordinal": 152
+    },
+    {
+      "name": "BluetoothIsConnectable",
+      "ordinal": 153
+    },
+    {
+      "name": "BluetoothIsDiscoverable",
+      "ordinal": 154
+    },
+    {
+      "name": "BluetoothIsVersionAvailable",
+      "ordinal": 155
+    },
+    {
+      "name": "BluetoothRegisterForAuthentication",
+      "ordinal": 156
+    },
+    {
+      "name": "BluetoothRegisterForAuthenticationEx",
+      "ordinal": 157
+    },
+    {
+      "name": "BluetoothRemoveDevice",
+      "ordinal": 158
+    },
+    {
+      "name": "BluetoothSdpEnumAttributes",
+      "ordinal": 159
+    },
+    {
+      "name": "BluetoothSdpGetAttributeValue",
+      "ordinal": 160
+    },
+    {
+      "name": "BluetoothSdpGetContainerElementData",
+      "ordinal": 161
+    },
+    {
+      "name": "BluetoothSdpGetElementData",
+      "ordinal": 162
+    },
+    {
+      "name": "BluetoothSdpGetString",
+      "ordinal": 163
+    },
+    {
+      "name": "BluetoothSendAuthenticationResponse",
+      "ordinal": 164
+    },
+    {
+      "name": "BluetoothSendAuthenticationResponseEx",
+      "ordinal": 165
+    },
+    {
+      "name": "BluetoothSetLocalServiceInfo",
+      "ordinal": 166
+    },
+    {
+      "name": "BluetoothSetServiceState",
+      "ordinal": 167
+    },
+    {
+      "name": "BluetoothSetServiceStateEx",
+      "ordinal": 168
+    },
+    {
+      "name": "BluetoothUnregisterAuthentication",
+      "ordinal": 169
+    },
+    {
+      "name": "BluetoothUpdateDeviceRecord",
+      "ordinal": 170
+    },
+    {
+      "name": "BthpCheckForUnsupportedGuid",
+      "ordinal": 171
+    },
+    {
+      "name": "BthpCleanupBRDeviceNode",
+      "ordinal": 172
+    },
+    {
+      "name": "BthpCleanupDeviceLocalServices",
+      "ordinal": 173
+    },
+    {
+      "name": "BthpCleanupDeviceRemoteServices",
+      "ordinal": 174
+    },
+    {
+      "name": "BthpCleanupLEDeviceNodes",
+      "ordinal": 175
+    },
+    {
+      "name": "BthpEnableA2DPIfPresent",
+      "ordinal": 176
+    },
+    {
+      "name": "BthpEnableAllServices",
+      "ordinal": 177
+    },
+    {
+      "name": "BthpEnableConnectableAndDiscoverable",
+      "ordinal": 178
+    },
+    {
+      "name": "BthpEnableRadioSoftware",
+      "ordinal": 179
+    },
+    {
+      "name": "BthpFindPnpInfo",
+      "ordinal": 180
+    },
+    {
+      "name": "BthpGATTCloseSession",
+      "ordinal": 181
+    },
+    {
+      "name": "BthpInnerRecord",
+      "ordinal": 182
+    },
+    {
+      "name": "BthpIsBluetoothServiceRunning",
+      "ordinal": 183
+    },
+    {
+      "name": "BthpIsConnectableByDefault",
+      "ordinal": 184
+    },
+    {
+      "name": "BthpIsDiscoverable",
+      "ordinal": 185
+    },
+    {
+      "name": "BthpIsDiscoverableByDefault",
+      "ordinal": 186
+    },
+    {
+      "name": "BthpIsRadioSoftwareEnabled",
+      "ordinal": 187
+    },
+    {
+      "name": "BthpIsTopOfServiceGroup",
+      "ordinal": 188
+    },
+    {
+      "name": "BthpMapStatusToErr",
+      "ordinal": 189
+    },
+    {
+      "name": "BthpNextRecord",
+      "ordinal": 190
+    },
+    {
+      "name": "BthpRegisterForAuthentication",
+      "ordinal": 191
+    },
+    {
+      "name": "BthpSetServiceState",
+      "ordinal": 192
+    },
+    {
+      "name": "BthpSetServiceStateEx",
+      "ordinal": 193
+    },
+    {
+      "name": "BthpTranspose16Bits",
+      "ordinal": 194
+    },
+    {
+      "name": "BthpTranspose32Bits",
+      "ordinal": 195
+    },
+    {
+      "name": "BthpTransposeAndExtendBytes",
+      "ordinal": 196
+    },
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 197
+    },
+    {
+      "name": "FindNextOpenVCOMPort",
+      "ordinal": 198
+    },
+    {
+      "name": "InstallIncomingComPort",
+      "ordinal": 199
+    },
+    {
+      "name": "ShouldForceAuthentication",
+      "ordinal": 200
+    }
+  ],
+  "connect.dll": [
+    {
+      "name": "AddConnectionOptionListEntries",
+      "ordinal": 1
+    },
+    {
+      "name": "CreateVPNConnection",
+      "ordinal": 2
+    },
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 3
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 4
+    },
+    {
+      "name": "GetInternetConnected",
+      "ordinal": 5
+    },
+    {
+      "name": "GetNetworkConnected",
+      "ordinal": 6
+    },
+    {
+      "name": "GetVPNConnected",
+      "ordinal": 7
+    },
+    {
+      "name": "HrIsInternetConnected",
+      "ordinal": 8
+    },
+    {
+      "name": "HrIsInternetConnectedGUID",
+      "ordinal": 9
+    },
+    {
+      "name": "IsInternetConnected",
+      "ordinal": 10
+    },
+    {
+      "name": "IsInternetConnectedGUID",
+      "ordinal": 11
+    },
+    {
+      "name": "IsUniqueConnectionName",
+      "ordinal": 12
+    },
+    {
+      "name": "RegisterPageWithPage",
+      "ordinal": 13
+    },
+    {
+      "name": "UnregisterPage",
+      "ordinal": 14
+    },
+    {
+      "name": "UnregisterPagesLink",
+      "ordinal": 15
+    }
+  ],
+  "dhcpsapi.dll": [
+    {
+      "name": "DhcpAddFilterV4",
+      "ordinal": 1
+    },
+    {
+      "name": "DhcpAddMScopeElement",
+      "ordinal": 2
+    },
+    {
+      "name": "DhcpAddSecurityGroup",
+      "ordinal": 3
+    },
+    {
+      "name": "DhcpAddServer",
+      "ordinal": 4
+    },
+    {
+      "name": "DhcpAddSubnetElement",
+      "ordinal": 5
+    },
+    {
+      "name": "DhcpAddSubnetElementV4",
+      "ordinal": 6
+    },
+    {
+      "name": "DhcpAddSubnetElementV5",
+      "ordinal": 7
+    },
+    {
+      "name": "DhcpAddSubnetElementV6",
+      "ordinal": 8
+    },
+    {
+      "name": "DhcpAuditLogGetParams",
+      "ordinal": 9
+    },
+    {
+      "name": "DhcpAuditLogSetParams",
+      "ordinal": 10
+    },
+    {
+      "name": "DhcpCreateClass",
+      "ordinal": 11
+    },
+    {
+      "name": "DhcpCreateClassV6",
+      "ordinal": 12
+    },
+    {
+      "name": "DhcpCreateClientInfo",
+      "ordinal": 13
+    },
+    {
+      "name": "DhcpCreateClientInfoV4",
+      "ordinal": 14
+    },
+    {
+      "name": "DhcpCreateClientInfoVQ",
+      "ordinal": 15
+    },
+    {
+      "name": "DhcpCreateOption",
+      "ordinal": 16
+    },
+    {
+      "name": "DhcpCreateOptionV5",
+      "ordinal": 17
+    },
+    {
+      "name": "DhcpCreateOptionV6",
+      "ordinal": 18
+    },
+    {
+      "name": "DhcpCreateSubnet",
+      "ordinal": 19
+    },
+    {
+      "name": "DhcpCreateSubnetV6",
+      "ordinal": 20
+    },
+    {
+      "name": "DhcpCreateSubnetVQ",
+      "ordinal": 21
+    },
+    {
+      "name": "DhcpDeleteClass",
+      "ordinal": 22
+    },
+    {
+      "name": "DhcpDeleteClassV6",
+      "ordinal": 23
+    },
+    {
+      "name": "DhcpDeleteClientInfo",
+      "ordinal": 24
+    },
+    {
+      "name": "DhcpDeleteClientInfoV6",
+      "ordinal": 25
+    },
+    {
+      "name": "DhcpDeleteFilterV4",
+      "ordinal": 26
+    },
+    {
+      "name": "DhcpDeleteMClientInfo",
+      "ordinal": 27
+    },
+    {
+      "name": "DhcpDeleteMScope",
+      "ordinal": 28
+    },
+    {
+      "name": "DhcpDeleteServer",
+      "ordinal": 29
+    },
+    {
+      "name": "DhcpDeleteSubnet",
+      "ordinal": 30
+    },
+    {
+      "name": "DhcpDeleteSubnetV6",
+      "ordinal": 31
+    },
+    {
+      "name": "DhcpDeleteSuperScopeV4",
+      "ordinal": 32
+    },
+    {
+      "name": "DhcpDsCleanup",
+      "ordinal": 33
+    },
+    {
+      "name": "DhcpDsClearHostServerEntries",
+      "ordinal": 34
+    },
+    {
+      "name": "DhcpDsInit",
+      "ordinal": 35
+    },
+    {
+      "name": "DhcpEnumClasses",
+      "ordinal": 36
+    },
+    {
+      "name": "DhcpEnumClassesV6",
+      "ordinal": 37
+    },
+    {
+      "name": "DhcpEnumFilterV4",
+      "ordinal": 38
+    },
+    {
+      "name": "DhcpEnumMScopeClients",
+      "ordinal": 39
+    },
+    {
+      "name": "DhcpEnumMScopeElements",
+      "ordinal": 40
+    },
+    {
+      "name": "DhcpEnumMScopes",
+      "ordinal": 41
+    },
+    {
+      "name": "DhcpEnumOptionValues",
+      "ordinal": 42
+    },
+    {
+      "name": "DhcpEnumOptionValuesV5",
+      "ordinal": 43
+    },
+    {
+      "name": "DhcpEnumOptionValuesV6",
+      "ordinal": 44
+    },
+    {
+      "name": "DhcpEnumOptions",
+      "ordinal": 45
+    },
+    {
+      "name": "DhcpEnumOptionsV5",
+      "ordinal": 46
+    },
+    {
+      "name": "DhcpEnumOptionsV6",
+      "ordinal": 47
+    },
+    {
+      "name": "DhcpEnumServers",
+      "ordinal": 48
+    },
+    {
+      "name": "DhcpEnumSubnetClients",
+      "ordinal": 49
+    },
+    {
+      "name": "DhcpEnumSubnetClientsFilterStatusInfo",
+      "ordinal": 50
+    },
+    {
+      "name": "DhcpEnumSubnetClientsV4",
+      "ordinal": 51
+    },
+    {
+      "name": "DhcpEnumSubnetClientsV5",
+      "ordinal": 52
+    },
+    {
+      "name": "DhcpEnumSubnetClientsV6",
+      "ordinal": 53
+    },
+    {
+      "name": "DhcpEnumSubnetClientsVQ",
+      "ordinal": 54
+    },
+    {
+      "name": "DhcpEnumSubnetElements",
+      "ordinal": 55
+    },
+    {
+      "name": "DhcpEnumSubnetElementsV4",
+      "ordinal": 56
+    },
+    {
+      "name": "DhcpEnumSubnetElementsV5",
+      "ordinal": 57
+    },
+    {
+      "name": "DhcpEnumSubnetElementsV6",
+      "ordinal": 58
+    },
+    {
+      "name": "DhcpEnumSubnets",
+      "ordinal": 59
+    },
+    {
+      "name": "DhcpEnumSubnetsV6",
+      "ordinal": 60
+    },
+    {
+      "name": "DhcpGetAllOptionValues",
+      "ordinal": 61
+    },
+    {
+      "name": "DhcpGetAllOptionValuesV6",
+      "ordinal": 62
+    },
+    {
+      "name": "DhcpGetAllOptions",
+      "ordinal": 63
+    },
+    {
+      "name": "DhcpGetAllOptionsV6",
+      "ordinal": 64
+    },
+    {
+      "name": "DhcpGetClassInfo",
+      "ordinal": 65
+    },
+    {
+      "name": "DhcpGetClientInfo",
+      "ordinal": 66
+    },
+    {
+      "name": "DhcpGetClientInfoV4",
+      "ordinal": 67
+    },
+    {
+      "name": "DhcpGetClientInfoV6",
+      "ordinal": 68
+    },
+    {
+      "name": "DhcpGetClientInfoVQ",
+      "ordinal": 69
+    },
+    {
+      "name": "DhcpGetClientOptions",
+      "ordinal": 70
+    },
+    {
+      "name": "DhcpGetFilterV4",
+      "ordinal": 71
+    },
+    {
+      "name": "DhcpGetMCastMibInfo",
+      "ordinal": 72
+    },
+    {
+      "name": "DhcpGetMScopeInfo",
+      "ordinal": 73
+    },
+    {
+      "name": "DhcpGetMibInfo",
+      "ordinal": 74
+    },
+    {
+      "name": "DhcpGetMibInfoV5",
+      "ordinal": 75
+    },
+    {
+      "name": "DhcpGetMibInfoV6",
+      "ordinal": 76
+    },
+    {
+      "name": "DhcpGetMibInfoVQ",
+      "ordinal": 77
+    },
+    {
+      "name": "DhcpGetOptionInfo",
+      "ordinal": 78
+    },
+    {
+      "name": "DhcpGetOptionInfoV5",
+      "ordinal": 79
+    },
+    {
+      "name": "DhcpGetOptionInfoV6",
+      "ordinal": 80
+    },
+    {
+      "name": "DhcpGetOptionValue",
+      "ordinal": 81
+    },
+    {
+      "name": "DhcpGetOptionValueV5",
+      "ordinal": 82
+    },
+    {
+      "name": "DhcpGetOptionValueV6",
+      "ordinal": 83
+    },
+    {
+      "name": "DhcpGetServerBindingInfo",
+      "ordinal": 84
+    },
+    {
+      "name": "DhcpGetServerBindingInfoV6",
+      "ordinal": 85
+    },
+    {
+      "name": "DhcpGetServerSpecificStrings",
+      "ordinal": 86
+    },
+    {
+      "name": "DhcpGetSubnetDelayOffer",
+      "ordinal": 87
+    },
+    {
+      "name": "DhcpGetSubnetInfo",
+      "ordinal": 88
+    },
+    {
+      "name": "DhcpGetSubnetInfoV6",
+      "ordinal": 89
+    },
+    {
+      "name": "DhcpGetSubnetInfoVQ",
+      "ordinal": 90
+    },
+    {
+      "name": "DhcpGetSuperScopeInfoV4",
+      "ordinal": 91
+    },
+    {
+      "name": "DhcpGetThreadOptions",
+      "ordinal": 92
+    },
+    {
+      "name": "DhcpGetVersion",
+      "ordinal": 93
+    },
+    {
+      "name": "DhcpHlprAddV4PolicyCondition",
+      "ordinal": 94
+    },
+    {
+      "name": "DhcpHlprAddV4PolicyExpr",
+      "ordinal": 95
+    },
+    {
+      "name": "DhcpHlprAddV4PolicyRange",
+      "ordinal": 96
+    },
+    {
+      "name": "DhcpHlprCreateV4Policy",
+      "ordinal": 97
+    },
+    {
+      "name": "DhcpHlprCreateV4PolicyEx",
+      "ordinal": 98
+    },
+    {
+      "name": "DhcpHlprFindV4DhcpProperty",
+      "ordinal": 99
+    },
+    {
+      "name": "DhcpHlprFreeV4DhcpProperty",
+      "ordinal": 100
+    },
+    {
+      "name": "DhcpHlprFreeV4DhcpPropertyArray",
+      "ordinal": 101
+    },
+    {
+      "name": "DhcpHlprFreeV4Policy",
+      "ordinal": 102
+    },
+    {
+      "name": "DhcpHlprFreeV4PolicyArray",
+      "ordinal": 103
+    },
+    {
+      "name": "DhcpHlprFreeV4PolicyEx",
+      "ordinal": 104
+    },
+    {
+      "name": "DhcpHlprFreeV4PolicyExArray",
+      "ordinal": 105
+    },
+    {
+      "name": "DhcpHlprIsV4PolicySingleUC",
+      "ordinal": 106
+    },
+    {
+      "name": "DhcpHlprIsV4PolicyValid",
+      "ordinal": 107
+    },
+    {
+      "name": "DhcpHlprIsV4PolicyWellFormed",
+      "ordinal": 108
+    },
+    {
+      "name": "DhcpHlprModifyV4PolicyExpr",
+      "ordinal": 109
+    },
+    {
+      "name": "DhcpHlprResetV4PolicyExpr",
+      "ordinal": 110
+    },
+    {
+      "name": "DhcpModifyClass",
+      "ordinal": 111
+    },
+    {
+      "name": "DhcpModifyClassV6",
+      "ordinal": 112
+    },
+    {
+      "name": "DhcpRemoveMScopeElement",
+      "ordinal": 113
+    },
+    {
+      "name": "DhcpRemoveOption",
+      "ordinal": 114
+    },
+    {
+      "name": "DhcpRemoveOptionV5",
+      "ordinal": 115
+    },
+    {
+      "name": "DhcpRemoveOptionV6",
+      "ordinal": 116
+    },
+    {
+      "name": "DhcpRemoveOptionValue",
+      "ordinal": 117
+    },
+    {
+      "name": "DhcpRemoveOptionValueV5",
+      "ordinal": 118
+    },
+    {
+      "name": "DhcpRemoveOptionValueV6",
+      "ordinal": 119
+    },
+    {
+      "name": "DhcpRemoveSubnetElement",
+      "ordinal": 120
+    },
+    {
+      "name": "DhcpRemoveSubnetElementV4",
+      "ordinal": 121
+    },
+    {
+      "name": "DhcpRemoveSubnetElementV5",
+      "ordinal": 122
+    },
+    {
+      "name": "DhcpRemoveSubnetElementV6",
+      "ordinal": 123
+    },
+    {
+      "name": "DhcpRpcFreeMemory",
+      "ordinal": 124
+    },
+    {
+      "name": "DhcpScanDatabase",
+      "ordinal": 125
+    },
+    {
+      "name": "DhcpScanMDatabase",
+      "ordinal": 126
+    },
+    {
+      "name": "DhcpServerAuditlogParamsFree",
+      "ordinal": 127
+    },
+    {
+      "name": "DhcpServerBackupDatabase",
+      "ordinal": 128
+    },
+    {
+      "name": "DhcpServerGetConfig",
+      "ordinal": 129
+    },
+    {
+      "name": "DhcpServerGetConfigV4",
+      "ordinal": 130
+    },
+    {
+      "name": "DhcpServerGetConfigV6",
+      "ordinal": 131
+    },
+    {
+      "name": "DhcpServerGetConfigVQ",
+      "ordinal": 132
+    },
+    {
+      "name": "DhcpServerQueryAttribute",
+      "ordinal": 133
+    },
+    {
+      "name": "DhcpServerQueryAttributes",
+      "ordinal": 134
+    },
+    {
+      "name": "DhcpServerQueryDnsRegCredentials",
+      "ordinal": 135
+    },
+    {
+      "name": "DhcpServerRedoAuthorization",
+      "ordinal": 136
+    },
+    {
+      "name": "DhcpServerRestoreDatabase",
+      "ordinal": 137
+    },
+    {
+      "name": "DhcpServerSetConfig",
+      "ordinal": 138
+    },
+    {
+      "name": "DhcpServerSetConfigV4",
+      "ordinal": 139
+    },
+    {
+      "name": "DhcpServerSetConfigV6",
+      "ordinal": 140
+    },
+    {
+      "name": "DhcpServerSetConfigVQ",
+      "ordinal": 141
+    },
+    {
+      "name": "DhcpServerSetDnsRegCredentials",
+      "ordinal": 142
+    },
+    {
+      "name": "DhcpServerSetDnsRegCredentialsV5",
+      "ordinal": 143
+    },
+    {
+      "name": "DhcpSetClientInfo",
+      "ordinal": 144
+    },
+    {
+      "name": "DhcpSetClientInfoV4",
+      "ordinal": 145
+    },
+    {
+      "name": "DhcpSetClientInfoV6",
+      "ordinal": 146
+    },
+    {
+      "name": "DhcpSetClientInfoVQ",
+      "ordinal": 147
+    },
+    {
+      "name": "DhcpSetFilterV4",
+      "ordinal": 148
+    },
+    {
+      "name": "DhcpSetMScopeInfo",
+      "ordinal": 149
+    },
+    {
+      "name": "DhcpSetOptionInfo",
+      "ordinal": 150
+    },
+    {
+      "name": "DhcpSetOptionInfoV5",
+      "ordinal": 151
+    },
+    {
+      "name": "DhcpSetOptionInfoV6",
+      "ordinal": 152
+    },
+    {
+      "name": "DhcpSetOptionValue",
+      "ordinal": 153
+    },
+    {
+      "name": "DhcpSetOptionValueV5",
+      "ordinal": 154
+    },
+    {
+      "name": "DhcpSetOptionValueV6",
+      "ordinal": 155
+    },
+    {
+      "name": "DhcpSetOptionValues",
+      "ordinal": 156
+    },
+    {
+      "name": "DhcpSetOptionValuesV5",
+      "ordinal": 157
+    },
+    {
+      "name": "DhcpSetServerBindingInfo",
+      "ordinal": 158
+    },
+    {
+      "name": "DhcpSetServerBindingInfoV6",
+      "ordinal": 159
+    },
+    {
+      "name": "DhcpSetSubnetDelayOffer",
+      "ordinal": 160
+    },
+    {
+      "name": "DhcpSetSubnetInfo",
+      "ordinal": 161
+    },
+    {
+      "name": "DhcpSetSubnetInfoV6",
+      "ordinal": 162
+    },
+    {
+      "name": "DhcpSetSubnetInfoVQ",
+      "ordinal": 163
+    },
+    {
+      "name": "DhcpSetSuperScopeV4",
+      "ordinal": 164
+    },
+    {
+      "name": "DhcpSetThreadOptions",
+      "ordinal": 165
+    },
+    {
+      "name": "DhcpV4AddPolicyRange",
+      "ordinal": 166
+    },
+    {
+      "name": "DhcpV4CreateClientInfo",
+      "ordinal": 167
+    },
+    {
+      "name": "DhcpV4CreateClientInfoEx",
+      "ordinal": 168
+    },
+    {
+      "name": "DhcpV4CreatePolicy",
+      "ordinal": 169
+    },
+    {
+      "name": "DhcpV4CreatePolicyEx",
+      "ordinal": 170
+    },
+    {
+      "name": "DhcpV4DeletePolicy",
+      "ordinal": 171
+    },
+    {
+      "name": "DhcpV4EnumPolicies",
+      "ordinal": 172
+    },
+    {
+      "name": "DhcpV4EnumPoliciesEx",
+      "ordinal": 173
+    },
+    {
+      "name": "DhcpV4EnumSubnetClients",
+      "ordinal": 174
+    },
+    {
+      "name": "DhcpV4EnumSubnetClientsEx",
+      "ordinal": 175
+    },
+    {
+      "name": "DhcpV4EnumSubnetReservations",
+      "ordinal": 176
+    },
+    {
+      "name": "DhcpV4FailoverAddScopeToRelationship",
+      "ordinal": 177
+    },
+    {
+      "name": "DhcpV4FailoverCreateRelationship",
+      "ordinal": 178
+    },
+    {
+      "name": "DhcpV4FailoverDeleteRelationship",
+      "ordinal": 179
+    },
+    {
+      "name": "DhcpV4FailoverDeleteScopeFromRelationship",
+      "ordinal": 180
+    },
+    {
+      "name": "DhcpV4FailoverEnumRelationship",
+      "ordinal": 181
+    },
+    {
+      "name": "DhcpV4FailoverGetAddressStatus",
+      "ordinal": 182
+    },
+    {
+      "name": "DhcpV4FailoverGetClientInfo",
+      "ordinal": 183
+    },
+    {
+      "name": "DhcpV4FailoverGetRelationship",
+      "ordinal": 184
+    },
+    {
+      "name": "DhcpV4FailoverGetScopeRelationship",
+      "ordinal": 185
+    },
+    {
+      "name": "DhcpV4FailoverGetScopeStatistics",
+      "ordinal": 186
+    },
+    {
+      "name": "DhcpV4FailoverGetSystemTime",
+      "ordinal": 187
+    },
+    {
+      "name": "DhcpV4FailoverSetRelationship",
+      "ordinal": 188
+    },
+    {
+      "name": "DhcpV4FailoverTriggerAddrAllocation",
+      "ordinal": 189
+    },
+    {
+      "name": "DhcpV4GetAllOptionValues",
+      "ordinal": 190
+    },
+    {
+      "name": "DhcpV4GetClientInfo",
+      "ordinal": 191
+    },
+    {
+      "name": "DhcpV4GetClientInfoEx",
+      "ordinal": 192
+    },
+    {
+      "name": "DhcpV4GetFreeIPAddress",
+      "ordinal": 193
+    },
+    {
+      "name": "DhcpV4GetOptionValue",
+      "ordinal": 194
+    },
+    {
+      "name": "DhcpV4GetPolicy",
+      "ordinal": 195
+    },
+    {
+      "name": "DhcpV4GetPolicyEx",
+      "ordinal": 196
+    },
+    {
+      "name": "DhcpV4QueryPolicyEnforcement",
+      "ordinal": 197
+    },
+    {
+      "name": "DhcpV4RemoveOptionValue",
+      "ordinal": 198
+    },
+    {
+      "name": "DhcpV4RemovePolicyRange",
+      "ordinal": 199
+    },
+    {
+      "name": "DhcpV4SetOptionValue",
+      "ordinal": 200
+    },
+    {
+      "name": "DhcpV4SetOptionValues",
+      "ordinal": 201
+    },
+    {
+      "name": "DhcpV4SetPolicy",
+      "ordinal": 202
+    },
+    {
+      "name": "DhcpV4SetPolicyEnforcement",
+      "ordinal": 203
+    },
+    {
+      "name": "DhcpV4SetPolicyEx",
+      "ordinal": 204
+    },
+    {
+      "name": "DhcpV6CreateClientInfo",
+      "ordinal": 205
+    },
+    {
+      "name": "DhcpV6GetFreeIPAddress",
+      "ordinal": 206
+    },
+    {
+      "name": "DhcpV6GetStatelessStatistics",
+      "ordinal": 207
+    },
+    {
+      "name": "DhcpV6GetStatelessStoreParams",
+      "ordinal": 208
+    },
+    {
+      "name": "DhcpV6SetStatelessStoreParams",
+      "ordinal": 209
+    }
+  ],
+  "dnsapi.dll": [
+    {
+      "name": "DnsGetDomainName",
+      "ordinal": 1
+    },
+    {
+      "name": "DnsIsAMailboxType",
+      "ordinal": 2
+    },
+    {
+      "name": "DnsIsNSECType",
+      "ordinal": 3
+    },
+    {
+      "name": "DnsIsStatusRcode",
+      "ordinal": 4
+    },
+    {
+      "name": "DnsMapRcodeToStatus",
+      "ordinal": 5
+    },
+    {
+      "name": "DnsStatusString",
+      "ordinal": 6
+    },
+    {
+      "name": "DnsUnicodeToUtf8",
+      "ordinal": 7
+    },
+    {
+      "name": "DnsUtf8ToUnicode",
+      "ordinal": 8
+    },
+    {
+      "name": "Dns_ReadPacketName",
+      "ordinal": 9
+    },
+    {
+      "name": "Dns_ReadPacketNameAllocate",
+      "ordinal": 10
+    },
+    {
+      "name": "Dns_SkipPacketName",
+      "ordinal": 11
+    },
+    {
+      "name": "Dns_WriteDottedNameToPacket",
+      "ordinal": 12
+    },
+    {
+      "name": "AdaptiveTimeout_ClearInterfaceSpecificConfiguration",
+      "ordinal": 13
+    },
+    {
+      "name": "AdaptiveTimeout_ResetAdaptiveTimeout",
+      "ordinal": 14
+    },
+    {
+      "name": "AddRefQueryBlobEx",
+      "ordinal": 15
+    },
+    {
+      "name": "BreakRecordsIntoBlob",
+      "ordinal": 16
+    },
+    {
+      "name": "Coalesce_UpdateNetVersion",
+      "ordinal": 17
+    },
+    {
+      "name": "CombineRecordsInBlob",
+      "ordinal": 18
+    },
+    {
+      "name": "DeRefQueryBlobEx",
+      "ordinal": 19
+    },
+    {
+      "name": "DelaySortDAServerlist",
+      "ordinal": 20
+    },
+    {
+      "name": "DnsAcquireContextHandle_A",
+      "ordinal": 21
+    },
+    {
+      "name": "DnsAcquireContextHandle_W",
+      "ordinal": 22
+    },
+    {
+      "name": "DnsAllocateRecord",
+      "ordinal": 23
+    },
+    {
+      "name": "DnsApiAlloc",
+      "ordinal": 24
+    },
+    {
+      "name": "DnsApiAllocZero",
+      "ordinal": 25
+    },
+    {
+      "name": "DnsApiFree",
+      "ordinal": 26
+    },
+    {
+      "name": "DnsApiHeapReset",
+      "ordinal": 27
+    },
+    {
+      "name": "DnsApiRealloc",
+      "ordinal": 28
+    },
+    {
+      "name": "DnsApiSetDebugGlobals",
+      "ordinal": 29
+    },
+    {
+      "name": "DnsAsyncRegisterHostAddrs",
+      "ordinal": 30
+    },
+    {
+      "name": "DnsAsyncRegisterInit",
+      "ordinal": 31
+    },
+    {
+      "name": "DnsAsyncRegisterTerm",
+      "ordinal": 32
+    },
+    {
+      "name": "DnsCancelQuery",
+      "ordinal": 33
+    },
+    {
+      "name": "DnsCopyStringEx",
+      "ordinal": 34
+    },
+    {
+      "name": "DnsCreateReverseNameStringForIpAddress",
+      "ordinal": 35
+    },
+    {
+      "name": "DnsCreateStandardDnsNameCopy",
+      "ordinal": 36
+    },
+    {
+      "name": "DnsCreateStringCopy",
+      "ordinal": 37
+    },
+    {
+      "name": "DnsDeRegisterLocal",
+      "ordinal": 38
+    },
+    {
+      "name": "DnsDhcpRegisterAddrs",
+      "ordinal": 39
+    },
+    {
+      "name": "DnsDhcpRegisterHostAddrs",
+      "ordinal": 40
+    },
+    {
+      "name": "DnsDhcpRegisterInit",
+      "ordinal": 41
+    },
+    {
+      "name": "DnsDhcpRegisterTerm",
+      "ordinal": 42
+    },
+    {
+      "name": "DnsDhcpRemoveRegistrations",
+      "ordinal": 43
+    },
+    {
+      "name": "DnsDhcpSrvRegisterHostAddr",
+      "ordinal": 44
+    },
+    {
+      "name": "DnsDhcpSrvRegisterHostAddrEx",
+      "ordinal": 45
+    },
+    {
+      "name": "DnsDhcpSrvRegisterHostName",
+      "ordinal": 46
+    },
+    {
+      "name": "DnsDhcpSrvRegisterHostNameEx",
+      "ordinal": 47
+    },
+    {
+      "name": "DnsDhcpSrvRegisterInit",
+      "ordinal": 48
+    },
+    {
+      "name": "DnsDhcpSrvRegisterInitEx",
+      "ordinal": 49
+    },
+    {
+      "name": "DnsDhcpSrvRegisterInitialize",
+      "ordinal": 50
+    },
+    {
+      "name": "DnsDhcpSrvRegisterTerm",
+      "ordinal": 51
+    },
+    {
+      "name": "DnsDisableIdnEncoding",
+      "ordinal": 52
+    },
+    {
+      "name": "DnsDowncaseDnsNameLabel",
+      "ordinal": 53
+    },
+    {
+      "name": "DnsExtractRecordsFromMessage_UTF8",
+      "ordinal": 54
+    },
+    {
+      "name": "DnsExtractRecordsFromMessage_W",
+      "ordinal": 55
+    },
+    {
+      "name": "DnsFindAuthoritativeZone",
+      "ordinal": 56
+    },
+    {
+      "name": "DnsFlushResolverCache",
+      "ordinal": 57
+    },
+    {
+      "name": "DnsFlushResolverCacheEntry_A",
+      "ordinal": 58
+    },
+    {
+      "name": "DnsFlushResolverCacheEntry_UTF8",
+      "ordinal": 59
+    },
+    {
+      "name": "DnsFlushResolverCacheEntry_W",
+      "ordinal": 60
+    },
+    {
+      "name": "DnsFree",
+      "ordinal": 61
+    },
+    {
+      "name": "DnsFreeConfigStructure",
+      "ordinal": 62
+    },
+    {
+      "name": "DnsFreePolicyConfig",
+      "ordinal": 63
+    },
+    {
+      "name": "DnsFreeProxyName",
+      "ordinal": 64
+    },
+    {
+      "name": "DnsGetBufferLengthForStringCopy",
+      "ordinal": 65
+    },
+    {
+      "name": "DnsGetCacheDataTable",
+      "ordinal": 66
+    },
+    {
+      "name": "DnsGetDnsServerList",
+      "ordinal": 67
+    },
+    {
+      "name": "DnsGetLastFailedUpdateInfo",
+      "ordinal": 68
+    },
+    {
+      "name": "DnsGetPolicyTableInfo",
+      "ordinal": 69
+    },
+    {
+      "name": "DnsGetPolicyTableInfoPrivate",
+      "ordinal": 70
+    },
+    {
+      "name": "DnsGetPrimaryDomainName_A",
+      "ordinal": 71
+    },
+    {
+      "name": "DnsGetProxyInfoPrivate",
+      "ordinal": 72
+    },
+    {
+      "name": "DnsGetProxyInformation",
+      "ordinal": 73
+    },
+    {
+      "name": "DnsGetQueryRetryTimeouts",
+      "ordinal": 74
+    },
+    {
+      "name": "DnsGlobals",
+      "ordinal": 75
+    },
+    {
+      "name": "DnsIpv6AddressToString",
+      "ordinal": 76
+    },
+    {
+      "name": "DnsIpv6StringToAddress",
+      "ordinal": 77
+    },
+    {
+      "name": "DnsIsStringCountValidForTextType",
+      "ordinal": 78
+    },
+    {
+      "name": "DnsLogEvent",
+      "ordinal": 79
+    },
+    {
+      "name": "DnsModifyRecordsInSet_A",
+      "ordinal": 80
+    },
+    {
+      "name": "DnsModifyRecordsInSet_UTF8",
+      "ordinal": 81
+    },
+    {
+      "name": "DnsModifyRecordsInSet_W",
+      "ordinal": 82
+    },
+    {
+      "name": "DnsNameCompareEx_A",
+      "ordinal": 83
+    },
+    {
+      "name": "DnsNameCompareEx_UTF8",
+      "ordinal": 84
+    },
+    {
+      "name": "DnsNameCompareEx_W",
+      "ordinal": 85
+    },
+    {
+      "name": "DnsNameCompare_A",
+      "ordinal": 86
+    },
+    {
+      "name": "DnsNameCompare_UTF8",
+      "ordinal": 87
+    },
+    {
+      "name": "DnsNameCompare_W",
+      "ordinal": 88
+    },
+    {
+      "name": "DnsNameCopy",
+      "ordinal": 89
+    },
+    {
+      "name": "DnsNameCopyAllocate",
+      "ordinal": 90
+    },
+    {
+      "name": "DnsNetworkInfo_CreateFromFAZ",
+      "ordinal": 91
+    },
+    {
+      "name": "DnsNetworkInformation_CreateFromFAZ",
+      "ordinal": 92
+    },
+    {
+      "name": "DnsNotifyResolver",
+      "ordinal": 93
+    },
+    {
+      "name": "DnsNotifyResolverClusterIp",
+      "ordinal": 94
+    },
+    {
+      "name": "DnsNotifyResolverEx",
+      "ordinal": 95
+    },
+    {
+      "name": "DnsQueryConfig",
+      "ordinal": 96
+    },
+    {
+      "name": "DnsQueryConfigAllocEx",
+      "ordinal": 97
+    },
+    {
+      "name": "DnsQueryConfigDword",
+      "ordinal": 98
+    },
+    {
+      "name": "DnsQueryEx",
+      "ordinal": 99
+    },
+    {
+      "name": "DnsQueryExA",
+      "ordinal": 100
+    },
+    {
+      "name": "DnsQueryExUTF8",
+      "ordinal": 101
+    },
+    {
+      "name": "DnsQueryExW",
+      "ordinal": 102
+    },
+    {
+      "name": "DnsQuery_A",
+      "ordinal": 103
+    },
+    {
+      "name": "DnsQuery_UTF8",
+      "ordinal": 104
+    },
+    {
+      "name": "DnsQuery_W",
+      "ordinal": 105
+    },
+    {
+      "name": "DnsRecordBuild_UTF8",
+      "ordinal": 106
+    },
+    {
+      "name": "DnsRecordBuild_W",
+      "ordinal": 107
+    },
+    {
+      "name": "DnsRecordCompare",
+      "ordinal": 108
+    },
+    {
+      "name": "DnsRecordCopyEx",
+      "ordinal": 109
+    },
+    {
+      "name": "DnsRecordListFree",
+      "ordinal": 110
+    },
+    {
+      "name": "DnsRecordListUnmapV4MappedAAAAInPlace",
+      "ordinal": 111
+    },
+    {
+      "name": "DnsRecordSetCompare",
+      "ordinal": 112
+    },
+    {
+      "name": "DnsRecordSetCopyEx",
+      "ordinal": 113
+    },
+    {
+      "name": "DnsRecordSetDetach",
+      "ordinal": 114
+    },
+    {
+      "name": "DnsRecordStringForType",
+      "ordinal": 115
+    },
+    {
+      "name": "DnsRecordStringForWritableType",
+      "ordinal": 116
+    },
+    {
+      "name": "DnsRecordTypeForName",
+      "ordinal": 117
+    },
+    {
+      "name": "DnsRegisterLocal",
+      "ordinal": 118
+    },
+    {
+      "name": "DnsReleaseContextHandle",
+      "ordinal": 119
+    },
+    {
+      "name": "DnsRemoveRegistrations",
+      "ordinal": 120
+    },
+    {
+      "name": "DnsReplaceRecordSetA",
+      "ordinal": 121
+    },
+    {
+      "name": "DnsReplaceRecordSetUTF8",
+      "ordinal": 122
+    },
+    {
+      "name": "DnsReplaceRecordSetW",
+      "ordinal": 123
+    },
+    {
+      "name": "DnsResetQueryRetryTimeouts",
+      "ordinal": 124
+    },
+    {
+      "name": "DnsResolverOp",
+      "ordinal": 125
+    },
+    {
+      "name": "DnsScreenLocalAddrsForRegistration",
+      "ordinal": 126
+    },
+    {
+      "name": "DnsServiceBrowse",
+      "ordinal": 127
+    },
+    {
+      "name": "DnsServiceBrowseCancel",
+      "ordinal": 128
+    },
+    {
+      "name": "DnsServiceConstructInstance",
+      "ordinal": 129
+    },
+    {
+      "name": "DnsServiceCopyInstance",
+      "ordinal": 130
+    },
+    {
+      "name": "DnsServiceDeRegister",
+      "ordinal": 131
+    },
+    {
+      "name": "DnsServiceFreeInstance",
+      "ordinal": 132
+    },
+    {
+      "name": "DnsServiceRegister",
+      "ordinal": 133
+    },
+    {
+      "name": "DnsServiceRegisterCancel",
+      "ordinal": 134
+    },
+    {
+      "name": "DnsServiceResolve",
+      "ordinal": 135
+    },
+    {
+      "name": "DnsServiceResolveCancel",
+      "ordinal": 136
+    },
+    {
+      "name": "DnsSetConfigDword",
+      "ordinal": 137
+    },
+    {
+      "name": "DnsSetQueryRetryTimeouts",
+      "ordinal": 138
+    },
+    {
+      "name": "DnsStartMulticastQuery",
+      "ordinal": 139
+    },
+    {
+      "name": "DnsStopMulticastQuery",
+      "ordinal": 140
+    },
+    {
+      "name": "DnsStringCopyAllocateEx",
+      "ordinal": 141
+    },
+    {
+      "name": "DnsTraceServerConfig",
+      "ordinal": 142
+    },
+    {
+      "name": "DnsUpdate",
+      "ordinal": 143
+    },
+    {
+      "name": "DnsUpdateMachinePresence",
+      "ordinal": 144
+    },
+    {
+      "name": "DnsUpdateTest_A",
+      "ordinal": 145
+    },
+    {
+      "name": "DnsUpdateTest_UTF8",
+      "ordinal": 146
+    },
+    {
+      "name": "DnsUpdateTest_W",
+      "ordinal": 147
+    },
+    {
+      "name": "DnsValidateNameOrIp_TempW",
+      "ordinal": 148
+    },
+    {
+      "name": "DnsValidateName_A",
+      "ordinal": 149
+    },
+    {
+      "name": "DnsValidateName_UTF8",
+      "ordinal": 150
+    },
+    {
+      "name": "DnsValidateName_W",
+      "ordinal": 151
+    },
+    {
+      "name": "DnsValidateServerArray_A",
+      "ordinal": 152
+    },
+    {
+      "name": "DnsValidateServerArray_W",
+      "ordinal": 153
+    },
+    {
+      "name": "DnsValidateServerStatus",
+      "ordinal": 154
+    },
+    {
+      "name": "DnsValidateServer_A",
+      "ordinal": 155
+    },
+    {
+      "name": "DnsValidateServer_W",
+      "ordinal": 156
+    },
+    {
+      "name": "DnsValidateUtf8Byte",
+      "ordinal": 157
+    },
+    {
+      "name": "DnsWriteQuestionToBuffer_UTF8",
+      "ordinal": 158
+    },
+    {
+      "name": "DnsWriteQuestionToBuffer_W",
+      "ordinal": 159
+    },
+    {
+      "name": "DnsWriteReverseNameStringForIpAddress",
+      "ordinal": 160
+    },
+    {
+      "name": "Dns_AddRecordsToMessage",
+      "ordinal": 161
+    },
+    {
+      "name": "Dns_AllocateMsgBuf",
+      "ordinal": 162
+    },
+    {
+      "name": "Dns_BuildPacket",
+      "ordinal": 163
+    },
+    {
+      "name": "Dns_CacheServiceCleanup",
+      "ordinal": 164
+    },
+    {
+      "name": "Dns_CacheServiceInit",
+      "ordinal": 165
+    },
+    {
+      "name": "Dns_CacheServiceStopIssued",
+      "ordinal": 166
+    },
+    {
+      "name": "Dns_CleanupWinsock",
+      "ordinal": 167
+    },
+    {
+      "name": "Dns_CloseConnection",
+      "ordinal": 168
+    },
+    {
+      "name": "Dns_CloseSocket",
+      "ordinal": 169
+    },
+    {
+      "name": "Dns_CreateMulticastSocket",
+      "ordinal": 170
+    },
+    {
+      "name": "Dns_CreateSocket",
+      "ordinal": 171
+    },
+    {
+      "name": "Dns_CreateSocketEx",
+      "ordinal": 172
+    },
+    {
+      "name": "Dns_ExtractRecordsFromMessage",
+      "ordinal": 173
+    },
+    {
+      "name": "Dns_FindAuthoritativeZoneLib",
+      "ordinal": 174
+    },
+    {
+      "name": "Dns_FreeMsgBuf",
+      "ordinal": 175
+    },
+    {
+      "name": "Dns_GetRandomXid",
+      "ordinal": 176
+    },
+    {
+      "name": "Dns_InitializeMsgBuf",
+      "ordinal": 177
+    },
+    {
+      "name": "Dns_InitializeMsgRemoteSockaddr",
+      "ordinal": 178
+    },
+    {
+      "name": "Dns_InitializeWinsock",
+      "ordinal": 179
+    },
+    {
+      "name": "Dns_OpenTcpConnectionAndSend",
+      "ordinal": 180
+    },
+    {
+      "name": "Dns_ParseMessage",
+      "ordinal": 181
+    },
+    {
+      "name": "Dns_ParsePacketRecord",
+      "ordinal": 182
+    },
+    {
+      "name": "Dns_PingAdapterServers",
+      "ordinal": 183
+    },
+    {
+      "name": "Dns_ReadRecordStructureFromPacket",
+      "ordinal": 184
+    },
+    {
+      "name": "Dns_RecvTcp",
+      "ordinal": 185
+    },
+    {
+      "name": "Dns_ResetNetworkInfo",
+      "ordinal": 186
+    },
+    {
+      "name": "Dns_SendAndRecvUdp",
+      "ordinal": 187
+    },
+    {
+      "name": "Dns_SendEx",
+      "ordinal": 188
+    },
+    {
+      "name": "Dns_SetRecordDatalength",
+      "ordinal": 189
+    },
+    {
+      "name": "Dns_SetRecordsSection",
+      "ordinal": 190
+    },
+    {
+      "name": "Dns_SetRecordsTtl",
+      "ordinal": 191
+    },
+    {
+      "name": "Dns_SkipToRecord",
+      "ordinal": 192
+    },
+    {
+      "name": "Dns_UpdateLib",
+      "ordinal": 193
+    },
+    {
+      "name": "Dns_UpdateLibEx",
+      "ordinal": 194
+    },
+    {
+      "name": "Dns_WriteQuestionToMessage",
+      "ordinal": 195
+    },
+    {
+      "name": "Dns_WriteRecordStructureToPacketEx",
+      "ordinal": 196
+    },
+    {
+      "name": "ExtraInfo_Init",
+      "ordinal": 197
+    },
+    {
+      "name": "Faz_AreServerListsInSameNameSpace",
+      "ordinal": 198
+    },
+    {
+      "name": "FlushDnsPolicyUnreachableStatus",
+      "ordinal": 199
+    },
+    {
+      "name": "GetCurrentTimeInSeconds",
+      "ordinal": 200
+    },
+    {
+      "name": "HostsFile_Close",
+      "ordinal": 201
+    },
+    {
+      "name": "HostsFile_Open",
+      "ordinal": 202
+    },
+    {
+      "name": "HostsFile_ReadLine",
+      "ordinal": 203
+    },
+    {
+      "name": "IpHelp_IsAddrOnLink",
+      "ordinal": 204
+    },
+    {
+      "name": "Local_GetRecordsForLocalName",
+      "ordinal": 205
+    },
+    {
+      "name": "Local_GetRecordsForLocalNameEx",
+      "ordinal": 206
+    },
+    {
+      "name": "NetInfo_Build",
+      "ordinal": 207
+    },
+    {
+      "name": "NetInfo_Clean",
+      "ordinal": 208
+    },
+    {
+      "name": "NetInfo_Copy",
+      "ordinal": 209
+    },
+    {
+      "name": "NetInfo_CopyNetworkIndex",
+      "ordinal": 210
+    },
+    {
+      "name": "NetInfo_CreatePerNetworkNetinfo",
+      "ordinal": 211
+    },
+    {
+      "name": "NetInfo_Free",
+      "ordinal": 212
+    },
+    {
+      "name": "NetInfo_GetAdapterByAddress",
+      "ordinal": 213
+    },
+    {
+      "name": "NetInfo_GetAdapterByInterfaceIndex",
+      "ordinal": 214
+    },
+    {
+      "name": "NetInfo_GetAdapterByName",
+      "ordinal": 215
+    },
+    {
+      "name": "NetInfo_IsAddrConfig",
+      "ordinal": 216
+    },
+    {
+      "name": "NetInfo_IsForUpdate",
+      "ordinal": 217
+    },
+    {
+      "name": "NetInfo_IsTcpipConfigChange",
+      "ordinal": 218
+    },
+    {
+      "name": "NetInfo_ResetServerPriorities",
+      "ordinal": 219
+    },
+    {
+      "name": "NetInfo_UpdateDnsInterfaceConfigChange",
+      "ordinal": 220
+    },
+    {
+      "name": "NetInfo_UpdateNetworkProperties",
+      "ordinal": 221
+    },
+    {
+      "name": "NetInfo_UpdateServerReachability",
+      "ordinal": 222
+    },
+    {
+      "name": "QueryDirectEx",
+      "ordinal": 223
+    },
+    {
+      "name": "Query_Cancel",
+      "ordinal": 224
+    },
+    {
+      "name": "Query_Main",
+      "ordinal": 225
+    },
+    {
+      "name": "Reg_FreeUpdateInfo",
+      "ordinal": 226
+    },
+    {
+      "name": "Reg_GetValueEx",
+      "ordinal": 227
+    },
+    {
+      "name": "Reg_ReadGlobalsEx",
+      "ordinal": 228
+    },
+    {
+      "name": "Reg_ReadUpdateInfo",
+      "ordinal": 229
+    },
+    {
+      "name": "Security_ContextListTimeout",
+      "ordinal": 230
+    },
+    {
+      "name": "Send_AndRecvUdpWithParam",
+      "ordinal": 231
+    },
+    {
+      "name": "Send_MessagePrivate",
+      "ordinal": 232
+    },
+    {
+      "name": "Send_MessagePrivateEx",
+      "ordinal": 233
+    },
+    {
+      "name": "Send_OpenTcpConnectionAndSend",
+      "ordinal": 234
+    },
+    {
+      "name": "Socket_CacheCleanup",
+      "ordinal": 235
+    },
+    {
+      "name": "Socket_CacheInit",
+      "ordinal": 236
+    },
+    {
+      "name": "Socket_CleanupWinsock",
+      "ordinal": 237
+    },
+    {
+      "name": "Socket_ClearMessageSockets",
+      "ordinal": 238
+    },
+    {
+      "name": "Socket_CloseEx",
+      "ordinal": 239
+    },
+    {
+      "name": "Socket_CloseMessageSockets",
+      "ordinal": 240
+    },
+    {
+      "name": "Socket_Create",
+      "ordinal": 241
+    },
+    {
+      "name": "Socket_CreateMulticast",
+      "ordinal": 242
+    },
+    {
+      "name": "Socket_InitWinsock",
+      "ordinal": 243
+    },
+    {
+      "name": "Socket_JoinMulticast",
+      "ordinal": 244
+    },
+    {
+      "name": "Socket_RecvFrom",
+      "ordinal": 245
+    },
+    {
+      "name": "Socket_SetMulticastInterface",
+      "ordinal": 246
+    },
+    {
+      "name": "Socket_SetMulticastLoopBack",
+      "ordinal": 247
+    },
+    {
+      "name": "Socket_SetTtl",
+      "ordinal": 248
+    },
+    {
+      "name": "Socket_TcpListen",
+      "ordinal": 249
+    },
+    {
+      "name": "Trace_Reset",
+      "ordinal": 250
+    },
+    {
+      "name": "Update_ReplaceAddressRecordsW",
+      "ordinal": 251
+    },
+    {
+      "name": "Util_IsIp6Running",
+      "ordinal": 252
+    },
+    {
+      "name": "Util_IsRunningOnXboxOne",
+      "ordinal": 253
+    }
+  ],
+  "fdprint.dll": [
+    {
+      "name": "InvokeTaskW",
+      "ordinal": 1
+    },
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 2
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 3
+    },
+    {
+      "name": "DllRegisterServer",
+      "ordinal": 4
+    },
+    {
+      "name": "DllUnregisterServer",
+      "ordinal": 5
+    }
+  ],
+  "httpapi.dll": [
+    {
+      "name": "HttpAddFragmentToCache",
+      "ordinal": 1
+    },
+    {
+      "name": "HttpAddUrl",
+      "ordinal": 2
+    },
+    {
+      "name": "HttpAddUrlToUrlGroup",
+      "ordinal": 3
+    },
+    {
+      "name": "HttpCancelHttpRequest",
+      "ordinal": 4
+    },
+    {
+      "name": "HttpCloseRequestQueue",
+      "ordinal": 5
+    },
+    {
+      "name": "HttpCloseServerSession",
+      "ordinal": 6
+    },
+    {
+      "name": "HttpCloseUrlGroup",
+      "ordinal": 7
+    },
+    {
+      "name": "HttpControlService",
+      "ordinal": 8
+    },
+    {
+      "name": "HttpCreateHttpHandle",
+      "ordinal": 9
+    },
+    {
+      "name": "HttpCreateRequestQueue",
+      "ordinal": 10
+    },
+    {
+      "name": "HttpCreateServerSession",
+      "ordinal": 11
+    },
+    {
+      "name": "HttpCreateUrlGroup",
+      "ordinal": 12
+    },
+    {
+      "name": "HttpDeclarePush",
+      "ordinal": 13
+    },
+    {
+      "name": "HttpDelegateRequest",
+      "ordinal": 14
+    },
+    {
+      "name": "HttpDeleteServiceConfiguration",
+      "ordinal": 15
+    },
+    {
+      "name": "HttpEvaluateRequest",
+      "ordinal": 16
+    },
+    {
+      "name": "HttpFlushResponseCache",
+      "ordinal": 17
+    },
+    {
+      "name": "HttpGetCounters",
+      "ordinal": 18
+    },
+    {
+      "name": "HttpInitialize",
+      "ordinal": 19
+    },
+    {
+      "name": "HttpPrepareUrl",
+      "ordinal": 20
+    },
+    {
+      "name": "HttpQueryRequestQueueProperty",
+      "ordinal": 21
+    },
+    {
+      "name": "HttpQueryServerSessionProperty",
+      "ordinal": 22
+    },
+    {
+      "name": "HttpQueryServiceConfiguration",
+      "ordinal": 23
+    },
+    {
+      "name": "HttpQueryUrlGroupProperty",
+      "ordinal": 24
+    },
+    {
+      "name": "HttpReadFragmentFromCache",
+      "ordinal": 25
+    },
+    {
+      "name": "HttpReceiveClientCertificate",
+      "ordinal": 26
+    },
+    {
+      "name": "HttpReceiveHttpRequest",
+      "ordinal": 27
+    },
+    {
+      "name": "HttpReceiveRequestEntityBody",
+      "ordinal": 28
+    },
+    {
+      "name": "HttpRemoveUrl",
+      "ordinal": 29
+    },
+    {
+      "name": "HttpRemoveUrlFromUrlGroup",
+      "ordinal": 30
+    },
+    {
+      "name": "HttpSendHttpResponse",
+      "ordinal": 31
+    },
+    {
+      "name": "HttpSendResponseEntityBody",
+      "ordinal": 32
+    },
+    {
+      "name": "HttpSetRequestQueueProperty",
+      "ordinal": 33
+    },
+    {
+      "name": "HttpSetServerSessionProperty",
+      "ordinal": 34
+    },
+    {
+      "name": "HttpSetServiceConfiguration",
+      "ordinal": 35
+    },
+    {
+      "name": "HttpSetUrlGroupProperty",
+      "ordinal": 36
+    },
+    {
+      "name": "HttpShutdownRequestQueue",
+      "ordinal": 37
+    },
+    {
+      "name": "HttpTerminate",
+      "ordinal": 38
+    },
+    {
+      "name": "HttpUpdateServiceConfiguration",
+      "ordinal": 39
+    },
+    {
+      "name": "HttpWaitForDemandStart",
+      "ordinal": 40
+    },
+    {
+      "name": "HttpWaitForDisconnect",
+      "ordinal": 41
+    },
+    {
+      "name": "HttpWaitForDisconnectEx",
+      "ordinal": 42
+    }
+  ],
+  "IpNatHlpClient.dll": [
+    {
+      "name": "IpNatHlpGetConnectedDevices",
+      "ordinal": 1
+    },
+    {
+      "name": "IpNatHlpStartDhcpServer",
+      "ordinal": 2
+    },
+    {
+      "name": "IpNatHlpStartSharing",
+      "ordinal": 3
+    },
+    {
+      "name": "IpNatHlpStopDhcpServer",
+      "ordinal": 4
+    },
+    {
+      "name": "IpNatHlpStopSharing",
+      "ordinal": 5
+    },
+    {
+      "name": "IpNatHlpUpdateSharingSettingsFromStorage",
+      "ordinal": 6
+    }
+  ],
+  "mgmtapi.dll": [
+    {
+      "name": "SnmpMgrClose",
+      "ordinal": 1
+    },
+    {
+      "name": "SnmpMgrCtl",
+      "ordinal": 2
+    },
+    {
+      "name": "SnmpMgrGetTrap",
+      "ordinal": 3
+    },
+    {
+      "name": "SnmpMgrGetTrapEx",
+      "ordinal": 4
+    },
+    {
+      "name": "SnmpMgrOidToStr",
+      "ordinal": 5
+    },
+    {
+      "name": "SnmpMgrOpen",
+      "ordinal": 6
+    },
+    {
+      "name": "SnmpMgrRequest",
+      "ordinal": 7
+    },
+    {
+      "name": "SnmpMgrStrToOid",
+      "ordinal": 8
+    },
+    {
+      "name": "SnmpMgrTrapListen",
+      "ordinal": 9
+    }
+  ],
+  "mpr.dll": [
+    {
+      "name": "DoBroadcastSystemMessage",
+      "ordinal": 1
+    },
+    {
+      "name": "DoCommandLinePrompt",
+      "ordinal": 2
+    },
+    {
+      "name": "DoPasswordDialog",
+      "ordinal": 3
+    },
+    {
+      "name": "DoProfileErrorDialog",
+      "ordinal": 4
+    },
+    {
+      "name": "ShowReconnectDialog",
+      "ordinal": 5
+    },
+    {
+      "name": "ShowReconnectDialogEnd",
+      "ordinal": 6
+    },
+    {
+      "name": "ShowReconnectDialogUI",
+      "ordinal": 7
+    },
+    {
+      "name": "WNetConnectionDialog2",
+      "ordinal": 8
+    },
+    {
+      "name": "WNetDisconnectDialog2",
+      "ordinal": 9
+    },
+    {
+      "name": "I_MprSaveConn",
+      "ordinal": 10
+    },
+    {
+      "name": "MultinetGetConnectionPerformanceA",
+      "ordinal": 11
+    },
+    {
+      "name": "MultinetGetConnectionPerformanceW",
+      "ordinal": 12
+    },
+    {
+      "name": "MultinetGetErrorTextA",
+      "ordinal": 13
+    },
+    {
+      "name": "MultinetGetErrorTextW",
+      "ordinal": 14
+    },
+    {
+      "name": "WNetAddConnection2A",
+      "ordinal": 15
+    },
+    {
+      "name": "WNetAddConnection2W",
+      "ordinal": 16
+    },
+    {
+      "name": "WNetAddConnection3A",
+      "ordinal": 17
+    },
+    {
+      "name": "WNetAddConnection3W",
+      "ordinal": 18
+    },
+    {
+      "name": "WNetAddConnectionA",
+      "ordinal": 19
+    },
+    {
+      "name": "WNetAddConnectionW",
+      "ordinal": 20
+    },
+    {
+      "name": "WNetCancelConnection2A",
+      "ordinal": 21
+    },
+    {
+      "name": "WNetCancelConnection2W",
+      "ordinal": 22
+    },
+    {
+      "name": "WNetCancelConnectionA",
+      "ordinal": 23
+    },
+    {
+      "name": "WNetCancelConnectionW",
+      "ordinal": 24
+    },
+    {
+      "name": "WNetClearConnections",
+      "ordinal": 25
+    },
+    {
+      "name": "WNetCloseEnum",
+      "ordinal": 26
+    },
+    {
+      "name": "WNetConnectionDialog1A",
+      "ordinal": 27
+    },
+    {
+      "name": "WNetConnectionDialog1W",
+      "ordinal": 28
+    },
+    {
+      "name": "WNetConnectionDialog",
+      "ordinal": 29
+    },
+    {
+      "name": "WNetDirectoryNotifyA",
+      "ordinal": 30
+    },
+    {
+      "name": "WNetDirectoryNotifyW",
+      "ordinal": 31
+    },
+    {
+      "name": "WNetDisconnectDialog1A",
+      "ordinal": 32
+    },
+    {
+      "name": "WNetDisconnectDialog1W",
+      "ordinal": 33
+    },
+    {
+      "name": "WNetDisconnectDialog",
+      "ordinal": 34
+    },
+    {
+      "name": "WNetEnumResourceA",
+      "ordinal": 35
+    },
+    {
+      "name": "WNetEnumResourceW",
+      "ordinal": 36
+    },
+    {
+      "name": "WNetFormatNetworkNameA",
+      "ordinal": 37
+    },
+    {
+      "name": "WNetFormatNetworkNameW",
+      "ordinal": 38
+    },
+    {
+      "name": "WNetGetConnection2A",
+      "ordinal": 39
+    },
+    {
+      "name": "WNetGetConnection2W",
+      "ordinal": 40
+    },
+    {
+      "name": "WNetGetConnection3A",
+      "ordinal": 41
+    },
+    {
+      "name": "WNetGetConnection3W",
+      "ordinal": 42
+    },
+    {
+      "name": "WNetGetConnectionA",
+      "ordinal": 43
+    },
+    {
+      "name": "WNetGetConnectionW",
+      "ordinal": 44
+    },
+    {
+      "name": "WNetGetDirectoryTypeA",
+      "ordinal": 45
+    },
+    {
+      "name": "WNetGetDirectoryTypeW",
+      "ordinal": 46
+    },
+    {
+      "name": "WNetGetHomeDirectoryW",
+      "ordinal": 47
+    },
+    {
+      "name": "WNetGetLastErrorA",
+      "ordinal": 48
+    },
+    {
+      "name": "WNetGetLastErrorW",
+      "ordinal": 49
+    },
+    {
+      "name": "WNetGetNetworkInformationA",
+      "ordinal": 50
+    },
+    {
+      "name": "WNetGetNetworkInformationW",
+      "ordinal": 51
+    },
+    {
+      "name": "WNetGetPropertyTextA",
+      "ordinal": 52
+    },
+    {
+      "name": "WNetGetPropertyTextW",
+      "ordinal": 53
+    },
+    {
+      "name": "WNetGetProviderNameA",
+      "ordinal": 54
+    },
+    {
+      "name": "WNetGetProviderNameW",
+      "ordinal": 55
+    },
+    {
+      "name": "WNetGetProviderTypeA",
+      "ordinal": 56
+    },
+    {
+      "name": "WNetGetProviderTypeW",
+      "ordinal": 57
+    },
+    {
+      "name": "WNetGetResourceInformationA",
+      "ordinal": 58
+    },
+    {
+      "name": "WNetGetResourceInformationW",
+      "ordinal": 59
+    },
+    {
+      "name": "WNetGetResourceParentA",
+      "ordinal": 60
+    },
+    {
+      "name": "WNetGetResourceParentW",
+      "ordinal": 61
+    },
+    {
+      "name": "WNetGetSearchDialog",
+      "ordinal": 62
+    },
+    {
+      "name": "WNetGetUniversalNameA",
+      "ordinal": 63
+    },
+    {
+      "name": "WNetGetUniversalNameW",
+      "ordinal": 64
+    },
+    {
+      "name": "WNetGetUserA",
+      "ordinal": 65
+    },
+    {
+      "name": "WNetGetUserW",
+      "ordinal": 66
+    },
+    {
+      "name": "WNetLogonNotify",
+      "ordinal": 67
+    },
+    {
+      "name": "WNetOpenEnumA",
+      "ordinal": 68
+    },
+    {
+      "name": "WNetOpenEnumW",
+      "ordinal": 69
+    },
+    {
+      "name": "WNetPasswordChangeNotify",
+      "ordinal": 70
+    },
+    {
+      "name": "WNetPropertyDialogA",
+      "ordinal": 71
+    },
+    {
+      "name": "WNetPropertyDialogW",
+      "ordinal": 72
+    },
+    {
+      "name": "WNetRestoreAllConnectionsW",
+      "ordinal": 73
+    },
+    {
+      "name": "WNetRestoreSingleConnectionW",
+      "ordinal": 74
+    },
+    {
+      "name": "WNetSetConnectionA",
+      "ordinal": 75
+    },
+    {
+      "name": "WNetSetConnectionW",
+      "ordinal": 76
+    },
+    {
+      "name": "WNetSetLastErrorA",
+      "ordinal": 77
+    },
+    {
+      "name": "WNetSetLastErrorW",
+      "ordinal": 78
+    },
+    {
+      "name": "WNetSupportGlobalEnum",
+      "ordinal": 79
+    },
+    {
+      "name": "WNetUseConnectionA",
+      "ordinal": 80
+    },
+    {
+      "name": "WNetUseConnectionW",
+      "ordinal": 81
+    }
+  ],
+  "p2p.dll": [
+    {
+      "name": "PeerGroupHandlePowerEvent",
+      "ordinal": 1
+    },
+    {
+      "name": "DllMain",
+      "ordinal": 2
+    },
+    {
+      "name": "PeerCollabAddContact",
+      "ordinal": 3
+    },
+    {
+      "name": "PeerCollabAsyncInviteContact",
+      "ordinal": 4
+    },
+    {
+      "name": "PeerCollabAsyncInviteEndpoint",
+      "ordinal": 5
+    },
+    {
+      "name": "PeerCollabCancelInvitation",
+      "ordinal": 6
+    },
+    {
+      "name": "PeerCollabCloseHandle",
+      "ordinal": 7
+    },
+    {
+      "name": "PeerCollabDeleteContact",
+      "ordinal": 8
+    },
+    {
+      "name": "PeerCollabDeleteEndpointData",
+      "ordinal": 9
+    },
+    {
+      "name": "PeerCollabDeleteObject",
+      "ordinal": 10
+    },
+    {
+      "name": "PeerCollabEnumApplicationRegistrationInfo",
+      "ordinal": 11
+    },
+    {
+      "name": "PeerCollabEnumApplications",
+      "ordinal": 12
+    },
+    {
+      "name": "PeerCollabEnumContacts",
+      "ordinal": 13
+    },
+    {
+      "name": "PeerCollabEnumEndpoints",
+      "ordinal": 14
+    },
+    {
+      "name": "PeerCollabEnumObjects",
+      "ordinal": 15
+    },
+    {
+      "name": "PeerCollabEnumPeopleNearMe",
+      "ordinal": 16
+    },
+    {
+      "name": "PeerCollabExportContact",
+      "ordinal": 17
+    },
+    {
+      "name": "PeerCollabGetAppLaunchInfo",
+      "ordinal": 18
+    },
+    {
+      "name": "PeerCollabGetApplicationRegistrationInfo",
+      "ordinal": 19
+    },
+    {
+      "name": "PeerCollabGetContact",
+      "ordinal": 20
+    },
+    {
+      "name": "PeerCollabGetEndpointName",
+      "ordinal": 21
+    },
+    {
+      "name": "PeerCollabGetEventData",
+      "ordinal": 22
+    },
+    {
+      "name": "PeerCollabGetInvitationResponse",
+      "ordinal": 23
+    },
+    {
+      "name": "PeerCollabGetPresenceInfo",
+      "ordinal": 24
+    },
+    {
+      "name": "PeerCollabGetSigninOptions",
+      "ordinal": 25
+    },
+    {
+      "name": "PeerCollabInviteContact",
+      "ordinal": 26
+    },
+    {
+      "name": "PeerCollabInviteEndpoint",
+      "ordinal": 27
+    },
+    {
+      "name": "PeerCollabParseContact",
+      "ordinal": 28
+    },
+    {
+      "name": "PeerCollabQueryContactData",
+      "ordinal": 29
+    },
+    {
+      "name": "PeerCollabRefreshEndpointData",
+      "ordinal": 30
+    },
+    {
+      "name": "PeerCollabRegisterApplication",
+      "ordinal": 31
+    },
+    {
+      "name": "PeerCollabRegisterEvent",
+      "ordinal": 32
+    },
+    {
+      "name": "PeerCollabSetEndpointName",
+      "ordinal": 33
+    },
+    {
+      "name": "PeerCollabSetObject",
+      "ordinal": 34
+    },
+    {
+      "name": "PeerCollabSetPresenceInfo",
+      "ordinal": 35
+    },
+    {
+      "name": "PeerCollabShutdown",
+      "ordinal": 36
+    },
+    {
+      "name": "PeerCollabSignin",
+      "ordinal": 37
+    },
+    {
+      "name": "PeerCollabSignout",
+      "ordinal": 38
+    },
+    {
+      "name": "PeerCollabStartup",
+      "ordinal": 39
+    },
+    {
+      "name": "PeerCollabSubscribeEndpointData",
+      "ordinal": 40
+    },
+    {
+      "name": "PeerCollabUnregisterApplication",
+      "ordinal": 41
+    },
+    {
+      "name": "PeerCollabUnregisterEvent",
+      "ordinal": 42
+    },
+    {
+      "name": "PeerCollabUnsubscribeEndpointData",
+      "ordinal": 43
+    },
+    {
+      "name": "PeerCollabUpdateContact",
+      "ordinal": 44
+    },
+    {
+      "name": "PeerCreatePeerName",
+      "ordinal": 45
+    },
+    {
+      "name": "PeerEndEnumeration",
+      "ordinal": 46
+    },
+    {
+      "name": "PeerEnumGroups",
+      "ordinal": 47
+    },
+    {
+      "name": "PeerEnumIdentities",
+      "ordinal": 48
+    },
+    {
+      "name": "PeerFreeData",
+      "ordinal": 49
+    },
+    {
+      "name": "PeerGetItemCount",
+      "ordinal": 50
+    },
+    {
+      "name": "PeerGetNextItem",
+      "ordinal": 51
+    },
+    {
+      "name": "PeerGroupAddRecord",
+      "ordinal": 52
+    },
+    {
+      "name": "PeerGroupClose",
+      "ordinal": 53
+    },
+    {
+      "name": "PeerGroupCloseDirectConnection",
+      "ordinal": 54
+    },
+    {
+      "name": "PeerGroupConnect",
+      "ordinal": 55
+    },
+    {
+      "name": "PeerGroupConnectByAddress",
+      "ordinal": 56
+    },
+    {
+      "name": "PeerGroupCreate",
+      "ordinal": 57
+    },
+    {
+      "name": "PeerGroupCreateInvitation",
+      "ordinal": 58
+    },
+    {
+      "name": "PeerGroupCreatePasswordInvitation",
+      "ordinal": 59
+    },
+    {
+      "name": "PeerGroupDelete",
+      "ordinal": 60
+    },
+    {
+      "name": "PeerGroupDeleteRecord",
+      "ordinal": 61
+    },
+    {
+      "name": "PeerGroupEnumConnections",
+      "ordinal": 62
+    },
+    {
+      "name": "PeerGroupEnumMembers",
+      "ordinal": 63
+    },
+    {
+      "name": "PeerGroupEnumRecords",
+      "ordinal": 64
+    },
+    {
+      "name": "PeerGroupExportConfig",
+      "ordinal": 65
+    },
+    {
+      "name": "PeerGroupExportDatabase",
+      "ordinal": 66
+    },
+    {
+      "name": "PeerGroupGetEventData",
+      "ordinal": 67
+    },
+    {
+      "name": "PeerGroupGetProperties",
+      "ordinal": 68
+    },
+    {
+      "name": "PeerGroupGetRecord",
+      "ordinal": 69
+    },
+    {
+      "name": "PeerGroupGetStatus",
+      "ordinal": 70
+    },
+    {
+      "name": "PeerGroupImportConfig",
+      "ordinal": 71
+    },
+    {
+      "name": "PeerGroupImportDatabase",
+      "ordinal": 72
+    },
+    {
+      "name": "PeerGroupIssueCredentials",
+      "ordinal": 73
+    },
+    {
+      "name": "PeerGroupJoin",
+      "ordinal": 74
+    },
+    {
+      "name": "PeerGroupOpen",
+      "ordinal": 75
+    },
+    {
+      "name": "PeerGroupOpenDirectConnection",
+      "ordinal": 76
+    },
+    {
+      "name": "PeerGroupParseInvitation",
+      "ordinal": 77
+    },
+    {
+      "name": "PeerGroupPasswordJoin",
+      "ordinal": 78
+    },
+    {
+      "name": "PeerGroupPeerTimeToUniversalTime",
+      "ordinal": 79
+    },
+    {
+      "name": "PeerGroupRegisterEvent",
+      "ordinal": 80
+    },
+    {
+      "name": "PeerGroupResumePasswordAuthentication",
+      "ordinal": 81
+    },
+    {
+      "name": "PeerGroupSearchRecords",
+      "ordinal": 82
+    },
+    {
+      "name": "PeerGroupSendData",
+      "ordinal": 83
+    },
+    {
+      "name": "PeerGroupSetProperties",
+      "ordinal": 84
+    },
+    {
+      "name": "PeerGroupShutdown",
+      "ordinal": 85
+    },
+    {
+      "name": "PeerGroupStartup",
+      "ordinal": 86
+    },
+    {
+      "name": "PeerGroupUniversalTimeToPeerTime",
+      "ordinal": 87
+    },
+    {
+      "name": "PeerGroupUnregisterEvent",
+      "ordinal": 88
+    },
+    {
+      "name": "PeerGroupUpdateRecord",
+      "ordinal": 89
+    },
+    {
+      "name": "PeerHostNameToPeerName",
+      "ordinal": 90
+    },
+    {
+      "name": "PeerIdentityCreate",
+      "ordinal": 91
+    },
+    {
+      "name": "PeerIdentityDelete",
+      "ordinal": 92
+    },
+    {
+      "name": "PeerIdentityExport",
+      "ordinal": 93
+    },
+    {
+      "name": "PeerIdentityGetCert",
+      "ordinal": 94
+    },
+    {
+      "name": "PeerIdentityGetCryptKey",
+      "ordinal": 95
+    },
+    {
+      "name": "PeerIdentityGetDefault",
+      "ordinal": 96
+    },
+    {
+      "name": "PeerIdentityGetFriendlyName",
+      "ordinal": 97
+    },
+    {
+      "name": "PeerIdentityGetXML",
+      "ordinal": 98
+    },
+    {
+      "name": "PeerIdentityImport",
+      "ordinal": 99
+    },
+    {
+      "name": "PeerIdentitySetFriendlyName",
+      "ordinal": 100
+    },
+    {
+      "name": "PeerNameToPeerHostName",
+      "ordinal": 101
+    },
+    {
+      "name": "PeerPnrpEndResolve",
+      "ordinal": 102
+    },
+    {
+      "name": "PeerPnrpGetCloudInfo",
+      "ordinal": 103
+    },
+    {
+      "name": "PeerPnrpGetEndpoint",
+      "ordinal": 104
+    },
+    {
+      "name": "PeerPnrpRegister",
+      "ordinal": 105
+    },
+    {
+      "name": "PeerPnrpResolve",
+      "ordinal": 106
+    },
+    {
+      "name": "PeerPnrpShutdown",
+      "ordinal": 107
+    },
+    {
+      "name": "PeerPnrpStartResolve",
+      "ordinal": 108
+    },
+    {
+      "name": "PeerPnrpStartup",
+      "ordinal": 109
+    },
+    {
+      "name": "PeerPnrpUnregister",
+      "ordinal": 110
+    },
+    {
+      "name": "PeerPnrpUpdateRegistration",
+      "ordinal": 111
+    },
+    {
+      "name": "PeerSSPAddCredentials",
+      "ordinal": 112
+    },
+    {
+      "name": "PeerSSPRemoveCredentials",
+      "ordinal": 113
+    }
+  ],
+  "rasapi32.dll": [
+    {
+      "name": "DDMComputeLuid",
+      "ordinal": 1
+    },
+    {
+      "name": "DDMFreeDialingParam",
+      "ordinal": 2
+    },
+    {
+      "name": "DDMFreePhonebookContext",
+      "ordinal": 3
+    },
+    {
+      "name": "DDMFreeRemoteEndpoint",
+      "ordinal": 4
+    },
+    {
+      "name": "DDMGetAddressesFromPhonebook",
+      "ordinal": 5
+    },
+    {
+      "name": "DDMGetEapInfo",
+      "ordinal": 6
+    },
+    {
+      "name": "DDMGetEapUserIdentityW",
+      "ordinal": 7
+    },
+    {
+      "name": "DDMGetPhoneBookContext",
+      "ordinal": 8
+    },
+    {
+      "name": "DDMGetPhonebookInfo",
+      "ordinal": 9
+    },
+    {
+      "name": "DDMGetProtocolStartParams",
+      "ordinal": 10
+    },
+    {
+      "name": "DDMGetRasDialParams",
+      "ordinal": 11
+    },
+    {
+      "name": "DDMGetRasDialingParams",
+      "ordinal": 12
+    },
+    {
+      "name": "DDMGetTunnelEndpoints",
+      "ordinal": 13
+    },
+    {
+      "name": "DDMRasPbkEntryCleanup",
+      "ordinal": 14
+    },
+    {
+      "name": "DDMUpdateProtocolConfigInfoFromEntry",
+      "ordinal": 15
+    },
+    {
+      "name": "DwCloneEntry",
+      "ordinal": 16
+    },
+    {
+      "name": "DwEnumEntryDetails",
+      "ordinal": 17
+    },
+    {
+      "name": "DwEnumEntryDetailsEx",
+      "ordinal": 18
+    },
+    {
+      "name": "DwRasUninitialize",
+      "ordinal": 19
+    },
+    {
+      "name": "GetAutoTriggerProfileInfo",
+      "ordinal": 20
+    },
+    {
+      "name": "IsActiveAutoTriggerConnection",
+      "ordinal": 21
+    },
+    {
+      "name": "RasAutoDialSharedConnection",
+      "ordinal": 22
+    },
+    {
+      "name": "RasAutodialAddressToNetwork",
+      "ordinal": 23
+    },
+    {
+      "name": "RasAutodialEntryToNetwork",
+      "ordinal": 24
+    },
+    {
+      "name": "RasClearConnectionStatistics",
+      "ordinal": 25
+    },
+    {
+      "name": "RasClearLinkStatistics",
+      "ordinal": 26
+    },
+    {
+      "name": "RasCompleteDialMachineCleanup",
+      "ordinal": 27
+    },
+    {
+      "name": "RasConfigUserProxySettingsW",
+      "ordinal": 28
+    },
+    {
+      "name": "RasConnectionNotificationA",
+      "ordinal": 29
+    },
+    {
+      "name": "RasConnectionNotificationW",
+      "ordinal": 30
+    },
+    {
+      "name": "RasCreatePhonebookEntryA",
+      "ordinal": 31
+    },
+    {
+      "name": "RasCreatePhonebookEntryW",
+      "ordinal": 32
+    },
+    {
+      "name": "RasDeleteEntryA",
+      "ordinal": 33
+    },
+    {
+      "name": "RasDeleteEntryW",
+      "ordinal": 34
+    },
+    {
+      "name": "RasDeleteSubEntryA",
+      "ordinal": 35
+    },
+    {
+      "name": "RasDeleteSubEntryW",
+      "ordinal": 36
+    },
+    {
+      "name": "RasDialA",
+      "ordinal": 37
+    },
+    {
+      "name": "RasDialW",
+      "ordinal": 38
+    },
+    {
+      "name": "RasEditPhonebookEntryA",
+      "ordinal": 39
+    },
+    {
+      "name": "RasEditPhonebookEntryW",
+      "ordinal": 40
+    },
+    {
+      "name": "RasEnumAutodialAddressesA",
+      "ordinal": 41
+    },
+    {
+      "name": "RasEnumAutodialAddressesW",
+      "ordinal": 42
+    },
+    {
+      "name": "RasEnumConnectionsA",
+      "ordinal": 43
+    },
+    {
+      "name": "RasEnumConnectionsW",
+      "ordinal": 44
+    },
+    {
+      "name": "RasEnumDevicesA",
+      "ordinal": 45
+    },
+    {
+      "name": "RasEnumDevicesW",
+      "ordinal": 46
+    },
+    {
+      "name": "RasEnumEntriesA",
+      "ordinal": 47
+    },
+    {
+      "name": "RasEnumEntriesW",
+      "ordinal": 48
+    },
+    {
+      "name": "RasFreeEapUserIdentityA",
+      "ordinal": 49
+    },
+    {
+      "name": "RasFreeEapUserIdentityW",
+      "ordinal": 50
+    },
+    {
+      "name": "RasFreeEntryAdvancedProperties",
+      "ordinal": 51
+    },
+    {
+      "name": "RasGetAutoTriggerConnectStatus",
+      "ordinal": 52
+    },
+    {
+      "name": "RasGetAutodialAddressA",
+      "ordinal": 53
+    },
+    {
+      "name": "RasGetAutodialAddressW",
+      "ordinal": 54
+    },
+    {
+      "name": "RasGetAutodialEnableA",
+      "ordinal": 55
+    },
+    {
+      "name": "RasGetAutodialEnableW",
+      "ordinal": 56
+    },
+    {
+      "name": "RasGetAutodialParamA",
+      "ordinal": 57
+    },
+    {
+      "name": "RasGetAutodialParamW",
+      "ordinal": 58
+    },
+    {
+      "name": "RasGetConnectStatusA",
+      "ordinal": 59
+    },
+    {
+      "name": "RasGetConnectStatusW",
+      "ordinal": 60
+    },
+    {
+      "name": "RasGetConnectionErrorStringW",
+      "ordinal": 61
+    },
+    {
+      "name": "RasGetConnectionStatistics",
+      "ordinal": 62
+    },
+    {
+      "name": "RasGetCountryInfoA",
+      "ordinal": 63
+    },
+    {
+      "name": "RasGetCountryInfoW",
+      "ordinal": 64
+    },
+    {
+      "name": "RasGetCredentialsA",
+      "ordinal": 65
+    },
+    {
+      "name": "RasGetCredentialsW",
+      "ordinal": 66
+    },
+    {
+      "name": "RasGetCustomAuthDataA",
+      "ordinal": 67
+    },
+    {
+      "name": "RasGetCustomAuthDataW",
+      "ordinal": 68
+    },
+    {
+      "name": "RasGetEapUserDataA",
+      "ordinal": 69
+    },
+    {
+      "name": "RasGetEapUserDataW",
+      "ordinal": 70
+    },
+    {
+      "name": "RasGetEapUserIdentityA",
+      "ordinal": 71
+    },
+    {
+      "name": "RasGetEapUserIdentityW",
+      "ordinal": 72
+    },
+    {
+      "name": "RasGetEntryAdvancedProperties",
+      "ordinal": 73
+    },
+    {
+      "name": "RasGetEntryDialParamsA",
+      "ordinal": 74
+    },
+    {
+      "name": "RasGetEntryDialParamsW",
+      "ordinal": 75
+    },
+    {
+      "name": "RasGetEntryHrasconnW",
+      "ordinal": 76
+    },
+    {
+      "name": "RasGetEntryPropertiesA",
+      "ordinal": 77
+    },
+    {
+      "name": "RasGetEntryPropertiesW",
+      "ordinal": 78
+    },
+    {
+      "name": "RasGetErrorStringA",
+      "ordinal": 79
+    },
+    {
+      "name": "RasGetErrorStringW",
+      "ordinal": 80
+    },
+    {
+      "name": "RasGetHport",
+      "ordinal": 81
+    },
+    {
+      "name": "RasGetLinkStatistics",
+      "ordinal": 82
+    },
+    {
+      "name": "RasGetNapStatus",
+      "ordinal": 83
+    },
+    {
+      "name": "RasGetPbkPath",
+      "ordinal": 84
+    },
+    {
+      "name": "RasGetProjectionInfoA",
+      "ordinal": 85
+    },
+    {
+      "name": "RasGetProjectionInfoEx",
+      "ordinal": 86
+    },
+    {
+      "name": "RasGetProjectionInfoW",
+      "ordinal": 87
+    },
+    {
+      "name": "RasGetSubEntryHandleA",
+      "ordinal": 88
+    },
+    {
+      "name": "RasGetSubEntryHandleW",
+      "ordinal": 89
+    },
+    {
+      "name": "RasGetSubEntryPropertiesA",
+      "ordinal": 90
+    },
+    {
+      "name": "RasGetSubEntryPropertiesW",
+      "ordinal": 91
+    },
+    {
+      "name": "RasHandleTriggerConnDisconnect",
+      "ordinal": 92
+    },
+    {
+      "name": "RasHangUpA",
+      "ordinal": 93
+    },
+    {
+      "name": "RasHangUpW",
+      "ordinal": 94
+    },
+    {
+      "name": "RasInvokeEapUI",
+      "ordinal": 95
+    },
+    {
+      "name": "RasIsPublicPhonebook",
+      "ordinal": 96
+    },
+    {
+      "name": "RasIsSharedConnection",
+      "ordinal": 97
+    },
+    {
+      "name": "RasNQMStateEnteredNotification",
+      "ordinal": 98
+    },
+    {
+      "name": "RasQueryRedialOnLinkFailure",
+      "ordinal": 99
+    },
+    {
+      "name": "RasQuerySharedAutoDial",
+      "ordinal": 100
+    },
+    {
+      "name": "RasQuerySharedConnection",
+      "ordinal": 101
+    },
+    {
+      "name": "RasRegisterEntryChangeNotification",
+      "ordinal": 102
+    },
+    {
+      "name": "RasRenameEntryA",
+      "ordinal": 103
+    },
+    {
+      "name": "RasRenameEntryW",
+      "ordinal": 104
+    },
+    {
+      "name": "RasSetAutoTriggerProfile",
+      "ordinal": 105
+    },
+    {
+      "name": "RasSetAutodialAddressA",
+      "ordinal": 106
+    },
+    {
+      "name": "RasSetAutodialAddressW",
+      "ordinal": 107
+    },
+    {
+      "name": "RasSetAutodialEnableA",
+      "ordinal": 108
+    },
+    {
+      "name": "RasSetAutodialEnableW",
+      "ordinal": 109
+    },
+    {
+      "name": "RasSetAutodialParamA",
+      "ordinal": 110
+    },
+    {
+      "name": "RasSetAutodialParamW",
+      "ordinal": 111
+    },
+    {
+      "name": "RasSetCredentialsA",
+      "ordinal": 112
+    },
+    {
+      "name": "RasSetCredentialsW",
+      "ordinal": 113
+    },
+    {
+      "name": "RasSetCustomAuthDataA",
+      "ordinal": 114
+    },
+    {
+      "name": "RasSetCustomAuthDataW",
+      "ordinal": 115
+    },
+    {
+      "name": "RasSetEapUserDataA",
+      "ordinal": 116
+    },
+    {
+      "name": "RasSetEapUserDataAEx",
+      "ordinal": 117
+    },
+    {
+      "name": "RasSetEapUserDataW",
+      "ordinal": 118
+    },
+    {
+      "name": "RasSetEapUserDataWEx",
+      "ordinal": 119
+    },
+    {
+      "name": "RasSetEntryAdvancedProperties",
+      "ordinal": 120
+    },
+    {
+      "name": "RasSetEntryDialParamsA",
+      "ordinal": 121
+    },
+    {
+      "name": "RasSetEntryDialParamsW",
+      "ordinal": 122
+    },
+    {
+      "name": "RasSetEntryPropertiesA",
+      "ordinal": 123
+    },
+    {
+      "name": "RasSetEntryPropertiesW",
+      "ordinal": 124
+    },
+    {
+      "name": "RasSetOldPassword",
+      "ordinal": 125
+    },
+    {
+      "name": "RasSetPerConnectionProxy",
+      "ordinal": 126
+    },
+    {
+      "name": "RasSetSharedAutoDial",
+      "ordinal": 127
+    },
+    {
+      "name": "RasSetSubEntryPropertiesA",
+      "ordinal": 128
+    },
+    {
+      "name": "RasSetSubEntryPropertiesW",
+      "ordinal": 129
+    },
+    {
+      "name": "RasTriggerConnection",
+      "ordinal": 130
+    },
+    {
+      "name": "RasTriggerConnectionEx",
+      "ordinal": 131
+    },
+    {
+      "name": "RasTriggerDisconnection",
+      "ordinal": 132
+    },
+    {
+      "name": "RasTriggerDisconnectionEx",
+      "ordinal": 133
+    },
+    {
+      "name": "RasUnregisterEntryChangeNotification",
+      "ordinal": 134
+    },
+    {
+      "name": "RasUpdateConnection",
+      "ordinal": 135
+    },
+    {
+      "name": "RasValidateEntryNameA",
+      "ordinal": 136
+    },
+    {
+      "name": "RasValidateEntryNameW",
+      "ordinal": 137
+    },
+    {
+      "name": "RasWriteSharedPbkOptions",
+      "ordinal": 138
+    },
+    {
+      "name": "UnInitializeRAS",
+      "ordinal": 139
+    }
+  ],
+  "rpchttp.dll": [
+    {
+      "name": "CompareHttpTransportCredentials",
+      "ordinal": 1
+    },
+    {
+      "name": "ConvertToUnicodeHttpTransportCredentials",
+      "ordinal": 2
+    },
+    {
+      "name": "DuplicateHttpTransportCredentials",
+      "ordinal": 3
+    },
+    {
+      "name": "FreeHttpTransportCredentials",
+      "ordinal": 4
+    },
+    {
+      "name": "HTTP2GetRpcConnectionTransport",
+      "ordinal": 5
+    },
+    {
+      "name": "HTTP2ProcessComplexTReceive",
+      "ordinal": 6
+    },
+    {
+      "name": "HTTP2ProcessComplexTSend",
+      "ordinal": 7
+    },
+    {
+      "name": "HTTP2ProcessRuntimePostedEvent",
+      "ordinal": 8
+    },
+    {
+      "name": "HTTP2TestHook",
+      "ordinal": 9
+    },
+    {
+      "name": "HttpParseNetworkOptions",
+      "ordinal": 10
+    },
+    {
+      "name": "HttpSendIdentifyResponse",
+      "ordinal": 11
+    },
+    {
+      "name": "I_RpcGetRpcProxy",
+      "ordinal": 12
+    },
+    {
+      "name": "I_RpcTransFreeHttpCredentials",
+      "ordinal": 13
+    },
+    {
+      "name": "I_RpcTransGetHttpCredentials",
+      "ordinal": 14
+    },
+    {
+      "name": "WS_HTTP2_CONNECTION__Initialize",
+      "ordinal": 15
+    },
+    {
+      "name": "WS_HTTP2_INITIAL_CONNECTION__new",
+      "ordinal": 16
+    },
+    {
+      "name": "I_RpcExtInitializeExtensionPoint",
+      "ordinal": 17
+    },
+    {
+      "name": "I_RpcProxyNewConnection",
+      "ordinal": 18
+    },
+    {
+      "name": "I_RpcReplyToClientWithStatus",
+      "ordinal": 19
+    }
+  ],
+  "tapi3.dll": [
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 1
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 2
+    },
+    {
+      "name": "DllRegisterServer",
+      "ordinal": 3
+    },
+    {
+      "name": "DllUnregisterServer",
+      "ordinal": 4
+    }
+  ],
+  "tapi32.dll": [
+    {
+      "name": "GetTapi16CallbackMsg",
+      "ordinal": 1
+    },
+    {
+      "name": "LAddrParamsInited",
+      "ordinal": 2
+    },
+    {
+      "name": "LOpenDialAsst",
+      "ordinal": 3
+    },
+    {
+      "name": "LocWizardDlgProc",
+      "ordinal": 4
+    },
+    {
+      "name": "MMCAddProvider",
+      "ordinal": 5
+    },
+    {
+      "name": "MMCConfigProvider",
+      "ordinal": 6
+    },
+    {
+      "name": "MMCGetAvailableProviders",
+      "ordinal": 7
+    },
+    {
+      "name": "MMCGetDeviceFlags",
+      "ordinal": 8
+    },
+    {
+      "name": "MMCGetLineInfo",
+      "ordinal": 9
+    },
+    {
+      "name": "MMCGetLineStatus",
+      "ordinal": 10
+    },
+    {
+      "name": "MMCGetPhoneInfo",
+      "ordinal": 11
+    },
+    {
+      "name": "MMCGetPhoneStatus",
+      "ordinal": 12
+    },
+    {
+      "name": "MMCGetProviderList",
+      "ordinal": 13
+    },
+    {
+      "name": "MMCGetServerConfig",
+      "ordinal": 14
+    },
+    {
+      "name": "MMCInitialize",
+      "ordinal": 15
+    },
+    {
+      "name": "MMCRemoveProvider",
+      "ordinal": 16
+    },
+    {
+      "name": "MMCSetLineInfo",
+      "ordinal": 17
+    },
+    {
+      "name": "MMCSetPhoneInfo",
+      "ordinal": 18
+    },
+    {
+      "name": "MMCSetServerConfig",
+      "ordinal": 19
+    },
+    {
+      "name": "MMCShutdown",
+      "ordinal": 20
+    },
+    {
+      "name": "NonAsyncEventThread",
+      "ordinal": 21
+    },
+    {
+      "name": "TAPIWndProc",
+      "ordinal": 22
+    },
+    {
+      "name": "TUISPIDLLCallback",
+      "ordinal": 23
+    },
+    {
+      "name": "internalConfig",
+      "ordinal": 24
+    },
+    {
+      "name": "internalCreateDefLocation",
+      "ordinal": 25
+    },
+    {
+      "name": "internalNewLocationW",
+      "ordinal": 26
+    },
+    {
+      "name": "internalPerformance",
+      "ordinal": 27
+    },
+    {
+      "name": "internalRemoveLocation",
+      "ordinal": 28
+    },
+    {
+      "name": "internalRenameLocationW",
+      "ordinal": 29
+    },
+    {
+      "name": "lineAccept",
+      "ordinal": 30
+    },
+    {
+      "name": "lineAddProvider",
+      "ordinal": 31
+    },
+    {
+      "name": "lineAddProviderA",
+      "ordinal": 32
+    },
+    {
+      "name": "lineAddProviderW",
+      "ordinal": 33
+    },
+    {
+      "name": "lineAddToConference",
+      "ordinal": 34
+    },
+    {
+      "name": "lineAgentSpecific",
+      "ordinal": 35
+    },
+    {
+      "name": "lineAnswer",
+      "ordinal": 36
+    },
+    {
+      "name": "lineBlindTransfer",
+      "ordinal": 37
+    },
+    {
+      "name": "lineBlindTransferA",
+      "ordinal": 38
+    },
+    {
+      "name": "lineBlindTransferW",
+      "ordinal": 39
+    },
+    {
+      "name": "lineClose",
+      "ordinal": 40
+    },
+    {
+      "name": "lineCompleteCall",
+      "ordinal": 41
+    },
+    {
+      "name": "lineCompleteTransfer",
+      "ordinal": 42
+    },
+    {
+      "name": "lineConfigDialog",
+      "ordinal": 43
+    },
+    {
+      "name": "lineConfigDialogA",
+      "ordinal": 44
+    },
+    {
+      "name": "lineConfigDialogEdit",
+      "ordinal": 45
+    },
+    {
+      "name": "lineConfigDialogEditA",
+      "ordinal": 46
+    },
+    {
+      "name": "lineConfigDialogEditW",
+      "ordinal": 47
+    },
+    {
+      "name": "lineConfigDialogW",
+      "ordinal": 48
+    },
+    {
+      "name": "lineConfigProvider",
+      "ordinal": 49
+    },
+    {
+      "name": "lineCreateAgentA",
+      "ordinal": 50
+    },
+    {
+      "name": "lineCreateAgentSessionA",
+      "ordinal": 51
+    },
+    {
+      "name": "lineCreateAgentSessionW",
+      "ordinal": 52
+    },
+    {
+      "name": "lineCreateAgentW",
+      "ordinal": 53
+    },
+    {
+      "name": "lineDeallocateCall",
+      "ordinal": 54
+    },
+    {
+      "name": "lineDevSpecific",
+      "ordinal": 55
+    },
+    {
+      "name": "lineDevSpecificFeature",
+      "ordinal": 56
+    },
+    {
+      "name": "lineDial",
+      "ordinal": 57
+    },
+    {
+      "name": "lineDialA",
+      "ordinal": 58
+    },
+    {
+      "name": "lineDialW",
+      "ordinal": 59
+    },
+    {
+      "name": "lineDrop",
+      "ordinal": 60
+    },
+    {
+      "name": "lineForward",
+      "ordinal": 61
+    },
+    {
+      "name": "lineForwardA",
+      "ordinal": 62
+    },
+    {
+      "name": "lineForwardW",
+      "ordinal": 63
+    },
+    {
+      "name": "lineGatherDigits",
+      "ordinal": 64
+    },
+    {
+      "name": "lineGatherDigitsA",
+      "ordinal": 65
+    },
+    {
+      "name": "lineGatherDigitsW",
+      "ordinal": 66
+    },
+    {
+      "name": "lineGenerateDigits",
+      "ordinal": 67
+    },
+    {
+      "name": "lineGenerateDigitsA",
+      "ordinal": 68
+    },
+    {
+      "name": "lineGenerateDigitsW",
+      "ordinal": 69
+    },
+    {
+      "name": "lineGenerateTone",
+      "ordinal": 70
+    },
+    {
+      "name": "lineGetAddressCaps",
+      "ordinal": 71
+    },
+    {
+      "name": "lineGetAddressCapsA",
+      "ordinal": 72
+    },
+    {
+      "name": "lineGetAddressCapsW",
+      "ordinal": 73
+    },
+    {
+      "name": "lineGetAddressID",
+      "ordinal": 74
+    },
+    {
+      "name": "lineGetAddressIDA",
+      "ordinal": 75
+    },
+    {
+      "name": "lineGetAddressIDW",
+      "ordinal": 76
+    },
+    {
+      "name": "lineGetAddressStatus",
+      "ordinal": 77
+    },
+    {
+      "name": "lineGetAddressStatusA",
+      "ordinal": 78
+    },
+    {
+      "name": "lineGetAddressStatusW",
+      "ordinal": 79
+    },
+    {
+      "name": "lineGetAgentActivityListA",
+      "ordinal": 80
+    },
+    {
+      "name": "lineGetAgentActivityListW",
+      "ordinal": 81
+    },
+    {
+      "name": "lineGetAgentCapsA",
+      "ordinal": 82
+    },
+    {
+      "name": "lineGetAgentCapsW",
+      "ordinal": 83
+    },
+    {
+      "name": "lineGetAgentGroupListA",
+      "ordinal": 84
+    },
+    {
+      "name": "lineGetAgentGroupListW",
+      "ordinal": 85
+    },
+    {
+      "name": "lineGetAgentInfo",
+      "ordinal": 86
+    },
+    {
+      "name": "lineGetAgentSessionInfo",
+      "ordinal": 87
+    },
+    {
+      "name": "lineGetAgentSessionList",
+      "ordinal": 88
+    },
+    {
+      "name": "lineGetAgentStatusA",
+      "ordinal": 89
+    },
+    {
+      "name": "lineGetAgentStatusW",
+      "ordinal": 90
+    },
+    {
+      "name": "lineGetAppPriority",
+      "ordinal": 91
+    },
+    {
+      "name": "lineGetAppPriorityA",
+      "ordinal": 92
+    },
+    {
+      "name": "lineGetAppPriorityW",
+      "ordinal": 93
+    },
+    {
+      "name": "lineGetCallInfo",
+      "ordinal": 94
+    },
+    {
+      "name": "lineGetCallInfoA",
+      "ordinal": 95
+    },
+    {
+      "name": "lineGetCallInfoW",
+      "ordinal": 96
+    },
+    {
+      "name": "lineGetCallStatus",
+      "ordinal": 97
+    },
+    {
+      "name": "lineGetConfRelatedCalls",
+      "ordinal": 98
+    },
+    {
+      "name": "lineGetCountry",
+      "ordinal": 99
+    },
+    {
+      "name": "lineGetCountryA",
+      "ordinal": 100
+    },
+    {
+      "name": "lineGetCountryW",
+      "ordinal": 101
+    },
+    {
+      "name": "lineGetDevCaps",
+      "ordinal": 102
+    },
+    {
+      "name": "lineGetDevCapsA",
+      "ordinal": 103
+    },
+    {
+      "name": "lineGetDevCapsW",
+      "ordinal": 104
+    },
+    {
+      "name": "lineGetDevConfig",
+      "ordinal": 105
+    },
+    {
+      "name": "lineGetDevConfigA",
+      "ordinal": 106
+    },
+    {
+      "name": "lineGetDevConfigW",
+      "ordinal": 107
+    },
+    {
+      "name": "lineGetGroupListA",
+      "ordinal": 108
+    },
+    {
+      "name": "lineGetGroupListW",
+      "ordinal": 109
+    },
+    {
+      "name": "lineGetID",
+      "ordinal": 110
+    },
+    {
+      "name": "lineGetIDA",
+      "ordinal": 111
+    },
+    {
+      "name": "lineGetIDW",
+      "ordinal": 112
+    },
+    {
+      "name": "lineGetIcon",
+      "ordinal": 113
+    },
+    {
+      "name": "lineGetIconA",
+      "ordinal": 114
+    },
+    {
+      "name": "lineGetIconW",
+      "ordinal": 115
+    },
+    {
+      "name": "lineGetLineDevStatus",
+      "ordinal": 116
+    },
+    {
+      "name": "lineGetLineDevStatusA",
+      "ordinal": 117
+    },
+    {
+      "name": "lineGetLineDevStatusW",
+      "ordinal": 118
+    },
+    {
+      "name": "lineGetMessage",
+      "ordinal": 119
+    },
+    {
+      "name": "lineGetNewCalls",
+      "ordinal": 120
+    },
+    {
+      "name": "lineGetNumRings",
+      "ordinal": 121
+    },
+    {
+      "name": "lineGetProviderList",
+      "ordinal": 122
+    },
+    {
+      "name": "lineGetProviderListA",
+      "ordinal": 123
+    },
+    {
+      "name": "lineGetProviderListW",
+      "ordinal": 124
+    },
+    {
+      "name": "lineGetProxyStatus",
+      "ordinal": 125
+    },
+    {
+      "name": "lineGetQueueInfo",
+      "ordinal": 126
+    },
+    {
+      "name": "lineGetQueueListA",
+      "ordinal": 127
+    },
+    {
+      "name": "lineGetQueueListW",
+      "ordinal": 128
+    },
+    {
+      "name": "lineGetRequest",
+      "ordinal": 129
+    },
+    {
+      "name": "lineGetRequestA",
+      "ordinal": 130
+    },
+    {
+      "name": "lineGetRequestW",
+      "ordinal": 131
+    },
+    {
+      "name": "lineGetStatusMessages",
+      "ordinal": 132
+    },
+    {
+      "name": "lineGetTranslateCaps",
+      "ordinal": 133
+    },
+    {
+      "name": "lineGetTranslateCapsA",
+      "ordinal": 134
+    },
+    {
+      "name": "lineGetTranslateCapsW",
+      "ordinal": 135
+    },
+    {
+      "name": "lineHandoff",
+      "ordinal": 136
+    },
+    {
+      "name": "lineHandoffA",
+      "ordinal": 137
+    },
+    {
+      "name": "lineHandoffW",
+      "ordinal": 138
+    },
+    {
+      "name": "lineHold",
+      "ordinal": 139
+    },
+    {
+      "name": "lineInitialize",
+      "ordinal": 140
+    },
+    {
+      "name": "lineInitializeExA",
+      "ordinal": 141
+    },
+    {
+      "name": "lineInitializeExW",
+      "ordinal": 142
+    },
+    {
+      "name": "lineMakeCall",
+      "ordinal": 143
+    },
+    {
+      "name": "lineMakeCallA",
+      "ordinal": 144
+    },
+    {
+      "name": "lineMakeCallW",
+      "ordinal": 145
+    },
+    {
+      "name": "lineMonitorDigits",
+      "ordinal": 146
+    },
+    {
+      "name": "lineMonitorMedia",
+      "ordinal": 147
+    },
+    {
+      "name": "lineMonitorTones",
+      "ordinal": 148
+    },
+    {
+      "name": "lineNegotiateAPIVersion",
+      "ordinal": 149
+    },
+    {
+      "name": "lineNegotiateExtVersion",
+      "ordinal": 150
+    },
+    {
+      "name": "lineOpen",
+      "ordinal": 151
+    },
+    {
+      "name": "lineOpenA",
+      "ordinal": 152
+    },
+    {
+      "name": "lineOpenW",
+      "ordinal": 153
+    },
+    {
+      "name": "linePark",
+      "ordinal": 154
+    },
+    {
+      "name": "lineParkA",
+      "ordinal": 155
+    },
+    {
+      "name": "lineParkW",
+      "ordinal": 156
+    },
+    {
+      "name": "linePickup",
+      "ordinal": 157
+    },
+    {
+      "name": "linePickupA",
+      "ordinal": 158
+    },
+    {
+      "name": "linePickupW",
+      "ordinal": 159
+    },
+    {
+      "name": "linePrepareAddToConference",
+      "ordinal": 160
+    },
+    {
+      "name": "linePrepareAddToConferenceA",
+      "ordinal": 161
+    },
+    {
+      "name": "linePrepareAddToConferenceW",
+      "ordinal": 162
+    },
+    {
+      "name": "lineProxyMessage",
+      "ordinal": 163
+    },
+    {
+      "name": "lineProxyResponse",
+      "ordinal": 164
+    },
+    {
+      "name": "lineRedirect",
+      "ordinal": 165
+    },
+    {
+      "name": "lineRedirectA",
+      "ordinal": 166
+    },
+    {
+      "name": "lineRedirectW",
+      "ordinal": 167
+    },
+    {
+      "name": "lineRegisterRequestRecipient",
+      "ordinal": 168
+    },
+    {
+      "name": "lineReleaseUserUserInfo",
+      "ordinal": 169
+    },
+    {
+      "name": "lineRemoveFromConference",
+      "ordinal": 170
+    },
+    {
+      "name": "lineRemoveProvider",
+      "ordinal": 171
+    },
+    {
+      "name": "lineSecureCall",
+      "ordinal": 172
+    },
+    {
+      "name": "lineSendUserUserInfo",
+      "ordinal": 173
+    },
+    {
+      "name": "lineSetAgentActivity",
+      "ordinal": 174
+    },
+    {
+      "name": "lineSetAgentGroup",
+      "ordinal": 175
+    },
+    {
+      "name": "lineSetAgentMeasurementPeriod",
+      "ordinal": 176
+    },
+    {
+      "name": "lineSetAgentSessionState",
+      "ordinal": 177
+    },
+    {
+      "name": "lineSetAgentState",
+      "ordinal": 178
+    },
+    {
+      "name": "lineSetAgentStateEx",
+      "ordinal": 179
+    },
+    {
+      "name": "lineSetAppPriority",
+      "ordinal": 180
+    },
+    {
+      "name": "lineSetAppPriorityA",
+      "ordinal": 181
+    },
+    {
+      "name": "lineSetAppPriorityW",
+      "ordinal": 182
+    },
+    {
+      "name": "lineSetAppSpecific",
+      "ordinal": 183
+    },
+    {
+      "name": "lineSetCallData",
+      "ordinal": 184
+    },
+    {
+      "name": "lineSetCallParams",
+      "ordinal": 185
+    },
+    {
+      "name": "lineSetCallPrivilege",
+      "ordinal": 186
+    },
+    {
+      "name": "lineSetCallQualityOfService",
+      "ordinal": 187
+    },
+    {
+      "name": "lineSetCallTreatment",
+      "ordinal": 188
+    },
+    {
+      "name": "lineSetCurrentLocation",
+      "ordinal": 189
+    },
+    {
+      "name": "lineSetDevConfig",
+      "ordinal": 190
+    },
+    {
+      "name": "lineSetDevConfigA",
+      "ordinal": 191
+    },
+    {
+      "name": "lineSetDevConfigW",
+      "ordinal": 192
+    },
+    {
+      "name": "lineSetLineDevStatus",
+      "ordinal": 193
+    },
+    {
+      "name": "lineSetMediaControl",
+      "ordinal": 194
+    },
+    {
+      "name": "lineSetMediaMode",
+      "ordinal": 195
+    },
+    {
+      "name": "lineSetNumRings",
+      "ordinal": 196
+    },
+    {
+      "name": "lineSetQueueMeasurementPeriod",
+      "ordinal": 197
+    },
+    {
+      "name": "lineSetStatusMessages",
+      "ordinal": 198
+    },
+    {
+      "name": "lineSetTerminal",
+      "ordinal": 199
+    },
+    {
+      "name": "lineSetTollList",
+      "ordinal": 200
+    },
+    {
+      "name": "lineSetTollListA",
+      "ordinal": 201
+    },
+    {
+      "name": "lineSetTollListW",
+      "ordinal": 202
+    },
+    {
+      "name": "lineSetupConference",
+      "ordinal": 203
+    },
+    {
+      "name": "lineSetupConferenceA",
+      "ordinal": 204
+    },
+    {
+      "name": "lineSetupConferenceW",
+      "ordinal": 205
+    },
+    {
+      "name": "lineSetupTransfer",
+      "ordinal": 206
+    },
+    {
+      "name": "lineSetupTransferA",
+      "ordinal": 207
+    },
+    {
+      "name": "lineSetupTransferW",
+      "ordinal": 208
+    },
+    {
+      "name": "lineShutdown",
+      "ordinal": 209
+    },
+    {
+      "name": "lineSwapHold",
+      "ordinal": 210
+    },
+    {
+      "name": "lineTranslateAddress",
+      "ordinal": 211
+    },
+    {
+      "name": "lineTranslateAddressA",
+      "ordinal": 212
+    },
+    {
+      "name": "lineTranslateAddressW",
+      "ordinal": 213
+    },
+    {
+      "name": "lineTranslateDialog",
+      "ordinal": 214
+    },
+    {
+      "name": "lineTranslateDialogA",
+      "ordinal": 215
+    },
+    {
+      "name": "lineTranslateDialogW",
+      "ordinal": 216
+    },
+    {
+      "name": "lineUncompleteCall",
+      "ordinal": 217
+    },
+    {
+      "name": "lineUnhold",
+      "ordinal": 218
+    },
+    {
+      "name": "lineUnpark",
+      "ordinal": 219
+    },
+    {
+      "name": "lineUnparkA",
+      "ordinal": 220
+    },
+    {
+      "name": "lineUnparkW",
+      "ordinal": 221
+    },
+    {
+      "name": "phoneClose",
+      "ordinal": 222
+    },
+    {
+      "name": "phoneConfigDialog",
+      "ordinal": 223
+    },
+    {
+      "name": "phoneConfigDialogA",
+      "ordinal": 224
+    },
+    {
+      "name": "phoneConfigDialogW",
+      "ordinal": 225
+    },
+    {
+      "name": "phoneDevSpecific",
+      "ordinal": 226
+    },
+    {
+      "name": "phoneGetButtonInfo",
+      "ordinal": 227
+    },
+    {
+      "name": "phoneGetButtonInfoA",
+      "ordinal": 228
+    },
+    {
+      "name": "phoneGetButtonInfoW",
+      "ordinal": 229
+    },
+    {
+      "name": "phoneGetData",
+      "ordinal": 230
+    },
+    {
+      "name": "phoneGetDevCaps",
+      "ordinal": 231
+    },
+    {
+      "name": "phoneGetDevCapsA",
+      "ordinal": 232
+    },
+    {
+      "name": "phoneGetDevCapsW",
+      "ordinal": 233
+    },
+    {
+      "name": "phoneGetDisplay",
+      "ordinal": 234
+    },
+    {
+      "name": "phoneGetGain",
+      "ordinal": 235
+    },
+    {
+      "name": "phoneGetHookSwitch",
+      "ordinal": 236
+    },
+    {
+      "name": "phoneGetID",
+      "ordinal": 237
+    },
+    {
+      "name": "phoneGetIDA",
+      "ordinal": 238
+    },
+    {
+      "name": "phoneGetIDW",
+      "ordinal": 239
+    },
+    {
+      "name": "phoneGetIcon",
+      "ordinal": 240
+    },
+    {
+      "name": "phoneGetIconA",
+      "ordinal": 241
+    },
+    {
+      "name": "phoneGetIconW",
+      "ordinal": 242
+    },
+    {
+      "name": "phoneGetLamp",
+      "ordinal": 243
+    },
+    {
+      "name": "phoneGetMessage",
+      "ordinal": 244
+    },
+    {
+      "name": "phoneGetRing",
+      "ordinal": 245
+    },
+    {
+      "name": "phoneGetStatus",
+      "ordinal": 246
+    },
+    {
+      "name": "phoneGetStatusA",
+      "ordinal": 247
+    },
+    {
+      "name": "phoneGetStatusMessages",
+      "ordinal": 248
+    },
+    {
+      "name": "phoneGetStatusW",
+      "ordinal": 249
+    },
+    {
+      "name": "phoneGetVolume",
+      "ordinal": 250
+    },
+    {
+      "name": "phoneInitialize",
+      "ordinal": 251
+    },
+    {
+      "name": "phoneInitializeExA",
+      "ordinal": 252
+    },
+    {
+      "name": "phoneInitializeExW",
+      "ordinal": 253
+    },
+    {
+      "name": "phoneNegotiateAPIVersion",
+      "ordinal": 254
+    },
+    {
+      "name": "phoneNegotiateExtVersion",
+      "ordinal": 255
+    },
+    {
+      "name": "phoneOpen",
+      "ordinal": 256
+    },
+    {
+      "name": "phoneSetButtonInfo",
+      "ordinal": 257
+    },
+    {
+      "name": "phoneSetButtonInfoA",
+      "ordinal": 258
+    },
+    {
+      "name": "phoneSetButtonInfoW",
+      "ordinal": 259
+    },
+    {
+      "name": "phoneSetData",
+      "ordinal": 260
+    },
+    {
+      "name": "phoneSetDisplay",
+      "ordinal": 261
+    },
+    {
+      "name": "phoneSetGain",
+      "ordinal": 262
+    },
+    {
+      "name": "phoneSetHookSwitch",
+      "ordinal": 263
+    },
+    {
+      "name": "phoneSetLamp",
+      "ordinal": 264
+    },
+    {
+      "name": "phoneSetRing",
+      "ordinal": 265
+    },
+    {
+      "name": "phoneSetStatusMessages",
+      "ordinal": 266
+    },
+    {
+      "name": "phoneSetVolume",
+      "ordinal": 267
+    },
+    {
+      "name": "phoneShutdown",
+      "ordinal": 268
+    },
+    {
+      "name": "tapiGetLocationInfo",
+      "ordinal": 269
+    },
+    {
+      "name": "tapiGetLocationInfoA",
+      "ordinal": 270
+    },
+    {
+      "name": "tapiGetLocationInfoW",
+      "ordinal": 271
+    },
+    {
+      "name": "tapiRequestDrop",
+      "ordinal": 272
+    },
+    {
+      "name": "tapiRequestMakeCall",
+      "ordinal": 273
+    },
+    {
+      "name": "tapiRequestMakeCallA",
+      "ordinal": 274
+    },
+    {
+      "name": "tapiRequestMakeCallW",
+      "ordinal": 275
+    },
+    {
+      "name": "tapiRequestMediaCall",
+      "ordinal": 276
+    },
+    {
+      "name": "tapiRequestMediaCallA",
+      "ordinal": 277
+    },
+    {
+      "name": "tapiRequestMediaCallW",
+      "ordinal": 278
+    }
+  ],
+  "upnp.dll": [
+    {
+      "name": "HrRehydratorCreateServiceObject",
+      "ordinal": 5
+    },
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 6
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 7
+    },
+    {
+      "name": "DllRegisterServer",
+      "ordinal": 8
+    },
+    {
+      "name": "DllUnregisterServer",
+      "ordinal": 9
+    }
+  ],
+  "winhttp.dll": [
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 1
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 2
+    },
+    {
+      "name": "Private1",
+      "ordinal": 3
+    },
+    {
+      "name": "SvchostPushServiceGlobals",
+      "ordinal": 4
+    },
+    {
+      "name": "WinHttpAddRequestHeaders",
+      "ordinal": 5
+    },
+    {
+      "name": "WinHttpAutoProxySvcMain",
+      "ordinal": 6
+    },
+    {
+      "name": "WinHttpCheckPlatform",
+      "ordinal": 7
+    },
+    {
+      "name": "WinHttpCloseHandle",
+      "ordinal": 8
+    },
+    {
+      "name": "WinHttpConnect",
+      "ordinal": 9
+    },
+    {
+      "name": "WinHttpConnectionDeleteProxyInfo",
+      "ordinal": 10
+    },
+    {
+      "name": "WinHttpConnectionFreeNameList",
+      "ordinal": 11
+    },
+    {
+      "name": "WinHttpConnectionFreeProxyInfo",
+      "ordinal": 12
+    },
+    {
+      "name": "WinHttpConnectionFreeProxyList",
+      "ordinal": 13
+    },
+    {
+      "name": "WinHttpConnectionGetNameList",
+      "ordinal": 14
+    },
+    {
+      "name": "WinHttpConnectionGetProxyInfo",
+      "ordinal": 15
+    },
+    {
+      "name": "WinHttpConnectionGetProxyList",
+      "ordinal": 16
+    },
+    {
+      "name": "WinHttpConnectionSetProxyInfo",
+      "ordinal": 17
+    },
+    {
+      "name": "WinHttpCrackUrl",
+      "ordinal": 18
+    },
+    {
+      "name": "WinHttpCreateProxyResolver",
+      "ordinal": 19
+    },
+    {
+      "name": "WinHttpCreateUrl",
+      "ordinal": 20
+    },
+    {
+      "name": "WinHttpDetectAutoProxyConfigUrl",
+      "ordinal": 21
+    },
+    {
+      "name": "WinHttpFreeProxyResult",
+      "ordinal": 22
+    },
+    {
+      "name": "WinHttpFreeProxyResultEx",
+      "ordinal": 23
+    },
+    {
+      "name": "WinHttpFreeProxySettings",
+      "ordinal": 24
+    },
+    {
+      "name": "WinHttpGetDefaultProxyConfiguration",
+      "ordinal": 25
+    },
+    {
+      "name": "WinHttpGetIEProxyConfigForCurrentUser",
+      "ordinal": 26
+    },
+    {
+      "name": "WinHttpGetProxyForUrl",
+      "ordinal": 27
+    },
+    {
+      "name": "WinHttpGetProxyForUrlEx2",
+      "ordinal": 28
+    },
+    {
+      "name": "WinHttpGetProxyForUrlEx",
+      "ordinal": 29
+    },
+    {
+      "name": "WinHttpGetProxyForUrlHvsi",
+      "ordinal": 30
+    },
+    {
+      "name": "WinHttpGetProxyResult",
+      "ordinal": 31
+    },
+    {
+      "name": "WinHttpGetProxyResultEx",
+      "ordinal": 32
+    },
+    {
+      "name": "WinHttpGetProxySettingsVersion",
+      "ordinal": 33
+    },
+    {
+      "name": "WinHttpGetTunnelSocket",
+      "ordinal": 34
+    },
+    {
+      "name": "WinHttpOpen",
+      "ordinal": 35
+    },
+    {
+      "name": "WinHttpOpenRequest",
+      "ordinal": 36
+    },
+    {
+      "name": "WinHttpProbeConnectivity",
+      "ordinal": 37
+    },
+    {
+      "name": "WinHttpQueryAuthSchemes",
+      "ordinal": 38
+    },
+    {
+      "name": "WinHttpQueryDataAvailable",
+      "ordinal": 39
+    },
+    {
+      "name": "WinHttpQueryHeaders",
+      "ordinal": 40
+    },
+    {
+      "name": "WinHttpQueryOption",
+      "ordinal": 41
+    },
+    {
+      "name": "WinHttpReadData",
+      "ordinal": 42
+    },
+    {
+      "name": "WinHttpReadProxySettings",
+      "ordinal": 43
+    },
+    {
+      "name": "WinHttpReceiveResponse",
+      "ordinal": 44
+    },
+    {
+      "name": "WinHttpResetAutoProxy",
+      "ordinal": 45
+    },
+    {
+      "name": "WinHttpSaveProxyCredentials",
+      "ordinal": 46
+    },
+    {
+      "name": "WinHttpSendRequest",
+      "ordinal": 47
+    },
+    {
+      "name": "WinHttpSetCredentials",
+      "ordinal": 48
+    },
+    {
+      "name": "WinHttpSetDefaultProxyConfiguration",
+      "ordinal": 49
+    },
+    {
+      "name": "WinHttpSetOption",
+      "ordinal": 50
+    },
+    {
+      "name": "WinHttpSetStatusCallback",
+      "ordinal": 51
+    },
+    {
+      "name": "WinHttpSetTimeouts",
+      "ordinal": 52
+    },
+    {
+      "name": "WinHttpTimeFromSystemTime",
+      "ordinal": 53
+    },
+    {
+      "name": "WinHttpTimeToSystemTime",
+      "ordinal": 54
+    },
+    {
+      "name": "WinHttpWebSocketClose",
+      "ordinal": 55
+    },
+    {
+      "name": "WinHttpWebSocketCompleteUpgrade",
+      "ordinal": 56
+    },
+    {
+      "name": "WinHttpWebSocketQueryCloseStatus",
+      "ordinal": 57
+    },
+    {
+      "name": "WinHttpWebSocketReceive",
+      "ordinal": 58
+    },
+    {
+      "name": "WinHttpWebSocketSend",
+      "ordinal": 59
+    },
+    {
+      "name": "WinHttpWebSocketShutdown",
+      "ordinal": 60
+    },
+    {
+      "name": "WinHttpWriteData",
+      "ordinal": 61
+    },
+    {
+      "name": "WinHttpWriteProxySettings",
+      "ordinal": 62
+    }
+  ],
+  "wininet.dll": [
+    {
+      "name": "",
+      "ordinal": 101
+    },
+    {
+      "name": "",
+      "ordinal": 102
+    },
+    {
+      "name": "",
+      "ordinal": 103
+    },
+    {
+      "name": "",
+      "ordinal": 104
+    },
+    {
+      "name": "",
+      "ordinal": 105
+    },
+    {
+      "name": "DispatchAPICall",
+      "ordinal": 106
+    },
+    {
+      "name": "AppCacheCheckManifest",
+      "ordinal": 107
+    },
+    {
+      "name": "",
+      "ordinal": 108
+    },
+    {
+      "name": "",
+      "ordinal": 109
+    },
+    {
+      "name": "",
+      "ordinal": 110
+    },
+    {
+      "name": "",
+      "ordinal": 111
+    },
+    {
+      "name": "",
+      "ordinal": 112
+    },
+    {
+      "name": "AppCacheCloseHandle",
+      "ordinal": 113
+    },
+    {
+      "name": "AppCacheCreateAndCommitFile",
+      "ordinal": 114
+    },
+    {
+      "name": "AppCacheDeleteGroup",
+      "ordinal": 115
+    },
+    {
+      "name": "",
+      "ordinal": 116
+    },
+    {
+      "name": "",
+      "ordinal": 117
+    },
+    {
+      "name": "",
+      "ordinal": 118
+    },
+    {
+      "name": "AppCacheDeleteIEGroup",
+      "ordinal": 119
+    },
+    {
+      "name": "",
+      "ordinal": 120
+    },
+    {
+      "name": "",
+      "ordinal": 121
+    },
+    {
+      "name": "",
+      "ordinal": 122
+    },
+    {
+      "name": "",
+      "ordinal": 123
+    },
+    {
+      "name": "AppCacheDuplicateHandle",
+      "ordinal": 124
+    },
+    {
+      "name": "AppCacheFinalize",
+      "ordinal": 125
+    },
+    {
+      "name": "AppCacheFreeDownloadList",
+      "ordinal": 126
+    },
+    {
+      "name": "AppCacheFreeGroupList",
+      "ordinal": 127
+    },
+    {
+      "name": "AppCacheFreeIESpace",
+      "ordinal": 128
+    },
+    {
+      "name": "AppCacheFreeSpace",
+      "ordinal": 129
+    },
+    {
+      "name": "AppCacheGetDownloadList",
+      "ordinal": 130
+    },
+    {
+      "name": "AppCacheGetFallbackUrl",
+      "ordinal": 131
+    },
+    {
+      "name": "AppCacheGetGroupList",
+      "ordinal": 132
+    },
+    {
+      "name": "AppCacheGetIEGroupList",
+      "ordinal": 133
+    },
+    {
+      "name": "AppCacheGetInfo",
+      "ordinal": 134
+    },
+    {
+      "name": "AppCacheGetManifestUrl",
+      "ordinal": 135
+    },
+    {
+      "name": "AppCacheLookup",
+      "ordinal": 136
+    },
+    {
+      "name": "CommitUrlCacheEntryA",
+      "ordinal": 137
+    },
+    {
+      "name": "CommitUrlCacheEntryBinaryBlob",
+      "ordinal": 138
+    },
+    {
+      "name": "CommitUrlCacheEntryW",
+      "ordinal": 139
+    },
+    {
+      "name": "CreateMD5SSOHash",
+      "ordinal": 140
+    },
+    {
+      "name": "CreateUrlCacheContainerA",
+      "ordinal": 141
+    },
+    {
+      "name": "CreateUrlCacheContainerW",
+      "ordinal": 142
+    },
+    {
+      "name": "CreateUrlCacheEntryA",
+      "ordinal": 143
+    },
+    {
+      "name": "CreateUrlCacheEntryExW",
+      "ordinal": 144
+    },
+    {
+      "name": "CreateUrlCacheEntryW",
+      "ordinal": 145
+    },
+    {
+      "name": "CreateUrlCacheGroup",
+      "ordinal": 146
+    },
+    {
+      "name": "DeleteIE3Cache",
+      "ordinal": 147
+    },
+    {
+      "name": "DeleteUrlCacheContainerA",
+      "ordinal": 148
+    },
+    {
+      "name": "DeleteUrlCacheContainerW",
+      "ordinal": 149
+    },
+    {
+      "name": "DeleteUrlCacheEntry",
+      "ordinal": 150
+    },
+    {
+      "name": "DeleteUrlCacheEntryA",
+      "ordinal": 151
+    },
+    {
+      "name": "DeleteUrlCacheEntryW",
+      "ordinal": 152
+    },
+    {
+      "name": "DeleteUrlCacheGroup",
+      "ordinal": 153
+    },
+    {
+      "name": "DeleteWpadCacheForNetworks",
+      "ordinal": 154
+    },
+    {
+      "name": "DetectAutoProxyUrl",
+      "ordinal": 155
+    },
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 156
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 157
+    },
+    {
+      "name": "DllInstall",
+      "ordinal": 158
+    },
+    {
+      "name": "DllRegisterServer",
+      "ordinal": 159
+    },
+    {
+      "name": "DllUnregisterServer",
+      "ordinal": 160
+    },
+    {
+      "name": "FindCloseUrlCache",
+      "ordinal": 161
+    },
+    {
+      "name": "FindFirstUrlCacheContainerA",
+      "ordinal": 162
+    },
+    {
+      "name": "FindFirstUrlCacheContainerW",
+      "ordinal": 163
+    },
+    {
+      "name": "FindFirstUrlCacheEntryA",
+      "ordinal": 164
+    },
+    {
+      "name": "FindFirstUrlCacheEntryExA",
+      "ordinal": 165
+    },
+    {
+      "name": "FindFirstUrlCacheEntryExW",
+      "ordinal": 166
+    },
+    {
+      "name": "FindFirstUrlCacheEntryW",
+      "ordinal": 167
+    },
+    {
+      "name": "FindFirstUrlCacheGroup",
+      "ordinal": 168
+    },
+    {
+      "name": "FindNextUrlCacheContainerA",
+      "ordinal": 169
+    },
+    {
+      "name": "FindNextUrlCacheContainerW",
+      "ordinal": 170
+    },
+    {
+      "name": "FindNextUrlCacheEntryA",
+      "ordinal": 171
+    },
+    {
+      "name": "FindNextUrlCacheEntryExA",
+      "ordinal": 172
+    },
+    {
+      "name": "FindNextUrlCacheEntryExW",
+      "ordinal": 173
+    },
+    {
+      "name": "FindNextUrlCacheEntryW",
+      "ordinal": 174
+    },
+    {
+      "name": "FindNextUrlCacheGroup",
+      "ordinal": 175
+    },
+    {
+      "name": "ForceNexusLookup",
+      "ordinal": 176
+    },
+    {
+      "name": "ForceNexusLookupExW",
+      "ordinal": 177
+    },
+    {
+      "name": "FreeUrlCacheSpaceA",
+      "ordinal": 178
+    },
+    {
+      "name": "FreeUrlCacheSpaceW",
+      "ordinal": 179
+    },
+    {
+      "name": "FtpCommandA",
+      "ordinal": 180
+    },
+    {
+      "name": "FtpCommandW",
+      "ordinal": 181
+    },
+    {
+      "name": "FtpCreateDirectoryA",
+      "ordinal": 182
+    },
+    {
+      "name": "FtpCreateDirectoryW",
+      "ordinal": 183
+    },
+    {
+      "name": "FtpDeleteFileA",
+      "ordinal": 184
+    },
+    {
+      "name": "FtpDeleteFileW",
+      "ordinal": 185
+    },
+    {
+      "name": "FtpFindFirstFileA",
+      "ordinal": 186
+    },
+    {
+      "name": "FtpFindFirstFileW",
+      "ordinal": 187
+    },
+    {
+      "name": "FtpGetCurrentDirectoryA",
+      "ordinal": 188
+    },
+    {
+      "name": "FtpGetCurrentDirectoryW",
+      "ordinal": 189
+    },
+    {
+      "name": "FtpGetFileA",
+      "ordinal": 190
+    },
+    {
+      "name": "FtpGetFileEx",
+      "ordinal": 191
+    },
+    {
+      "name": "FtpGetFileSize",
+      "ordinal": 192
+    },
+    {
+      "name": "FtpGetFileW",
+      "ordinal": 193
+    },
+    {
+      "name": "FtpOpenFileA",
+      "ordinal": 194
+    },
+    {
+      "name": "FtpOpenFileW",
+      "ordinal": 195
+    },
+    {
+      "name": "FtpPutFileA",
+      "ordinal": 196
+    },
+    {
+      "name": "FtpPutFileEx",
+      "ordinal": 197
+    },
+    {
+      "name": "FtpPutFileW",
+      "ordinal": 198
+    },
+    {
+      "name": "FtpRemoveDirectoryA",
+      "ordinal": 199
+    },
+    {
+      "name": "FtpRemoveDirectoryW",
+      "ordinal": 200
+    },
+    {
+      "name": "FtpRenameFileA",
+      "ordinal": 201
+    },
+    {
+      "name": "FtpRenameFileW",
+      "ordinal": 202
+    },
+    {
+      "name": "FtpSetCurrentDirectoryA",
+      "ordinal": 203
+    },
+    {
+      "name": "FtpSetCurrentDirectoryW",
+      "ordinal": 204
+    },
+    {
+      "name": "GetProxyDllInfo",
+      "ordinal": 205
+    },
+    {
+      "name": "GetUrlCacheConfigInfoA",
+      "ordinal": 206
+    },
+    {
+      "name": "GetUrlCacheConfigInfoW",
+      "ordinal": 207
+    },
+    {
+      "name": "GetUrlCacheEntryBinaryBlob",
+      "ordinal": 208
+    },
+    {
+      "name": "GetUrlCacheEntryInfoA",
+      "ordinal": 209
+    },
+    {
+      "name": "GetUrlCacheEntryInfoExA",
+      "ordinal": 210
+    },
+    {
+      "name": "GetUrlCacheEntryInfoExW",
+      "ordinal": 211
+    },
+    {
+      "name": "GetUrlCacheEntryInfoW",
+      "ordinal": 212
+    },
+    {
+      "name": "GetUrlCacheGroupAttributeA",
+      "ordinal": 213
+    },
+    {
+      "name": "GetUrlCacheGroupAttributeW",
+      "ordinal": 214
+    },
+    {
+      "name": "GetUrlCacheHeaderData",
+      "ordinal": 215
+    },
+    {
+      "name": "GopherCreateLocatorA",
+      "ordinal": 216
+    },
+    {
+      "name": "GopherCreateLocatorW",
+      "ordinal": 217
+    },
+    {
+      "name": "GopherFindFirstFileA",
+      "ordinal": 218
+    },
+    {
+      "name": "GopherFindFirstFileW",
+      "ordinal": 219
+    },
+    {
+      "name": "GopherGetAttributeA",
+      "ordinal": 220
+    },
+    {
+      "name": "GopherGetAttributeW",
+      "ordinal": 221
+    },
+    {
+      "name": "GopherGetLocatorTypeA",
+      "ordinal": 222
+    },
+    {
+      "name": "GopherGetLocatorTypeW",
+      "ordinal": 223
+    },
+    {
+      "name": "GopherOpenFileA",
+      "ordinal": 224
+    },
+    {
+      "name": "GopherOpenFileW",
+      "ordinal": 225
+    },
+    {
+      "name": "HttpAddRequestHeadersA",
+      "ordinal": 226
+    },
+    {
+      "name": "HttpAddRequestHeadersW",
+      "ordinal": 227
+    },
+    {
+      "name": "HttpCheckDavCompliance",
+      "ordinal": 228
+    },
+    {
+      "name": "HttpCloseDependencyHandle",
+      "ordinal": 229
+    },
+    {
+      "name": "HttpDuplicateDependencyHandle",
+      "ordinal": 230
+    },
+    {
+      "name": "HttpEndRequestA",
+      "ordinal": 231
+    },
+    {
+      "name": "HttpEndRequestW",
+      "ordinal": 232
+    },
+    {
+      "name": "HttpGetServerCredentials",
+      "ordinal": 233
+    },
+    {
+      "name": "HttpGetTunnelSocket",
+      "ordinal": 234
+    },
+    {
+      "name": "HttpIsHostHstsEnabled",
+      "ordinal": 235
+    },
+    {
+      "name": "HttpOpenDependencyHandle",
+      "ordinal": 236
+    },
+    {
+      "name": "HttpOpenRequestA",
+      "ordinal": 237
+    },
+    {
+      "name": "HttpOpenRequestW",
+      "ordinal": 238
+    },
+    {
+      "name": "HttpPushClose",
+      "ordinal": 239
+    },
+    {
+      "name": "HttpPushEnable",
+      "ordinal": 240
+    },
+    {
+      "name": "HttpPushWait",
+      "ordinal": 241
+    },
+    {
+      "name": "HttpQueryInfoA",
+      "ordinal": 242
+    },
+    {
+      "name": "HttpQueryInfoW",
+      "ordinal": 243
+    },
+    {
+      "name": "HttpSendRequestA",
+      "ordinal": 244
+    },
+    {
+      "name": "HttpSendRequestExA",
+      "ordinal": 245
+    },
+    {
+      "name": "HttpSendRequestExW",
+      "ordinal": 246
+    },
+    {
+      "name": "HttpSendRequestW",
+      "ordinal": 247
+    },
+    {
+      "name": "HttpWebSocketClose",
+      "ordinal": 248
+    },
+    {
+      "name": "HttpWebSocketCompleteUpgrade",
+      "ordinal": 249
+    },
+    {
+      "name": "HttpWebSocketQueryCloseStatus",
+      "ordinal": 250
+    },
+    {
+      "name": "HttpWebSocketReceive",
+      "ordinal": 251
+    },
+    {
+      "name": "HttpWebSocketSend",
+      "ordinal": 252
+    },
+    {
+      "name": "HttpWebSocketShutdown",
+      "ordinal": 253
+    },
+    {
+      "name": "IncrementUrlCacheHeaderData",
+      "ordinal": 254
+    },
+    {
+      "name": "InternetAlgIdToStringA",
+      "ordinal": 255
+    },
+    {
+      "name": "InternetAlgIdToStringW",
+      "ordinal": 256
+    },
+    {
+      "name": "InternetAttemptConnect",
+      "ordinal": 257
+    },
+    {
+      "name": "InternetAutodial",
+      "ordinal": 258
+    },
+    {
+      "name": "InternetAutodialCallback",
+      "ordinal": 259
+    },
+    {
+      "name": "InternetAutodialHangup",
+      "ordinal": 260
+    },
+    {
+      "name": "InternetCanonicalizeUrlA",
+      "ordinal": 261
+    },
+    {
+      "name": "InternetCanonicalizeUrlW",
+      "ordinal": 262
+    },
+    {
+      "name": "InternetCheckConnectionA",
+      "ordinal": 263
+    },
+    {
+      "name": "InternetCheckConnectionW",
+      "ordinal": 264
+    },
+    {
+      "name": "InternetClearAllPerSiteCookieDecisions",
+      "ordinal": 265
+    },
+    {
+      "name": "InternetCloseHandle",
+      "ordinal": 266
+    },
+    {
+      "name": "InternetCombineUrlA",
+      "ordinal": 267
+    },
+    {
+      "name": "InternetCombineUrlW",
+      "ordinal": 268
+    },
+    {
+      "name": "InternetConfirmZoneCrossing",
+      "ordinal": 269
+    },
+    {
+      "name": "InternetConfirmZoneCrossingA",
+      "ordinal": 270
+    },
+    {
+      "name": "InternetConfirmZoneCrossingW",
+      "ordinal": 271
+    },
+    {
+      "name": "InternetConnectA",
+      "ordinal": 272
+    },
+    {
+      "name": "InternetConnectW",
+      "ordinal": 273
+    },
+    {
+      "name": "InternetConvertUrlFromWireToWideChar",
+      "ordinal": 274
+    },
+    {
+      "name": "InternetCrackUrlA",
+      "ordinal": 275
+    },
+    {
+      "name": "InternetCrackUrlW",
+      "ordinal": 276
+    },
+    {
+      "name": "InternetCreateUrlA",
+      "ordinal": 277
+    },
+    {
+      "name": "InternetCreateUrlW",
+      "ordinal": 278
+    },
+    {
+      "name": "InternetDial",
+      "ordinal": 279
+    },
+    {
+      "name": "InternetDialA",
+      "ordinal": 280
+    },
+    {
+      "name": "InternetDialW",
+      "ordinal": 281
+    },
+    {
+      "name": "InternetEnumPerSiteCookieDecisionA",
+      "ordinal": 282
+    },
+    {
+      "name": "InternetEnumPerSiteCookieDecisionW",
+      "ordinal": 283
+    },
+    {
+      "name": "InternetErrorDlg",
+      "ordinal": 284
+    },
+    {
+      "name": "InternetFindNextFileA",
+      "ordinal": 285
+    },
+    {
+      "name": "InternetFindNextFileW",
+      "ordinal": 286
+    },
+    {
+      "name": "InternetFortezzaCommand",
+      "ordinal": 287
+    },
+    {
+      "name": "InternetFreeCookies",
+      "ordinal": 288
+    },
+    {
+      "name": "InternetFreeProxyInfoList",
+      "ordinal": 289
+    },
+    {
+      "name": "InternetGetCertByURL",
+      "ordinal": 290
+    },
+    {
+      "name": "InternetGetCertByURLA",
+      "ordinal": 291
+    },
+    {
+      "name": "InternetGetConnectedState",
+      "ordinal": 292
+    },
+    {
+      "name": "InternetGetConnectedStateEx",
+      "ordinal": 293
+    },
+    {
+      "name": "InternetGetConnectedStateExA",
+      "ordinal": 294
+    },
+    {
+      "name": "InternetGetConnectedStateExW",
+      "ordinal": 295
+    },
+    {
+      "name": "InternetGetCookieA",
+      "ordinal": 296
+    },
+    {
+      "name": "InternetGetCookieEx2",
+      "ordinal": 297
+    },
+    {
+      "name": "InternetGetCookieExA",
+      "ordinal": 298
+    },
+    {
+      "name": "InternetGetCookieExW",
+      "ordinal": 299
+    },
+    {
+      "name": "InternetGetCookieW",
+      "ordinal": 300
+    },
+    {
+      "name": "InternetGetLastResponseInfoA",
+      "ordinal": 301
+    },
+    {
+      "name": "InternetGetLastResponseInfoW",
+      "ordinal": 302
+    },
+    {
+      "name": "InternetGetPerSiteCookieDecisionA",
+      "ordinal": 303
+    },
+    {
+      "name": "InternetGetPerSiteCookieDecisionW",
+      "ordinal": 304
+    },
+    {
+      "name": "InternetGetProxyForUrl",
+      "ordinal": 305
+    },
+    {
+      "name": "InternetGetSecurityInfoByURL",
+      "ordinal": 306
+    },
+    {
+      "name": "InternetGetSecurityInfoByURLA",
+      "ordinal": 307
+    },
+    {
+      "name": "InternetGetSecurityInfoByURLW",
+      "ordinal": 308
+    },
+    {
+      "name": "InternetGoOnline",
+      "ordinal": 309
+    },
+    {
+      "name": "InternetGoOnlineA",
+      "ordinal": 310
+    },
+    {
+      "name": "InternetGoOnlineW",
+      "ordinal": 311
+    },
+    {
+      "name": "InternetHangUp",
+      "ordinal": 312
+    },
+    {
+      "name": "InternetInitializeAutoProxyDll",
+      "ordinal": 313
+    },
+    {
+      "name": "InternetLockRequestFile",
+      "ordinal": 314
+    },
+    {
+      "name": "InternetOpenA",
+      "ordinal": 315
+    },
+    {
+      "name": "InternetOpenUrlA",
+      "ordinal": 316
+    },
+    {
+      "name": "InternetOpenUrlW",
+      "ordinal": 317
+    },
+    {
+      "name": "InternetOpenW",
+      "ordinal": 318
+    },
+    {
+      "name": "InternetQueryDataAvailable",
+      "ordinal": 319
+    },
+    {
+      "name": "InternetQueryFortezzaStatus",
+      "ordinal": 320
+    },
+    {
+      "name": "InternetQueryOptionA",
+      "ordinal": 321
+    },
+    {
+      "name": "InternetQueryOptionW",
+      "ordinal": 322
+    },
+    {
+      "name": "InternetReadFile",
+      "ordinal": 323
+    },
+    {
+      "name": "InternetReadFileExA",
+      "ordinal": 324
+    },
+    {
+      "name": "InternetReadFileExW",
+      "ordinal": 325
+    },
+    {
+      "name": "InternetSecurityProtocolToStringA",
+      "ordinal": 326
+    },
+    {
+      "name": "InternetSecurityProtocolToStringW",
+      "ordinal": 327
+    },
+    {
+      "name": "InternetSetCookieA",
+      "ordinal": 328
+    },
+    {
+      "name": "InternetSetCookieEx2",
+      "ordinal": 329
+    },
+    {
+      "name": "InternetSetCookieExA",
+      "ordinal": 330
+    },
+    {
+      "name": "InternetSetCookieExW",
+      "ordinal": 331
+    },
+    {
+      "name": "InternetSetCookieW",
+      "ordinal": 332
+    },
+    {
+      "name": "InternetSetDialState",
+      "ordinal": 333
+    },
+    {
+      "name": "InternetSetDialStateA",
+      "ordinal": 334
+    },
+    {
+      "name": "InternetSetDialStateW",
+      "ordinal": 335
+    },
+    {
+      "name": "InternetSetFilePointer",
+      "ordinal": 336
+    },
+    {
+      "name": "InternetSetOptionA",
+      "ordinal": 337
+    },
+    {
+      "name": "InternetSetOptionExA",
+      "ordinal": 338
+    },
+    {
+      "name": "InternetSetOptionExW",
+      "ordinal": 339
+    },
+    {
+      "name": "InternetSetOptionW",
+      "ordinal": 340
+    },
+    {
+      "name": "InternetSetPerSiteCookieDecisionA",
+      "ordinal": 341
+    },
+    {
+      "name": "InternetSetPerSiteCookieDecisionW",
+      "ordinal": 342
+    },
+    {
+      "name": "InternetSetStatusCallback",
+      "ordinal": 343
+    },
+    {
+      "name": "InternetSetStatusCallbackA",
+      "ordinal": 344
+    },
+    {
+      "name": "InternetSetStatusCallbackW",
+      "ordinal": 345
+    },
+    {
+      "name": "",
+      "ordinal": 346
+    },
+    {
+      "name": "InternetShowSecurityInfoByURL",
+      "ordinal": 347
+    },
+    {
+      "name": "InternetShowSecurityInfoByURLA",
+      "ordinal": 348
+    },
+    {
+      "name": "InternetShowSecurityInfoByURLW",
+      "ordinal": 349
+    },
+    {
+      "name": "InternetTimeFromSystemTime",
+      "ordinal": 350
+    },
+    {
+      "name": "InternetTimeFromSystemTimeA",
+      "ordinal": 351
+    },
+    {
+      "name": "InternetTimeFromSystemTimeW",
+      "ordinal": 352
+    },
+    {
+      "name": "InternetTimeToSystemTime",
+      "ordinal": 353
+    },
+    {
+      "name": "InternetTimeToSystemTimeA",
+      "ordinal": 354
+    },
+    {
+      "name": "InternetTimeToSystemTimeW",
+      "ordinal": 355
+    },
+    {
+      "name": "InternetUnlockRequestFile",
+      "ordinal": 356
+    },
+    {
+      "name": "InternetWriteFile",
+      "ordinal": 357
+    },
+    {
+      "name": "InternetWriteFileExA",
+      "ordinal": 358
+    },
+    {
+      "name": "InternetWriteFileExW",
+      "ordinal": 359
+    },
+    {
+      "name": "IsHostInProxyBypassList",
+      "ordinal": 360
+    },
+    {
+      "name": "IsUrlCacheEntryExpiredA",
+      "ordinal": 361
+    },
+    {
+      "name": "IsUrlCacheEntryExpiredW",
+      "ordinal": 362
+    },
+    {
+      "name": "LoadUrlCacheContent",
+      "ordinal": 363
+    },
+    {
+      "name": "ParseX509EncodedCertificateForListBoxEntry",
+      "ordinal": 364
+    },
+    {
+      "name": "PrivacyGetZonePreferenceW",
+      "ordinal": 365
+    },
+    {
+      "name": "PrivacySetZonePreferenceW",
+      "ordinal": 366
+    },
+    {
+      "name": "ReadUrlCacheEntryStream",
+      "ordinal": 367
+    },
+    {
+      "name": "ReadUrlCacheEntryStreamEx",
+      "ordinal": 368
+    },
+    {
+      "name": "RegisterUrlCacheNotification",
+      "ordinal": 369
+    },
+    {
+      "name": "ResumeSuspendedDownload",
+      "ordinal": 370
+    },
+    {
+      "name": "RetrieveUrlCacheEntryFileA",
+      "ordinal": 371
+    },
+    {
+      "name": "RetrieveUrlCacheEntryFileW",
+      "ordinal": 372
+    },
+    {
+      "name": "RetrieveUrlCacheEntryStreamA",
+      "ordinal": 373
+    },
+    {
+      "name": "RetrieveUrlCacheEntryStreamW",
+      "ordinal": 374
+    },
+    {
+      "name": "RunOnceUrlCache",
+      "ordinal": 375
+    },
+    {
+      "name": "SetUrlCacheConfigInfoA",
+      "ordinal": 376
+    },
+    {
+      "name": "SetUrlCacheConfigInfoW",
+      "ordinal": 377
+    },
+    {
+      "name": "SetUrlCacheEntryGroup",
+      "ordinal": 378
+    },
+    {
+      "name": "SetUrlCacheEntryGroupA",
+      "ordinal": 379
+    },
+    {
+      "name": "SetUrlCacheEntryGroupW",
+      "ordinal": 380
+    },
+    {
+      "name": "SetUrlCacheEntryInfoA",
+      "ordinal": 381
+    },
+    {
+      "name": "SetUrlCacheEntryInfoW",
+      "ordinal": 382
+    },
+    {
+      "name": "SetUrlCacheGroupAttributeA",
+      "ordinal": 383
+    },
+    {
+      "name": "SetUrlCacheGroupAttributeW",
+      "ordinal": 384
+    },
+    {
+      "name": "SetUrlCacheHeaderData",
+      "ordinal": 385
+    },
+    {
+      "name": "ShowCertificate",
+      "ordinal": 386
+    },
+    {
+      "name": "ShowClientAuthCerts",
+      "ordinal": 387
+    },
+    {
+      "name": "ShowSecurityInfo",
+      "ordinal": 388
+    },
+    {
+      "name": "ShowX509EncodedCertificate",
+      "ordinal": 389
+    },
+    {
+      "name": "UnlockUrlCacheEntryFile",
+      "ordinal": 390
+    },
+    {
+      "name": "UnlockUrlCacheEntryFileA",
+      "ordinal": 391
+    },
+    {
+      "name": "UnlockUrlCacheEntryFileW",
+      "ordinal": 392
+    },
+    {
+      "name": "UnlockUrlCacheEntryStream",
+      "ordinal": 393
+    },
+    {
+      "name": "UpdateUrlCacheContentPath",
+      "ordinal": 394
+    },
+    {
+      "name": "UrlCacheCheckEntriesExist",
+      "ordinal": 395
+    },
+    {
+      "name": "UrlCacheCloseEntryHandle",
+      "ordinal": 396
+    },
+    {
+      "name": "UrlCacheContainerSetEntryMaximumAge",
+      "ordinal": 397
+    },
+    {
+      "name": "UrlCacheCreateContainer",
+      "ordinal": 398
+    },
+    {
+      "name": "UrlCacheFindFirstEntry",
+      "ordinal": 399
+    },
+    {
+      "name": "UrlCacheFindNextEntry",
+      "ordinal": 400
+    },
+    {
+      "name": "",
+      "ordinal": 401
+    },
+    {
+      "name": "",
+      "ordinal": 402
+    },
+    {
+      "name": "",
+      "ordinal": 403
+    },
+    {
+      "name": "UrlCacheFreeEntryInfo",
+      "ordinal": 404
+    },
+    {
+      "name": "UrlCacheFreeGlobalSpace",
+      "ordinal": 405
+    },
+    {
+      "name": "UrlCacheGetContentPaths",
+      "ordinal": 406
+    },
+    {
+      "name": "UrlCacheGetEntryInfo",
+      "ordinal": 407
+    },
+    {
+      "name": "UrlCacheGetGlobalCacheSize",
+      "ordinal": 408
+    },
+    {
+      "name": "UrlCacheGetGlobalLimit",
+      "ordinal": 409
+    },
+    {
+      "name": "",
+      "ordinal": 410
+    },
+    {
+      "name": "",
+      "ordinal": 411
+    },
+    {
+      "name": "UrlCacheReadEntryStream",
+      "ordinal": 412
+    },
+    {
+      "name": "",
+      "ordinal": 413
+    },
+    {
+      "name": "UrlCacheReloadSettings",
+      "ordinal": 414
+    },
+    {
+      "name": "UrlCacheRetrieveEntryFile",
+      "ordinal": 415
+    },
+    {
+      "name": "UrlCacheRetrieveEntryStream",
+      "ordinal": 416
+    },
+    {
+      "name": "UrlCacheServer",
+      "ordinal": 417
+    },
+    {
+      "name": "UrlCacheSetGlobalLimit",
+      "ordinal": 418
+    },
+    {
+      "name": "UrlCacheUpdateEntryExtraData",
+      "ordinal": 419
+    },
+    {
+      "name": "",
+      "ordinal": 420
+    },
+    {
+      "name": "",
+      "ordinal": 421
+    },
+    {
+      "name": "",
+      "ordinal": 422
+    },
+    {
+      "name": "",
+      "ordinal": 423
+    },
+    {
+      "name": "UrlZonesDetach",
+      "ordinal": 424
+    },
+    {
+      "name": "_GetFileExtensionFromUrl",
+      "ordinal": 425
+    }
+  ],
+  "wlanapi.dll": [
+    {
+      "name": "DllCanUnloadNow",
+      "ordinal": 1
+    },
+    {
+      "name": "DllGetClassObject",
+      "ordinal": 2
+    },
+    {
+      "name": "QueryNetconStatus",
+      "ordinal": 3
+    },
+    {
+      "name": "QueryNetconVirtualCharacteristic",
+      "ordinal": 4
+    },
+    {
+      "name": "WFDAbortSessionInt",
+      "ordinal": 5
+    },
+    {
+      "name": "WFDAcceptConnectRequestAndOpenSessionInt",
+      "ordinal": 6
+    },
+    {
+      "name": "WFDAcceptGroupRequestAndOpenSessionInt",
+      "ordinal": 7
+    },
+    {
+      "name": "WFDCancelConnectorPairWithOOB",
+      "ordinal": 8
+    },
+    {
+      "name": "WFDCancelListenerPairWithOOB",
+      "ordinal": 9
+    },
+    {
+      "name": "WFDCancelOpenSession",
+      "ordinal": 10
+    },
+    {
+      "name": "WFDCancelOpenSessionInt",
+      "ordinal": 11
+    },
+    {
+      "name": "WFDCloseHandle",
+      "ordinal": 12
+    },
+    {
+      "name": "WFDCloseHandleInt",
+      "ordinal": 13
+    },
+    {
+      "name": "WFDCloseLegacySessionInt",
+      "ordinal": 14
+    },
+    {
+      "name": "WFDCloseOOBPairingSession",
+      "ordinal": 15
+    },
+    {
+      "name": "WFDCloseSession",
+      "ordinal": 16
+    },
+    {
+      "name": "WFDCloseSessionInt",
+      "ordinal": 17
+    },
+    {
+      "name": "WFDConfigureFirewallForSessionInt",
+      "ordinal": 18
+    },
+    {
+      "name": "WFDCreateDHPrivatePublicKeyPairInt",
+      "ordinal": 19
+    },
+    {
+      "name": "WFDDeclineConnectRequestInt",
+      "ordinal": 20
+    },
+    {
+      "name": "WFDDeclineGroupRequestInt",
+      "ordinal": 21
+    },
+    {
+      "name": "WFDDiscoverDeviceServiceInformationInt",
+      "ordinal": 22
+    },
+    {
+      "name": "WFDDiscoverDevicesExInt",
+      "ordinal": 23
+    },
+    {
+      "name": "WFDDiscoverDevicesInt",
+      "ordinal": 24
+    },
+    {
+      "name": "WFDFlushVisibleDeviceListInt",
+      "ordinal": 25
+    },
+    {
+      "name": "WFDForceDisconnectInt",
+      "ordinal": 26
+    },
+    {
+      "name": "WFDForceDisconnectLegacyPeerInt",
+      "ordinal": 27
+    },
+    {
+      "name": "WFDFreeMemoryInt",
+      "ordinal": 28
+    },
+    {
+      "name": "WFDGetDefaultGroupProfileInt",
+      "ordinal": 29
+    },
+    {
+      "name": "WFDGetDeviceDescriptorForPendingRequestInt",
+      "ordinal": 30
+    },
+    {
+      "name": "WFDGetNFCCarrierConfigBlobInt",
+      "ordinal": 31
+    },
+    {
+      "name": "WFDGetOOBBlob",
+      "ordinal": 32
+    },
+    {
+      "name": "WFDGetPrimaryAdapterStateInt",
+      "ordinal": 33
+    },
+    {
+      "name": "WFDGetProfileKeyInfoInt",
+      "ordinal": 34
+    },
+    {
+      "name": "WFDGetSessionEndpointPairsInt",
+      "ordinal": 35
+    },
+    {
+      "name": "WFDGetVisibleDevicesExInt",
+      "ordinal": 36
+    },
+    {
+      "name": "WFDGetVisibleDevicesInt",
+      "ordinal": 37
+    },
+    {
+      "name": "WFDIsInterfaceWiFiDirect",
+      "ordinal": 38
+    },
+    {
+      "name": "WFDIsWiFiDirectRunningOnWiFiAdapter",
+      "ordinal": 39
+    },
+    {
+      "name": "WFDLowPrivCancelOpenSessionInt",
+      "ordinal": 40
+    },
+    {
+      "name": "WFDLowPrivCloseHandleInt",
+      "ordinal": 41
+    },
+    {
+      "name": "WFDLowPrivCloseLegacySessionInt",
+      "ordinal": 42
+    },
+    {
+      "name": "WFDLowPrivCloseSessionInt",
+      "ordinal": 43
+    },
+    {
+      "name": "WFDLowPrivConfigureFirewallForSessionInt",
+      "ordinal": 44
+    },
+    {
+      "name": "WFDLowPrivDeclineDeviceApiConnectionRequestInt",
+      "ordinal": 45
+    },
+    {
+      "name": "WFDLowPrivGetPendingGroupRequestDetailsInt",
+      "ordinal": 46
+    },
+    {
+      "name": "WFDLowPrivGetSessionEndpointPairsInt",
+      "ordinal": 47
+    },
+    {
+      "name": "WFDLowPrivIsWfdSupportedInt",
+      "ordinal": 48
+    },
+    {
+      "name": "WFDLowPrivOpenHandleInt",
+      "ordinal": 49
+    },
+    {
+      "name": "WFDLowPrivOpenLegacySessionInt",
+      "ordinal": 50
+    },
+    {
+      "name": "WFDLowPrivOpenSessionByDafObjectIdInt",
+      "ordinal": 51
+    },
+    {
+      "name": "WFDLowPrivQueryPropertyInt",
+      "ordinal": 52
+    },
+    {
+      "name": "WFDLowPrivRegisterNotificationInt",
+      "ordinal": 53
+    },
+    {
+      "name": "WFDLowPrivRegisterVMgrCallerInt",
+      "ordinal": 54
+    },
+    {
+      "name": "WFDLowPrivSetPropertyInt",
+      "ordinal": 55
+    },
+    {
+      "name": "WFDLowPrivStartDeviceApiConnectionRequestListenerInt",
+      "ordinal": 56
+    },
+    {
+      "name": "WFDLowPrivStartUsingGroupInt",
+      "ordinal": 57
+    },
+    {
+      "name": "WFDLowPrivStopDeviceApiConnectionRequestListenerInt",
+      "ordinal": 58
+    },
+    {
+      "name": "WFDLowPrivStopUsingGroupInt",
+      "ordinal": 59
+    },
+    {
+      "name": "WFDLowPrivUnregisterVMgrCallerInt",
+      "ordinal": 60
+    },
+    {
+      "name": "WFDOpenHandle",
+      "ordinal": 61
+    },
+    {
+      "name": "WFDOpenHandleInt",
+      "ordinal": 62
+    },
+    {
+      "name": "WFDOpenLegacySession",
+      "ordinal": 63
+    },
+    {
+      "name": "WFDOpenLegacySessionInt",
+      "ordinal": 64
+    },
+    {
+      "name": "WFDPairCancelByDeviceAddressInt",
+      "ordinal": 65
+    },
+    {
+      "name": "WFDPairCancelInt",
+      "ordinal": 66
+    },
+    {
+      "name": "WFDPairContinuePairWithDeviceInt",
+      "ordinal": 67
+    },
+    {
+      "name": "WFDPairEnumerateCeremoniesInt",
+      "ordinal": 68
+    },
+    {
+      "name": "WFDPairSelectCeremonyInt",
+      "ordinal": 69
+    },
+    {
+      "name": "WFDPairWithDeviceAndOpenSessionExInt",
+      "ordinal": 70
+    },
+    {
+      "name": "WFDPairWithDeviceAndOpenSessionInt",
+      "ordinal": 71
+    },
+    {
+      "name": "WFDParseOOBBlob",
+      "ordinal": 72
+    },
+    {
+      "name": "WFDParseOOBBlobTypeAndGetPayloadInt",
+      "ordinal": 73
+    },
+    {
+      "name": "WFDParseProfileXmlInt",
+      "ordinal": 74
+    },
+    {
+      "name": "WFDParseWfaNfcCarrierConfigBlobInt",
+      "ordinal": 75
+    },
+    {
+      "name": "WFDQueryPropertyInt",
+      "ordinal": 76
+    },
+    {
+      "name": "WFDRegisterNotificationInt",
+      "ordinal": 77
+    },
+    {
+      "name": "WFDRegisterVMgrCallerInt",
+      "ordinal": 78
+    },
+    {
+      "name": "WFDResetSelectedWfdMgrInt",
+      "ordinal": 79
+    },
+    {
+      "name": "WFDSetAdditionalIEsInt",
+      "ordinal": 80
+    },
+    {
+      "name": "WFDSetPropertyInt",
+      "ordinal": 81
+    },
+    {
+      "name": "WFDSetSecondaryDeviceTypeListInt",
+      "ordinal": 82
+    },
+    {
+      "name": "WFDSetSelectedWfdMgrInt",
+      "ordinal": 83
+    },
+    {
+      "name": "WFDStartBackgroundDiscoveryInt",
+      "ordinal": 84
+    },
+    {
+      "name": "WFDStartConnectorPairWithOOB",
+      "ordinal": 85
+    },
+    {
+      "name": "WFDStartListenerPairWithOOB",
+      "ordinal": 86
+    },
+    {
+      "name": "WFDStartOffloadedDiscoveryInt",
+      "ordinal": 87
+    },
+    {
+      "name": "WFDStartOpenSession",
+      "ordinal": 88
+    },
+    {
+      "name": "WFDStartOpenSessionInt",
+      "ordinal": 89
+    },
+    {
+      "name": "WFDStartUsingGroupExInt",
+      "ordinal": 90
+    },
+    {
+      "name": "WFDStartUsingGroupInt",
+      "ordinal": 91
+    },
+    {
+      "name": "WFDStopBackgroundDiscoveryInt",
+      "ordinal": 92
+    },
+    {
+      "name": "WFDStopDiscoverDevicesExInt",
+      "ordinal": 93
+    },
+    {
+      "name": "WFDStopDiscoverDevicesInt",
+      "ordinal": 94
+    },
+    {
+      "name": "WFDStopOffloadedDiscoveryInt",
+      "ordinal": 95
+    },
+    {
+      "name": "WFDStopUsingGroupInt",
+      "ordinal": 96
+    },
+    {
+      "name": "WFDSvcLowPrivAcceptSessionInt",
+      "ordinal": 97
+    },
+    {
+      "name": "WFDSvcLowPrivCancelSessionInt",
+      "ordinal": 98
+    },
+    {
+      "name": "WFDSvcLowPrivCloseSessionInt",
+      "ordinal": 99
+    },
+    {
+      "name": "WFDSvcLowPrivConfigureSessionInt",
+      "ordinal": 100
+    },
+    {
+      "name": "WFDSvcLowPrivConnectSessionInt",
+      "ordinal": 101
+    },
+    {
+      "name": "WFDSvcLowPrivGetProvisioningInfoInt",
+      "ordinal": 102
+    },
+    {
+      "name": "WFDSvcLowPrivGetSessionEndpointPairsInt",
+      "ordinal": 103
+    },
+    {
+      "name": "WFDSvcLowPrivOpenAdvertiserSessionInt",
+      "ordinal": 104
+    },
+    {
+      "name": "WFDSvcLowPrivOpenSeekerSessionInt",
+      "ordinal": 105
+    },
+    {
+      "name": "WFDSvcLowPrivPublishServiceInt",
+      "ordinal": 106
+    },
+    {
+      "name": "WFDSvcLowPrivUnpublishServiceInt",
+      "ordinal": 107
+    },
+    {
+      "name": "WFDUnregisterVMgrCallerInt",
+      "ordinal": 108
+    },
+    {
+      "name": "WFDUpdateDeviceVisibility",
+      "ordinal": 109
+    },
+    {
+      "name": "WiFiDisplayResetSinkStateInt",
+      "ordinal": 110
+    },
+    {
+      "name": "WiFiDisplaySetSinkClientHandleInt",
+      "ordinal": 111
+    },
+    {
+      "name": "WiFiDisplaySetSinkStateInt",
+      "ordinal": 112
+    },
+    {
+      "name": "WlanAllocateMemory",
+      "ordinal": 113
+    },
+    {
+      "name": "WlanCancelPlap",
+      "ordinal": 114
+    },
+    {
+      "name": "WlanCloseHandle",
+      "ordinal": 115
+    },
+    {
+      "name": "WlanConnect",
+      "ordinal": 116
+    },
+    {
+      "name": "WlanConnectEx",
+      "ordinal": 117
+    },
+    {
+      "name": "WlanConnectWithInput",
+      "ordinal": 118
+    },
+    {
+      "name": "WlanDeinitPlapParams",
+      "ordinal": 119
+    },
+    {
+      "name": "WlanDeleteProfile",
+      "ordinal": 120
+    },
+    {
+      "name": "WlanDeviceServiceCommand",
+      "ordinal": 121
+    },
+    {
+      "name": "WlanDisconnect",
+      "ordinal": 122
+    },
+    {
+      "name": "WlanDoPlap",
+      "ordinal": 123
+    },
+    {
+      "name": "WlanDoesBssMatchSecurity",
+      "ordinal": 124
+    },
+    {
+      "name": "WlanEnumAllInterfaces",
+      "ordinal": 125
+    },
+    {
+      "name": "WlanEnumInterfaces",
+      "ordinal": 126
+    },
+    {
+      "name": "WlanExtractPsdIEDataList",
+      "ordinal": 127
+    },
+    {
+      "name": "WlanFreeMemory",
+      "ordinal": 128
+    },
+    {
+      "name": "WlanGenerateProfileXmlBasicSettings",
+      "ordinal": 129
+    },
+    {
+      "name": "WlanGetAvailableNetworkList2",
+      "ordinal": 130
+    },
+    {
+      "name": "WlanGetAvailableNetworkList",
+      "ordinal": 131
+    },
+    {
+      "name": "WlanGetFilterList",
+      "ordinal": 132
+    },
+    {
+      "name": "WlanGetInterfaceCapability",
+      "ordinal": 133
+    },
+    {
+      "name": "WlanGetMFPNegotiated",
+      "ordinal": 134
+    },
+    {
+      "name": "WlanGetNetworkBssList",
+      "ordinal": 135
+    },
+    {
+      "name": "WlanGetProfile",
+      "ordinal": 136
+    },
+    {
+      "name": "WlanGetProfileCustomUserData",
+      "ordinal": 137
+    },
+    {
+      "name": "WlanGetProfileEapUserDataInfo",
+      "ordinal": 138
+    },
+    {
+      "name": "WlanGetProfileIndex",
+      "ordinal": 139
+    },
+    {
+      "name": "WlanGetProfileKeyInfo",
+      "ordinal": 140
+    },
+    {
+      "name": "WlanGetProfileList",
+      "ordinal": 141
+    },
+    {
+      "name": "WlanGetProfileMetadata",
+      "ordinal": 142
+    },
+    {
+      "name": "WlanGetProfileMetadataWithProfileGuid",
+      "ordinal": 143
+    },
+    {
+      "name": "WlanGetProfileSsidList",
+      "ordinal": 144
+    },
+    {
+      "name": "WlanGetRadioInformation",
+      "ordinal": 145
+    },
+    {
+      "name": "WlanGetSecuritySettings",
+      "ordinal": 146
+    },
+    {
+      "name": "WlanGetStoredRadioState",
+      "ordinal": 147
+    },
+    {
+      "name": "WlanGetSupportedDeviceServices",
+      "ordinal": 148
+    },
+    {
+      "name": "WlanHostedNetworkForceStart",
+      "ordinal": 149
+    },
+    {
+      "name": "WlanHostedNetworkForceStop",
+      "ordinal": 150
+    },
+    {
+      "name": "WlanHostedNetworkFreeWCNSettings",
+      "ordinal": 151
+    },
+    {
+      "name": "WlanHostedNetworkHlpQueryEverUsed",
+      "ordinal": 152
+    },
+    {
+      "name": "WlanHostedNetworkInitSettings",
+      "ordinal": 153
+    },
+    {
+      "name": "WlanHostedNetworkQueryProperty",
+      "ordinal": 154
+    },
+    {
+      "name": "WlanHostedNetworkQuerySecondaryKey",
+      "ordinal": 155
+    },
+    {
+      "name": "WlanHostedNetworkQueryStatus",
+      "ordinal": 156
+    },
+    {
+      "name": "WlanHostedNetworkQueryWCNSettings",
+      "ordinal": 157
+    },
+    {
+      "name": "WlanHostedNetworkRefreshSecuritySettings",
+      "ordinal": 158
+    },
+    {
+      "name": "WlanHostedNetworkSetProperty",
+      "ordinal": 159
+    },
+    {
+      "name": "WlanHostedNetworkSetSecondaryKey",
+      "ordinal": 160
+    },
+    {
+      "name": "WlanHostedNetworkSetWCNSettings",
+      "ordinal": 161
+    },
+    {
+      "name": "WlanHostedNetworkStartUsing",
+      "ordinal": 162
+    },
+    {
+      "name": "WlanHostedNetworkStopUsing",
+      "ordinal": 163
+    },
+    {
+      "name": "WlanIhvControl",
+      "ordinal": 164
+    },
+    {
+      "name": "WlanInitPlapParams",
+      "ordinal": 165
+    },
+    {
+      "name": "WlanInternalNonDisruptiveScan",
+      "ordinal": 166
+    },
+    {
+      "name": "WlanInternalScan",
+      "ordinal": 167
+    },
+    {
+      "name": "WlanIsActiveConsoleUser",
+      "ordinal": 168
+    },
+    {
+      "name": "WlanIsNetworkSuppressed",
+      "ordinal": 169
+    },
+    {
+      "name": "WlanIsUIRequestPending",
+      "ordinal": 170
+    },
+    {
+      "name": "WlanLowPrivCloseHandle",
+      "ordinal": 171
+    },
+    {
+      "name": "WlanLowPrivEnumInterfaces",
+      "ordinal": 172
+    },
+    {
+      "name": "WlanLowPrivFreeMemory",
+      "ordinal": 173
+    },
+    {
+      "name": "WlanLowPrivNotifyVsIeProviderInt",
+      "ordinal": 174
+    },
+    {
+      "name": "WlanLowPrivOpenHandle",
+      "ordinal": 175
+    },
+    {
+      "name": "WlanLowPrivQueryInterface",
+      "ordinal": 176
+    },
+    {
+      "name": "WlanLowPrivSetInterface",
+      "ordinal": 177
+    },
+    {
+      "name": "WlanNotifyVsIeProviderExInt",
+      "ordinal": 178
+    },
+    {
+      "name": "WlanNotifyVsIeProviderInt",
+      "ordinal": 179
+    },
+    {
+      "name": "WlanOpenHandle",
+      "ordinal": 180
+    },
+    {
+      "name": "WlanParseProfileXmlBasicSettings",
+      "ordinal": 181
+    },
+    {
+      "name": "WlanPrivateClearAnqpCache",
+      "ordinal": 182
+    },
+    {
+      "name": "WlanPrivateEnableAnqpOsuRegistration",
+      "ordinal": 183
+    },
+    {
+      "name": "WlanPrivateGetAnqpCacheResponse",
+      "ordinal": 184
+    },
+    {
+      "name": "WlanPrivateGetAnqpOSUProviderList",
+      "ordinal": 185
+    },
+    {
+      "name": "WlanPrivateGetAnqpOsuRegistrationStatus",
+      "ordinal": 186
+    },
+    {
+      "name": "WlanPrivateGetAvailableNetworkList",
+      "ordinal": 187
+    },
+    {
+      "name": "WlanPrivateParseAnqpRawData",
+      "ordinal": 188
+    },
+    {
+      "name": "WlanPrivateQuery11adPairedConfig",
+      "ordinal": 189
+    },
+    {
+      "name": "WlanPrivateQueryInterface",
+      "ordinal": 190
+    },
+    {
+      "name": "WlanPrivateRefreshAnqpCache",
+      "ordinal": 191
+    },
+    {
+      "name": "WlanPrivateSetInterface",
+      "ordinal": 192
+    },
+    {
+      "name": "WlanQueryAutoConfigParameter",
+      "ordinal": 193
+    },
+    {
+      "name": "WlanQueryCreateAllUserProfileRestricted",
+      "ordinal": 194
+    },
+    {
+      "name": "WlanQueryInterface",
+      "ordinal": 195
+    },
+    {
+      "name": "WlanQueryPlapCredentials",
+      "ordinal": 196
+    },
+    {
+      "name": "WlanQueryPreConnectInput",
+      "ordinal": 197
+    },
+    {
+      "name": "WlanQueryVirtualInterfaceType",
+      "ordinal": 198
+    },
+    {
+      "name": "WlanReasonCodeToString",
+      "ordinal": 199
+    },
+    {
+      "name": "WlanRefreshConnections",
+      "ordinal": 200
+    },
+    {
+      "name": "WlanRegisterNotification",
+      "ordinal": 201
+    },
+    {
+      "name": "WlanRegisterVirtualStationNotification",
+      "ordinal": 202
+    },
+    {
+      "name": "WlanRemoveUIForwardingNetworkList",
+      "ordinal": 203
+    },
+    {
+      "name": "WlanRenameProfile",
+      "ordinal": 204
+    },
+    {
+      "name": "WlanSaveTemporaryProfile",
+      "ordinal": 205
+    },
+    {
+      "name": "WlanScan",
+      "ordinal": 206
+    },
+    {
+      "name": "WlanSendUIResponse",
+      "ordinal": 207
+    },
+    {
+      "name": "WlanSetAllUserProfileRestricted",
+      "ordinal": 208
+    },
+    {
+      "name": "WlanSetAutoConfigParameter",
+      "ordinal": 209
+    },
+    {
+      "name": "WlanSetFilterList",
+      "ordinal": 210
+    },
+    {
+      "name": "WlanSetInterface",
+      "ordinal": 211
+    },
+    {
+      "name": "WlanSetProfile",
+      "ordinal": 212
+    },
+    {
+      "name": "WlanSetProfileCustomUserData",
+      "ordinal": 213
+    },
+    {
+      "name": "WlanSetProfileEapUserData",
+      "ordinal": 214
+    },
+    {
+      "name": "WlanSetProfileEapXmlUserData",
+      "ordinal": 215
+    },
+    {
+      "name": "WlanSetProfileList",
+      "ordinal": 216
+    },
+    {
+      "name": "WlanSetProfileListForOffload",
+      "ordinal": 217
+    },
+    {
+      "name": "WlanSetProfileMetadata",
+      "ordinal": 218
+    },
+    {
+      "name": "WlanSetProfilePosition",
+      "ordinal": 219
+    },
+    {
+      "name": "WlanSetPsdIEDataList",
+      "ordinal": 220
+    },
+    {
+      "name": "WlanSetSecuritySettings",
+      "ordinal": 221
+    },
+    {
+      "name": "WlanSetUIForwardingNetworkList",
+      "ordinal": 222
+    },
+    {
+      "name": "WlanSignalValueToBar",
+      "ordinal": 223
+    },
+    {
+      "name": "WlanSignalValueToBarEx",
+      "ordinal": 224
+    },
+    {
+      "name": "WlanSsidToDisplayName",
+      "ordinal": 225
+    },
+    {
+      "name": "WlanStartAP",
+      "ordinal": 226
+    },
+    {
+      "name": "WlanStopAP",
+      "ordinal": 227
+    },
+    {
+      "name": "WlanStoreRadioStateOnEnteringAirPlaneMode",
+      "ordinal": 228
+    },
+    {
+      "name": "WlanStringToSsid",
+      "ordinal": 229
+    },
+    {
+      "name": "WlanStringToUtf8Ssid",
+      "ordinal": 230
+    },
+    {
+      "name": "WlanTryUpgradeCurrentConnectionAuthCipher",
+      "ordinal": 231
+    },
+    {
+      "name": "WlanUpdateBasicProfileSecurity",
+      "ordinal": 232
+    },
+    {
+      "name": "WlanUpdateProfileWithAuthCipher",
+      "ordinal": 233
+    },
+    {
+      "name": "WlanUtf8SsidToDisplayName",
+      "ordinal": 234
+    },
+    {
+      "name": "WlanVMgrQueryCurrentScenariosInt",
+      "ordinal": 235
+    },
+    {
+      "name": "WlanWcmDisconnect",
+      "ordinal": 236
+    },
+    {
+      "name": "WlanWcmGetInterface",
+      "ordinal": 237
+    },
+    {
+      "name": "WlanWcmGetProfileList",
+      "ordinal": 238
+    },
+    {
+      "name": "WlanWcmSetInterface",
+      "ordinal": 239
+    },
+    {
+      "name": "WlanWcmSetProfile",
+      "ordinal": 240
+    },
+    {
+      "name": "WlanWfdGOSetWCNSettings",
+      "ordinal": 241
+    },
+    {
+      "name": "WlanWfdGetPeerInfo",
+      "ordinal": 242
+    },
+    {
+      "name": "WlanWfdStartGO",
+      "ordinal": 243
+    },
+    {
+      "name": "WlanWfdStopGO",
+      "ordinal": 244
+    }
+  ],
+  "wsock32.dll": [
+    {
+      "name": "accept",
+      "ordinal": 1
+    },
+    {
+      "name": "bind",
+      "ordinal": 2
+    },
+    {
+      "name": "closesocket",
+      "ordinal": 3
+    },
+    {
+      "name": "connect",
+      "ordinal": 4
+    },
+    {
+      "name": "getpeername",
+      "ordinal": 5
+    },
+    {
+      "name": "getsockname",
+      "ordinal": 6
+    },
+    {
+      "name": "getsockopt",
+      "ordinal": 7
+    },
+    {
+      "name": "htonl",
+      "ordinal": 8
+    },
+    {
+      "name": "htons",
+      "ordinal": 9
+    },
+    {
+      "name": "inet_addr",
+      "ordinal": 10
+    },
+    {
+      "name": "inet_ntoa",
+      "ordinal": 11
+    },
+    {
+      "name": "ioctlsocket",
+      "ordinal": 12
+    },
+    {
+      "name": "listen",
+      "ordinal": 13
+    },
+    {
+      "name": "ntohl",
+      "ordinal": 14
+    },
+    {
+      "name": "ntohs",
+      "ordinal": 15
+    },
+    {
+      "name": "recv",
+      "ordinal": 16
+    },
+    {
+      "name": "recvfrom",
+      "ordinal": 17
+    },
+    {
+      "name": "select",
+      "ordinal": 18
+    },
+    {
+      "name": "send",
+      "ordinal": 19
+    },
+    {
+      "name": "sendto",
+      "ordinal": 20
+    },
+    {
+      "name": "setsockopt",
+      "ordinal": 21
+    },
+    {
+      "name": "shutdown",
+      "ordinal": 22
+    },
+    {
+      "name": "socket",
+      "ordinal": 23
+    },
+    {
+      "name": "MigrateWinsockConfiguration",
+      "ordinal": 24
+    },
+    {
+      "name": "gethostbyaddr",
+      "ordinal": 51
+    },
+    {
+      "name": "gethostbyname",
+      "ordinal": 52
+    },
+    {
+      "name": "getprotobyname",
+      "ordinal": 53
+    },
+    {
+      "name": "getprotobynumber",
+      "ordinal": 54
+    },
+    {
+      "name": "getservbyname",
+      "ordinal": 55
+    },
+    {
+      "name": "getservbyport",
+      "ordinal": 56
+    },
+    {
+      "name": "gethostname",
+      "ordinal": 57
+    },
+    {
+      "name": "WSAAsyncSelect",
+      "ordinal": 101
+    },
+    {
+      "name": "WSAAsyncGetHostByAddr",
+      "ordinal": 102
+    },
+    {
+      "name": "WSAAsyncGetHostByName",
+      "ordinal": 103
+    },
+    {
+      "name": "WSAAsyncGetProtoByNumber",
+      "ordinal": 104
+    },
+    {
+      "name": "WSAAsyncGetProtoByName",
+      "ordinal": 105
+    },
+    {
+      "name": "WSAAsyncGetServByPort",
+      "ordinal": 106
+    },
+    {
+      "name": "WSAAsyncGetServByName",
+      "ordinal": 107
+    },
+    {
+      "name": "WSACancelAsyncRequest",
+      "ordinal": 108
+    },
+    {
+      "name": "WSASetBlockingHook",
+      "ordinal": 109
+    },
+    {
+      "name": "WSAUnhookBlockingHook",
+      "ordinal": 110
+    },
+    {
+      "name": "WSAGetLastError",
+      "ordinal": 111
+    },
+    {
+      "name": "WSASetLastError",
+      "ordinal": 112
+    },
+    {
+      "name": "WSACancelBlockingCall",
+      "ordinal": 113
+    },
+    {
+      "name": "WSAIsBlocking",
+      "ordinal": 114
+    },
+    {
+      "name": "WSAStartup",
+      "ordinal": 115
+    },
+    {
+      "name": "WSACleanup",
+      "ordinal": 116
+    },
+    {
+      "name": "__WSAFDIsSet",
+      "ordinal": 151
+    },
+    {
+      "name": "WEP",
+      "ordinal": 500
+    },
+    {
+      "name": "WSApSetPostRoutine",
+      "ordinal": 1000
+    },
+    {
+      "name": "inet_network",
+      "ordinal": 1100
+    },
+    {
+      "name": "getnetbyname",
+      "ordinal": 1101
+    },
+    {
+      "name": "rcmd",
+      "ordinal": 1102
+    },
+    {
+      "name": "rexec",
+      "ordinal": 1103
+    },
+    {
+      "name": "rresvport",
+      "ordinal": 1104
+    },
+    {
+      "name": "sethostname",
+      "ordinal": 1105
+    },
+    {
+      "name": "dn_expand",
+      "ordinal": 1106
+    },
+    {
+      "name": "WSARecvEx",
+      "ordinal": 1107
+    },
+    {
+      "name": "s_perror",
+      "ordinal": 1108
+    },
+    {
+      "name": "GetAddressByNameA",
+      "ordinal": 1109
+    },
+    {
+      "name": "GetAddressByNameW",
+      "ordinal": 1110
+    },
+    {
+      "name": "EnumProtocolsA",
+      "ordinal": 1111
+    },
+    {
+      "name": "EnumProtocolsW",
+      "ordinal": 1112
+    },
+    {
+      "name": "GetTypeByNameA",
+      "ordinal": 1113
+    },
+    {
+      "name": "GetTypeByNameW",
+      "ordinal": 1114
+    },
+    {
+      "name": "GetNameByTypeA",
+      "ordinal": 1115
+    },
+    {
+      "name": "GetNameByTypeW",
+      "ordinal": 1116
+    },
+    {
+      "name": "SetServiceA",
+      "ordinal": 1117
+    },
+    {
+      "name": "SetServiceW",
+      "ordinal": 1118
+    },
+    {
+      "name": "GetServiceA",
+      "ordinal": 1119
+    },
+    {
+      "name": "GetServiceW",
+      "ordinal": 1120
+    },
+    {
+      "name": "NPLoadNameSpaces",
+      "ordinal": 1130
+    },
+    {
+      "name": "TransmitFile",
+      "ordinal": 1140
+    },
+    {
+      "name": "AcceptEx",
+      "ordinal": 1141
+    },
+    {
+      "name": "GetAcceptExSockaddrs",
+      "ordinal": 1142
+    }
+  ]
+}

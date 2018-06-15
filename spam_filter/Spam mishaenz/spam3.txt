@@ -1,0 +1,51 @@
+Received: from mxfront10o.mail.yandex.net ([127.0.0.1]) by
+ mxfront10o.mail.yandex.net with LMTP id 0kXk1J9j for <mishaenz@yandex.ru>;
+ Wed, 8 Nov 2017 23:52:26 +0300
+Received: from s276973735.mialojamiento.es (s276973735.mialojamiento.es
+ [87.106.19.80]) by mxfront10o.mail.yandex.net (nwsmtp/Yandex) with ESMTPS id
+ LsvOkKPNDS-qP98cWjM; Wed, 08 Nov 2017 23:52:25 +0300 (using TLSv1.2 with
+ cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits)) (Client certificate not
+ present)
+Return-path: info@estudio1gato.es
+X-Yandex-Front: mxfront10o.mail.yandex.net
+X-Yandex-TimeMark: 1510174345
+X-Yandex-Spam: 4
+Received: from [127.0.0.1] (helo=infongd-eu3554.rtr.kundenserver.de) by
+ s276973735.mialojamiento.es with esmtp (Exim 4.84_2) (envelope-from
+ <info@estudio1gato.es>) id 1eCXAD-0000SB-WF for mishaenz@yandex.ru; Wed, 08
+ Nov 2017 21:41:34 +0100
+Received: from 5.188.150.232 (IP may be forged by CGI script) by
+ infongd-eu3554.rtr.kundenserver.de with HTTP id 0Yv5Gd-1efqds48QX-00U5Uu; Wed,
+ 08 Nov 2017 21:41:33 +0100
+X-Sender-Info: <276973714@infongd-eu3554.rtr.kundenserver.de>
+Precedence: bulk
+X-Apache-Env: www-ip="NS4xODguMTUwLjIzMg==";helo="aW5mb25nZC1ldT M1NTQucnRyLmt1bmRlbnNlcnZlci5kZQ==";script="L2t1bm Rlbi9ob21lcGFnZXMvMzUvZDI3Njk3MzcxNC9odGRvY3MvRHlE L2luZGV4LnBocA=="
+To: mishaenz@yandex.ru
+Subject: Copia de: JcCk4hMnbK
+Date: Thu, 09 Nov 2017 00:41:33 +0400
+From: =?utf-8?Q?D&D_Centro_M=C3=A9dico_Est=C3=A9t?=
+ =?utf-8?Q?ico?=
+ <info@estudio1gato.es>
+Reply-To: =?utf-8?B?0JDQvdGO0YLQsA==?= <mishaenz@yandex.ru>
+Message-ID: <00afc5d094fec11ae7b0d885d8253662@centromedicoestetico.eu>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+X-Yandex-Forward: 8b4f39beed19eb214a31e79ec25bbaf0
+
+Esta es una copia del siguiente mensaje que has enviado a  a través de D&D Centro Médico Estético
+
+Esta es una pregunta por e-mail a través de http://centromedicoestetico.eu/ de:
+Анюта <mishaenz@yandex.ru>
+
+🤖
+Средства по Вашему договору переведены по указанным Вами реквизитам:
+Спасибо, что обратились.
+Способ перечисления средств: RBK Money
+Номер счета - 445549779413435
+Номер договора: 3682123
+Сумма: 15 438,68 €
+Дата: 29.07.2017г.
+Детали - https://pushstat.sendpulse.com/pushurls/188606/NTcxMzg1/9b45950026f7d6f21bd058753ccb9755/7c977009d5861eebb711656eb7d87a74

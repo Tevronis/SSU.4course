@@ -1,0 +1,34 @@
+Delivered-To: evgenia5852@mail.ru
+Return-path: <noreply@fotostrana.ru>
+Authentication-Results: mxs.mail.ru; spf=pass (mx215.i.mail.ru: domain of fotostrana.ru designates 185.5.72.83 as permitted sender) smtp.mailfrom=noreply@fotostrana.ru smtp.helo=script-server.fotostrana.ru;
+	 dkim=pass header.d=fotostrana.ru
+Received-SPF: pass (mx215.i.mail.ru: domain of fotostrana.ru designates 185.5.72.83 as permitted sender) client-ip=185.5.72.83; envelope-from=noreply@fotostrana.ru; helo=script-server.fotostrana.ru;
+Received: from fsa-83.addr.fotocdn.net ([185.5.72.83]:25359 helo=script-server.fotostrana.ru)
+	by mx215.i.mail.ru with esmtp (envelope-from <noreply@fotostrana.ru>)
+	id 1eEi7O-0007Fy-EX
+	for evgenia5852@mail.ru; Tue, 14 Nov 2017 23:47:38 +0300
+Received: from 127.0.0.1 (cron-15.fs.local [10.13.179.30])
+	by script-server.fotostrana.ru (Postfix) with ESMTP id 2C532C80D96
+	for <evgenia5852@mail.ru>; Tue, 14 Nov 2017 23:46:46 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=fotostrana.ru;
+	s=default; t=1510692406;
+	bh=zdHWnJjst946CatXvuvmkJVG3XNqJI4/cGflWAYOmeI=;
+	h=From:To:Subject:List-Unsubscribe:Date:From;
+	b=by4GMkIJMXgZZQc8WKD+JRL1th+M85fAju+sD0nVkwv6K0Cs+ekTPz2RMUmD8oEGs
+	 TntH6aeIZJasM67F3zMKn8ldPWCLVgCMIMOORJZAwUj/oyfX6/eoSfHeqzWtN6m6pl
+	 DqSSVHr4effqCMGf1Cqhk+L37aNf3HX8TJVXPdAk=
+From: =?windows-1251?B?1O7y7vHy8ODt4A==?= <noreply@fotostrana.ru>
+To: evgenia5852@mail.ru
+Subject: =?windows-1251?B?yOLg7SDoIOTw8+Po5SDt7uL75SDv4PDt6CDiIOMuIMzu8eri4A==?=
+List-Unsubscribe: <http://fotostrana.ru/profile/index/unsubscribe?u=59809973&t=$2y$04$ZycrVgtataCQA75XuJ0VWurL6350qN.witNFYSp9EN8LsHv7zIHIK&typeId=9798&time=1510692389>
+Message-Id: <1100x9798x0_59809973_fa6a872c767d399ffe231bd@t102.fotostrana.ru>
+X-Mailru-Msgtype: type_9798
+Date: Tue, 14 Nov 2017 23:46:35 +0300
+Content-Type: multipart/alternative; charset="windows-1251";
+ boundary="=_c6adff28613d013c60624d17746bcfc9"
+MIME-Version: 1.0
+X-DMARC-Policy: no
+X-Mailru-Noreply: yes
+X-Mras: OK
+X-Spam: undefined
+X-UBL: Black
